@@ -31,4 +31,8 @@
 |  |
 | ------- |
 | [2363-merge-similar-items](https://github.com/Pradnesh02/LeetCode-/tree/master/2363-merge-similar-items) |
+## Database
+|  |
+| ------- |
+| [0196-delete-duplicate-emails](https://github.com/Pradnesh02/LeetCode-/tree/master/0196-delete-duplicate-emails) |
 <!---LeetCode Topics End-->
