@@ -35,5 +35,6 @@
 |  |
 | ------- |
 | [0196-delete-duplicate-emails](https://github.com/Pradnesh02/LeetCode-/tree/master/0196-delete-duplicate-emails) |
+| [0262-trips-and-users](https://github.com/Pradnesh02/LeetCode-/tree/master/0262-trips-and-users) |
 | [0627-swap-sex-of-employees](https://github.com/Pradnesh02/LeetCode-/tree/master/0627-swap-sex-of-employees) |
 <!---LeetCode Topics End-->
