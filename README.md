@@ -5,10 +5,12 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Pradnesh02/LeetCode-/tree/master/0021-merge-two-sorted-lists) |
+| [0234-palindrome-linked-list](https://github.com/Pradnesh02/LeetCode-/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Pradnesh02/LeetCode-/tree/master/0021-merge-two-sorted-lists) |
+| [0234-palindrome-linked-list](https://github.com/Pradnesh02/LeetCode-/tree/master/0234-palindrome-linked-list) |
 ## Array
 |  |
 | ------- |
@@ -24,6 +26,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/Pradnesh02/LeetCode-/tree/master/0234-palindrome-linked-list) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Pradnesh02/LeetCode-/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 ## Sorting
 |  |
@@ -76,4 +79,8 @@
 |  |
 | ------- |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Pradnesh02/LeetCode-/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
