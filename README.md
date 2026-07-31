@@ -43,6 +43,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Pradnesh02/LeetCode-/tree/master/0009-palindrome-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Pradnesh02/LeetCode-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## String
 |  |
