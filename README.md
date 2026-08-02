@@ -38,6 +38,7 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Pradnesh02/LeetCode-/tree/master/0234-palindrome-linked-list) |
+| [2396-strictly-palindromic-number](https://github.com/Pradnesh02/LeetCode-/tree/master/2396-strictly-palindromic-number) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Pradnesh02/LeetCode-/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 ## Sorting
 |  |
@@ -61,6 +62,7 @@
 | [0464-can-i-win](https://github.com/Pradnesh02/LeetCode-/tree/master/0464-can-i-win) |
 | [0486-predict-the-winner](https://github.com/Pradnesh02/LeetCode-/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Pradnesh02/LeetCode-/tree/master/0877-stone-game) |
+| [2396-strictly-palindromic-number](https://github.com/Pradnesh02/LeetCode-/tree/master/2396-strictly-palindromic-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Pradnesh02/LeetCode-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Pradnesh02/LeetCode-/tree/master/3222-find-the-winning-player-in-coin-game) |
 ## String
@@ -130,4 +132,8 @@
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Pradnesh02/LeetCode-/tree/master/1260-shift-2d-grid) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/Pradnesh02/LeetCode-/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
