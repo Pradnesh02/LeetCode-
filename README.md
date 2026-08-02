@@ -23,6 +23,7 @@
 | [0486-predict-the-winner](https://github.com/Pradnesh02/LeetCode-/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Pradnesh02/LeetCode-/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/Pradnesh02/LeetCode-/tree/master/1260-shift-2d-grid) |
+| [1992-find-all-groups-of-farmland](https://github.com/Pradnesh02/LeetCode-/tree/master/1992-find-all-groups-of-farmland) |
 | [2363-merge-similar-items](https://github.com/Pradnesh02/LeetCode-/tree/master/2363-merge-similar-items) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Pradnesh02/LeetCode-/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Pradnesh02/LeetCode-/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
@@ -138,8 +139,17 @@
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Pradnesh02/LeetCode-/tree/master/1260-shift-2d-grid) |
+| [1992-find-all-groups-of-farmland](https://github.com/Pradnesh02/LeetCode-/tree/master/1992-find-all-groups-of-farmland) |
 ## Brainteaser
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/Pradnesh02/LeetCode-/tree/master/2396-strictly-palindromic-number) |
+## Depth-First Search
+|  |
+| ------- |
+| [1992-find-all-groups-of-farmland](https://github.com/Pradnesh02/LeetCode-/tree/master/1992-find-all-groups-of-farmland) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1992-find-all-groups-of-farmland](https://github.com/Pradnesh02/LeetCode-/tree/master/1992-find-all-groups-of-farmland) |
 <!---LeetCode Topics End-->
