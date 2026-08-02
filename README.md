@@ -27,6 +27,7 @@
 | [1992-find-all-groups-of-farmland](https://github.com/Pradnesh02/LeetCode-/tree/master/1992-find-all-groups-of-farmland) |
 | [2363-merge-similar-items](https://github.com/Pradnesh02/LeetCode-/tree/master/2363-merge-similar-items) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Pradnesh02/LeetCode-/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/Pradnesh02/LeetCode-/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Pradnesh02/LeetCode-/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
 | [3238-find-the-number-of-winning-players](https://github.com/Pradnesh02/LeetCode-/tree/master/3238-find-the-number-of-winning-players) |
 ## Hash Table
@@ -142,6 +143,7 @@
 | [0200-number-of-islands](https://github.com/Pradnesh02/LeetCode-/tree/master/0200-number-of-islands) |
 | [1260-shift-2d-grid](https://github.com/Pradnesh02/LeetCode-/tree/master/1260-shift-2d-grid) |
 | [1992-find-all-groups-of-farmland](https://github.com/Pradnesh02/LeetCode-/tree/master/1992-find-all-groups-of-farmland) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/Pradnesh02/LeetCode-/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## Brainteaser
 |  |
 | ------- |
@@ -151,13 +153,16 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/Pradnesh02/LeetCode-/tree/master/0200-number-of-islands) |
 | [1992-find-all-groups-of-farmland](https://github.com/Pradnesh02/LeetCode-/tree/master/1992-find-all-groups-of-farmland) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/Pradnesh02/LeetCode-/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Pradnesh02/LeetCode-/tree/master/0200-number-of-islands) |
 | [1992-find-all-groups-of-farmland](https://github.com/Pradnesh02/LeetCode-/tree/master/1992-find-all-groups-of-farmland) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/Pradnesh02/LeetCode-/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Pradnesh02/LeetCode-/tree/master/0200-number-of-islands) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/Pradnesh02/LeetCode-/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 <!---LeetCode Topics End-->
