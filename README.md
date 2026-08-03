@@ -27,6 +27,7 @@
 | [0877-stone-game](https://github.com/Pradnesh02/LeetCode-/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/Pradnesh02/LeetCode-/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/Pradnesh02/LeetCode-/tree/master/1260-shift-2d-grid) |
+| [1406-stone-game-iii](https://github.com/Pradnesh02/LeetCode-/tree/master/1406-stone-game-iii) |
 | [1992-find-all-groups-of-farmland](https://github.com/Pradnesh02/LeetCode-/tree/master/1992-find-all-groups-of-farmland) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Pradnesh02/LeetCode-/tree/master/2101-detonate-the-maximum-bombs) |
 | [2258-escape-the-spreading-fire](https://github.com/Pradnesh02/LeetCode-/tree/master/2258-escape-the-spreading-fire) |
@@ -73,6 +74,7 @@
 | [0464-can-i-win](https://github.com/Pradnesh02/LeetCode-/tree/master/0464-can-i-win) |
 | [0486-predict-the-winner](https://github.com/Pradnesh02/LeetCode-/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Pradnesh02/LeetCode-/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Pradnesh02/LeetCode-/tree/master/1406-stone-game-iii) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/Pradnesh02/LeetCode-/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Pradnesh02/LeetCode-/tree/master/2101-detonate-the-maximum-bombs) |
 | [2396-strictly-palindromic-number](https://github.com/Pradnesh02/LeetCode-/tree/master/2396-strictly-palindromic-number) |
@@ -122,12 +124,14 @@
 | [0464-can-i-win](https://github.com/Pradnesh02/LeetCode-/tree/master/0464-can-i-win) |
 | [0486-predict-the-winner](https://github.com/Pradnesh02/LeetCode-/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Pradnesh02/LeetCode-/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Pradnesh02/LeetCode-/tree/master/1406-stone-game-iii) |
 ## Game Theory
 |  |
 | ------- |
 | [0464-can-i-win](https://github.com/Pradnesh02/LeetCode-/tree/master/0464-can-i-win) |
 | [0486-predict-the-winner](https://github.com/Pradnesh02/LeetCode-/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Pradnesh02/LeetCode-/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Pradnesh02/LeetCode-/tree/master/1406-stone-game-iii) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Pradnesh02/LeetCode-/tree/master/3222-find-the-winning-player-in-coin-game) |
 ## Memoization
 |  |
@@ -195,4 +199,12 @@
 |  |
 | ------- |
 | [2101-detonate-the-maximum-bombs](https://github.com/Pradnesh02/LeetCode-/tree/master/2101-detonate-the-maximum-bombs) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Pradnesh02/LeetCode-/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Pradnesh02/LeetCode-/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
