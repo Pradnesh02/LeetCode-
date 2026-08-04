@@ -48,6 +48,7 @@
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Pradnesh02/LeetCode-/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3026-maximum-good-subarray-sum](https://github.com/Pradnesh02/LeetCode-/tree/master/3026-maximum-good-subarray-sum) |
 | [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Pradnesh02/LeetCode-/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Pradnesh02/LeetCode-/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3238-find-the-number-of-winning-players](https://github.com/Pradnesh02/LeetCode-/tree/master/3238-find-the-number-of-winning-players) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Pradnesh02/LeetCode-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3371-identify-the-largest-outlier-in-an-array](https://github.com/Pradnesh02/LeetCode-/tree/master/3371-identify-the-largest-outlier-in-an-array) |
@@ -211,6 +212,7 @@
 | [1992-find-all-groups-of-farmland](https://github.com/Pradnesh02/LeetCode-/tree/master/1992-find-all-groups-of-farmland) |
 | [2258-escape-the-spreading-fire](https://github.com/Pradnesh02/LeetCode-/tree/master/2258-escape-the-spreading-fire) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Pradnesh02/LeetCode-/tree/master/2658-maximum-number-of-fish-in-a-grid) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Pradnesh02/LeetCode-/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 ## Brainteaser
 |  |
 | ------- |
@@ -277,6 +279,7 @@
 | [1140-stone-game-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/1140-stone-game-ii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Pradnesh02/LeetCode-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [3026-maximum-good-subarray-sum](https://github.com/Pradnesh02/LeetCode-/tree/master/3026-maximum-good-subarray-sum) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Pradnesh02/LeetCode-/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Pradnesh02/LeetCode-/tree/master/3312-sorted-gcd-pair-queries) |
 ## Enumeration
 |  |
