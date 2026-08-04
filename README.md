@@ -37,6 +37,7 @@
 | [1260-shift-2d-grid](https://github.com/Pradnesh02/LeetCode-/tree/master/1260-shift-2d-grid) |
 | [1406-stone-game-iii](https://github.com/Pradnesh02/LeetCode-/tree/master/1406-stone-game-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Pradnesh02/LeetCode-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1504-count-submatrices-with-all-ones](https://github.com/Pradnesh02/LeetCode-/tree/master/1504-count-submatrices-with-all-ones) |
 | [1686-stone-game-vi](https://github.com/Pradnesh02/LeetCode-/tree/master/1686-stone-game-vi) |
 | [1992-find-all-groups-of-farmland](https://github.com/Pradnesh02/LeetCode-/tree/master/1992-find-all-groups-of-farmland) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Pradnesh02/LeetCode-/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -166,6 +167,7 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Pradnesh02/LeetCode-/tree/master/0234-palindrome-linked-list) |
+| [1504-count-submatrices-with-all-ones](https://github.com/Pradnesh02/LeetCode-/tree/master/1504-count-submatrices-with-all-ones) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -175,6 +177,7 @@
 | [0877-stone-game](https://github.com/Pradnesh02/LeetCode-/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Pradnesh02/LeetCode-/tree/master/1406-stone-game-iii) |
+| [1504-count-submatrices-with-all-ones](https://github.com/Pradnesh02/LeetCode-/tree/master/1504-count-submatrices-with-all-ones) |
 ## Game Theory
 |  |
 | ------- |
@@ -209,6 +212,7 @@
 | [0695-max-area-of-island](https://github.com/Pradnesh02/LeetCode-/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/Pradnesh02/LeetCode-/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/Pradnesh02/LeetCode-/tree/master/1260-shift-2d-grid) |
+| [1504-count-submatrices-with-all-ones](https://github.com/Pradnesh02/LeetCode-/tree/master/1504-count-submatrices-with-all-ones) |
 | [1992-find-all-groups-of-farmland](https://github.com/Pradnesh02/LeetCode-/tree/master/1992-find-all-groups-of-farmland) |
 | [2258-escape-the-spreading-fire](https://github.com/Pradnesh02/LeetCode-/tree/master/2258-escape-the-spreading-fire) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Pradnesh02/LeetCode-/tree/master/2658-maximum-number-of-fish-in-a-grid) |
@@ -308,4 +312,8 @@
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Pradnesh02/LeetCode-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Pradnesh02/LeetCode-/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Pradnesh02/LeetCode-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1504-count-submatrices-with-all-ones](https://github.com/Pradnesh02/LeetCode-/tree/master/1504-count-submatrices-with-all-ones) |
 <!---LeetCode Topics End-->
