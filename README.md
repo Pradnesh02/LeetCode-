@@ -38,6 +38,7 @@
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Pradnesh02/LeetCode-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1686-stone-game-vi](https://github.com/Pradnesh02/LeetCode-/tree/master/1686-stone-game-vi) |
 | [1992-find-all-groups-of-farmland](https://github.com/Pradnesh02/LeetCode-/tree/master/1992-find-all-groups-of-farmland) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Pradnesh02/LeetCode-/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Pradnesh02/LeetCode-/tree/master/2101-detonate-the-maximum-bombs) |
 | [2258-escape-the-spreading-fire](https://github.com/Pradnesh02/LeetCode-/tree/master/2258-escape-the-spreading-fire) |
 | [2363-merge-similar-items](https://github.com/Pradnesh02/LeetCode-/tree/master/2363-merge-similar-items) |
@@ -122,6 +123,7 @@
 |  |
 | ------- |
 | [1686-stone-game-vi](https://github.com/Pradnesh02/LeetCode-/tree/master/1686-stone-game-vi) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Pradnesh02/LeetCode-/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Pradnesh02/LeetCode-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Backtracking
