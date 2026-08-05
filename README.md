@@ -108,6 +108,7 @@
 | [0009-palindrome-number](https://github.com/Pradnesh02/LeetCode-/tree/master/0009-palindrome-number) |
 | [0043-multiply-strings](https://github.com/Pradnesh02/LeetCode-/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/Pradnesh02/LeetCode-/tree/master/0066-plus-one) |
+| [0096-unique-binary-search-trees](https://github.com/Pradnesh02/LeetCode-/tree/master/0096-unique-binary-search-trees) |
 | [0415-add-strings](https://github.com/Pradnesh02/LeetCode-/tree/master/0415-add-strings) |
 | [0464-can-i-win](https://github.com/Pradnesh02/LeetCode-/tree/master/0464-can-i-win) |
 | [0486-predict-the-winner](https://github.com/Pradnesh02/LeetCode-/tree/master/0486-predict-the-winner) |
@@ -180,6 +181,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Pradnesh02/LeetCode-/tree/master/0053-maximum-subarray) |
+| [0096-unique-binary-search-trees](https://github.com/Pradnesh02/LeetCode-/tree/master/0096-unique-binary-search-trees) |
 | [0464-can-i-win](https://github.com/Pradnesh02/LeetCode-/tree/master/0464-can-i-win) |
 | [0486-predict-the-winner](https://github.com/Pradnesh02/LeetCode-/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Pradnesh02/LeetCode-/tree/master/0877-stone-game) |
@@ -340,17 +342,20 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Pradnesh02/LeetCode-/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/Pradnesh02/LeetCode-/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Pradnesh02/LeetCode-/tree/master/0098-validate-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Pradnesh02/LeetCode-/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Pradnesh02/LeetCode-/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Pradnesh02/LeetCode-/tree/master/0098-validate-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Pradnesh02/LeetCode-/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Pradnesh02/LeetCode-/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/Pradnesh02/LeetCode-/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Pradnesh02/LeetCode-/tree/master/0098-validate-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Pradnesh02/LeetCode-/tree/master/0783-minimum-distance-between-bst-nodes) |
 <!---LeetCode Topics End-->
