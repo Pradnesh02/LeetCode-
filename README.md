@@ -30,6 +30,7 @@
 | [0486-predict-the-winner](https://github.com/Pradnesh02/LeetCode-/tree/master/0486-predict-the-winner) |
 | [0695-max-area-of-island](https://github.com/Pradnesh02/LeetCode-/tree/master/0695-max-area-of-island) |
 | [0877-stone-game](https://github.com/Pradnesh02/LeetCode-/tree/master/0877-stone-game) |
+| [0896-monotonic-array](https://github.com/Pradnesh02/LeetCode-/tree/master/0896-monotonic-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/Pradnesh02/LeetCode-/tree/master/0989-add-to-array-form-of-integer) |
 | [0994-rotting-oranges](https://github.com/Pradnesh02/LeetCode-/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Pradnesh02/LeetCode-/tree/master/1004-max-consecutive-ones-iii) |
