@@ -134,6 +134,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/Pradnesh02/LeetCode-/tree/master/0241-different-ways-to-add-parentheses) |
 | [0415-add-strings](https://github.com/Pradnesh02/LeetCode-/tree/master/0415-add-strings) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Pradnesh02/LeetCode-/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
+| [2232-minimize-result-by-adding-parentheses-to-expression](https://github.com/Pradnesh02/LeetCode-/tree/master/2232-minimize-result-by-adding-parentheses-to-expression) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Pradnesh02/LeetCode-/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/Pradnesh02/LeetCode-/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Pradnesh02/LeetCode-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -316,6 +317,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [2232-minimize-result-by-adding-parentheses-to-expression](https://github.com/Pradnesh02/LeetCode-/tree/master/2232-minimize-result-by-adding-parentheses-to-expression) |
 | [3371-identify-the-largest-outlier-in-an-array](https://github.com/Pradnesh02/LeetCode-/tree/master/3371-identify-the-largest-outlier-in-an-array) |
 ## Combinatorics
 |  |
