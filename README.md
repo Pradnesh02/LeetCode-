@@ -50,6 +50,7 @@
 | [2258-escape-the-spreading-fire](https://github.com/Pradnesh02/LeetCode-/tree/master/2258-escape-the-spreading-fire) |
 | [2363-merge-similar-items](https://github.com/Pradnesh02/LeetCode-/tree/master/2363-merge-similar-items) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/Pradnesh02/LeetCode-/tree/master/2448-minimum-cost-to-make-array-equal) |
+| [2453-destroy-sequential-targets](https://github.com/Pradnesh02/LeetCode-/tree/master/2453-destroy-sequential-targets) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Pradnesh02/LeetCode-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Pradnesh02/LeetCode-/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/Pradnesh02/LeetCode-/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
@@ -72,6 +73,7 @@
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/Pradnesh02/LeetCode-/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [2363-merge-similar-items](https://github.com/Pradnesh02/LeetCode-/tree/master/2363-merge-similar-items) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/Pradnesh02/LeetCode-/tree/master/2423-remove-letter-to-equalize-frequency) |
+| [2453-destroy-sequential-targets](https://github.com/Pradnesh02/LeetCode-/tree/master/2453-destroy-sequential-targets) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Pradnesh02/LeetCode-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Pradnesh02/LeetCode-/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -192,6 +194,7 @@
 | ------- |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/Pradnesh02/LeetCode-/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/Pradnesh02/LeetCode-/tree/master/2423-remove-letter-to-equalize-frequency) |
+| [2453-destroy-sequential-targets](https://github.com/Pradnesh02/LeetCode-/tree/master/2453-destroy-sequential-targets) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3238-find-the-number-of-winning-players](https://github.com/Pradnesh02/LeetCode-/tree/master/3238-find-the-number-of-winning-players) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Pradnesh02/LeetCode-/tree/master/3312-sorted-gcd-pair-queries) |
