@@ -64,6 +64,7 @@
 | [3250-find-the-count-of-monotonic-pairs-i](https://github.com/Pradnesh02/LeetCode-/tree/master/3250-find-the-count-of-monotonic-pairs-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Pradnesh02/LeetCode-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3371-identify-the-largest-outlier-in-an-array](https://github.com/Pradnesh02/LeetCode-/tree/master/3371-identify-the-largest-outlier-in-an-array) |
+| [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/Pradnesh02/LeetCode-/tree/master/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 | [3731-find-missing-elements](https://github.com/Pradnesh02/LeetCode-/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -85,6 +86,7 @@
 | [3238-find-the-number-of-winning-players](https://github.com/Pradnesh02/LeetCode-/tree/master/3238-find-the-number-of-winning-players) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Pradnesh02/LeetCode-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3371-identify-the-largest-outlier-in-an-array](https://github.com/Pradnesh02/LeetCode-/tree/master/3371-identify-the-largest-outlier-in-an-array) |
+| [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/Pradnesh02/LeetCode-/tree/master/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 | [3731-find-missing-elements](https://github.com/Pradnesh02/LeetCode-/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -102,6 +104,7 @@
 | [2448-minimum-cost-to-make-array-equal](https://github.com/Pradnesh02/LeetCode-/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/Pradnesh02/LeetCode-/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/Pradnesh02/LeetCode-/tree/master/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 | [3731-find-missing-elements](https://github.com/Pradnesh02/LeetCode-/tree/master/3731-find-missing-elements) |
 ## Ordered Set
 |  |
@@ -181,6 +184,7 @@
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Pradnesh02/LeetCode-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/Pradnesh02/LeetCode-/tree/master/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 ## Backtracking
 |  |
 | ------- |
@@ -359,6 +363,7 @@
 |  |
 | ------- |
 | [1686-stone-game-vi](https://github.com/Pradnesh02/LeetCode-/tree/master/1686-stone-game-vi) |
+| [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/Pradnesh02/LeetCode-/tree/master/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 ## Prefix Sum
 |  |
 | ------- |
