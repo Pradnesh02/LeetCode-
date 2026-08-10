@@ -50,6 +50,7 @@
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Pradnesh02/LeetCode-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1504-count-submatrices-with-all-ones](https://github.com/Pradnesh02/LeetCode-/tree/master/1504-count-submatrices-with-all-ones) |
 | [1686-stone-game-vi](https://github.com/Pradnesh02/LeetCode-/tree/master/1686-stone-game-vi) |
+| [1824-minimum-sideway-jumps](https://github.com/Pradnesh02/LeetCode-/tree/master/1824-minimum-sideway-jumps) |
 | [1992-find-all-groups-of-farmland](https://github.com/Pradnesh02/LeetCode-/tree/master/1992-find-all-groups-of-farmland) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Pradnesh02/LeetCode-/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Pradnesh02/LeetCode-/tree/master/2101-detonate-the-maximum-bombs) |
@@ -194,6 +195,7 @@
 | [1090-largest-values-from-labels](https://github.com/Pradnesh02/LeetCode-/tree/master/1090-largest-values-from-labels) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Pradnesh02/LeetCode-/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1686-stone-game-vi](https://github.com/Pradnesh02/LeetCode-/tree/master/1686-stone-game-vi) |
+| [1824-minimum-sideway-jumps](https://github.com/Pradnesh02/LeetCode-/tree/master/1824-minimum-sideway-jumps) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Pradnesh02/LeetCode-/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/Pradnesh02/LeetCode-/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2560-house-robber-iv](https://github.com/Pradnesh02/LeetCode-/tree/master/2560-house-robber-iv) |
@@ -266,6 +268,7 @@
 | [1406-stone-game-iii](https://github.com/Pradnesh02/LeetCode-/tree/master/1406-stone-game-iii) |
 | [1504-count-submatrices-with-all-ones](https://github.com/Pradnesh02/LeetCode-/tree/master/1504-count-submatrices-with-all-ones) |
 | [1510-stone-game-iv](https://github.com/Pradnesh02/LeetCode-/tree/master/1510-stone-game-iv) |
+| [1824-minimum-sideway-jumps](https://github.com/Pradnesh02/LeetCode-/tree/master/1824-minimum-sideway-jumps) |
 | [2140-solving-questions-with-brainpower](https://github.com/Pradnesh02/LeetCode-/tree/master/2140-solving-questions-with-brainpower) |
 | [2484-count-palindromic-subsequences](https://github.com/Pradnesh02/LeetCode-/tree/master/2484-count-palindromic-subsequences) |
 | [2560-house-robber-iv](https://github.com/Pradnesh02/LeetCode-/tree/master/2560-house-robber-iv) |
