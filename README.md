@@ -57,6 +57,7 @@
 | [2448-minimum-cost-to-make-array-equal](https://github.com/Pradnesh02/LeetCode-/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2453-destroy-sequential-targets](https://github.com/Pradnesh02/LeetCode-/tree/master/2453-destroy-sequential-targets) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Pradnesh02/LeetCode-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2560-house-robber-iv](https://github.com/Pradnesh02/LeetCode-/tree/master/2560-house-robber-iv) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Pradnesh02/LeetCode-/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/Pradnesh02/LeetCode-/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Pradnesh02/LeetCode-/tree/master/2658-maximum-number-of-fish-in-a-grid) |
@@ -192,6 +193,7 @@
 | [1686-stone-game-vi](https://github.com/Pradnesh02/LeetCode-/tree/master/1686-stone-game-vi) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Pradnesh02/LeetCode-/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/Pradnesh02/LeetCode-/tree/master/2448-minimum-cost-to-make-array-equal) |
+| [2560-house-robber-iv](https://github.com/Pradnesh02/LeetCode-/tree/master/2560-house-robber-iv) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/Pradnesh02/LeetCode-/tree/master/2600-k-items-with-the-maximum-sum) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Pradnesh02/LeetCode-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -260,6 +262,7 @@
 | [1504-count-submatrices-with-all-ones](https://github.com/Pradnesh02/LeetCode-/tree/master/1504-count-submatrices-with-all-ones) |
 | [1510-stone-game-iv](https://github.com/Pradnesh02/LeetCode-/tree/master/1510-stone-game-iv) |
 | [2484-count-palindromic-subsequences](https://github.com/Pradnesh02/LeetCode-/tree/master/2484-count-palindromic-subsequences) |
+| [2560-house-robber-iv](https://github.com/Pradnesh02/LeetCode-/tree/master/2560-house-robber-iv) |
 | [2741-special-permutations](https://github.com/Pradnesh02/LeetCode-/tree/master/2741-special-permutations) |
 | [3250-find-the-count-of-monotonic-pairs-i](https://github.com/Pradnesh02/LeetCode-/tree/master/3250-find-the-count-of-monotonic-pairs-i) |
 ## Game Theory
@@ -357,6 +360,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/Pradnesh02/LeetCode-/tree/master/1004-max-consecutive-ones-iii) |
 | [2258-escape-the-spreading-fire](https://github.com/Pradnesh02/LeetCode-/tree/master/2258-escape-the-spreading-fire) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/Pradnesh02/LeetCode-/tree/master/2448-minimum-cost-to-make-array-equal) |
+| [2560-house-robber-iv](https://github.com/Pradnesh02/LeetCode-/tree/master/2560-house-robber-iv) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/Pradnesh02/LeetCode-/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Pradnesh02/LeetCode-/tree/master/3312-sorted-gcd-pair-queries) |
 ## Graph Theory
