@@ -36,6 +36,7 @@
 | [0419-battleships-in-a-board](https://github.com/Pradnesh02/LeetCode-/tree/master/0419-battleships-in-a-board) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/Pradnesh02/LeetCode-/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0486-predict-the-winner](https://github.com/Pradnesh02/LeetCode-/tree/master/0486-predict-the-winner) |
+| [0566-reshape-the-matrix](https://github.com/Pradnesh02/LeetCode-/tree/master/0566-reshape-the-matrix) |
 | [0695-max-area-of-island](https://github.com/Pradnesh02/LeetCode-/tree/master/0695-max-area-of-island) |
 | [0877-stone-game](https://github.com/Pradnesh02/LeetCode-/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/Pradnesh02/LeetCode-/tree/master/0896-monotonic-array) |
@@ -320,6 +321,7 @@
 | ------- |
 | [0043-multiply-strings](https://github.com/Pradnesh02/LeetCode-/tree/master/0043-multiply-strings) |
 | [0415-add-strings](https://github.com/Pradnesh02/LeetCode-/tree/master/0415-add-strings) |
+| [0566-reshape-the-matrix](https://github.com/Pradnesh02/LeetCode-/tree/master/0566-reshape-the-matrix) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Pradnesh02/LeetCode-/tree/master/0592-fraction-addition-and-subtraction) |
 | [0640-solve-the-equation](https://github.com/Pradnesh02/LeetCode-/tree/master/0640-solve-the-equation) |
 | [0657-robot-return-to-origin](https://github.com/Pradnesh02/LeetCode-/tree/master/0657-robot-return-to-origin) |
@@ -336,6 +338,7 @@
 | [0130-surrounded-regions](https://github.com/Pradnesh02/LeetCode-/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Pradnesh02/LeetCode-/tree/master/0200-number-of-islands) |
 | [0419-battleships-in-a-board](https://github.com/Pradnesh02/LeetCode-/tree/master/0419-battleships-in-a-board) |
+| [0566-reshape-the-matrix](https://github.com/Pradnesh02/LeetCode-/tree/master/0566-reshape-the-matrix) |
 | [0695-max-area-of-island](https://github.com/Pradnesh02/LeetCode-/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/Pradnesh02/LeetCode-/tree/master/0994-rotting-oranges) |
 | [1139-largest-1-bordered-square](https://github.com/Pradnesh02/LeetCode-/tree/master/1139-largest-1-bordered-square) |
