@@ -41,6 +41,7 @@
 | [0486-predict-the-winner](https://github.com/Pradnesh02/LeetCode-/tree/master/0486-predict-the-winner) |
 | [0495-teemo-attacking](https://github.com/Pradnesh02/LeetCode-/tree/master/0495-teemo-attacking) |
 | [0566-reshape-the-matrix](https://github.com/Pradnesh02/LeetCode-/tree/master/0566-reshape-the-matrix) |
+| [0605-can-place-flowers](https://github.com/Pradnesh02/LeetCode-/tree/master/0605-can-place-flowers) |
 | [0695-max-area-of-island](https://github.com/Pradnesh02/LeetCode-/tree/master/0695-max-area-of-island) |
 | [0877-stone-game](https://github.com/Pradnesh02/LeetCode-/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/Pradnesh02/LeetCode-/tree/master/0896-monotonic-array) |
@@ -230,6 +231,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Pradnesh02/LeetCode-/tree/master/0011-container-with-most-water) |
+| [0605-can-place-flowers](https://github.com/Pradnesh02/LeetCode-/tree/master/0605-can-place-flowers) |
 | [0763-partition-labels](https://github.com/Pradnesh02/LeetCode-/tree/master/0763-partition-labels) |
 | [1090-largest-values-from-labels](https://github.com/Pradnesh02/LeetCode-/tree/master/1090-largest-values-from-labels) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Pradnesh02/LeetCode-/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
