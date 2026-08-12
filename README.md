@@ -39,6 +39,7 @@
 | [0419-battleships-in-a-board](https://github.com/Pradnesh02/LeetCode-/tree/master/0419-battleships-in-a-board) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/Pradnesh02/LeetCode-/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0486-predict-the-winner](https://github.com/Pradnesh02/LeetCode-/tree/master/0486-predict-the-winner) |
+| [0495-teemo-attacking](https://github.com/Pradnesh02/LeetCode-/tree/master/0495-teemo-attacking) |
 | [0566-reshape-the-matrix](https://github.com/Pradnesh02/LeetCode-/tree/master/0566-reshape-the-matrix) |
 | [0695-max-area-of-island](https://github.com/Pradnesh02/LeetCode-/tree/master/0695-max-area-of-island) |
 | [0877-stone-game](https://github.com/Pradnesh02/LeetCode-/tree/master/0877-stone-game) |
@@ -343,6 +344,7 @@
 | ------- |
 | [0043-multiply-strings](https://github.com/Pradnesh02/LeetCode-/tree/master/0043-multiply-strings) |
 | [0415-add-strings](https://github.com/Pradnesh02/LeetCode-/tree/master/0415-add-strings) |
+| [0495-teemo-attacking](https://github.com/Pradnesh02/LeetCode-/tree/master/0495-teemo-attacking) |
 | [0566-reshape-the-matrix](https://github.com/Pradnesh02/LeetCode-/tree/master/0566-reshape-the-matrix) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Pradnesh02/LeetCode-/tree/master/0592-fraction-addition-and-subtraction) |
 | [0640-solve-the-equation](https://github.com/Pradnesh02/LeetCode-/tree/master/0640-solve-the-equation) |
