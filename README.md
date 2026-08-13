@@ -71,6 +71,7 @@
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Pradnesh02/LeetCode-/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2258-escape-the-spreading-fire](https://github.com/Pradnesh02/LeetCode-/tree/master/2258-escape-the-spreading-fire) |
 | [2363-merge-similar-items](https://github.com/Pradnesh02/LeetCode-/tree/master/2363-merge-similar-items) |
+| [2401-longest-nice-subarray](https://github.com/Pradnesh02/LeetCode-/tree/master/2401-longest-nice-subarray) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/Pradnesh02/LeetCode-/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2453-destroy-sequential-targets](https://github.com/Pradnesh02/LeetCode-/tree/master/2453-destroy-sequential-targets) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Pradnesh02/LeetCode-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -278,6 +279,7 @@
 | [0464-can-i-win](https://github.com/Pradnesh02/LeetCode-/tree/master/0464-can-i-win) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Pradnesh02/LeetCode-/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1915-number-of-wonderful-substrings](https://github.com/Pradnesh02/LeetCode-/tree/master/1915-number-of-wonderful-substrings) |
+| [2401-longest-nice-subarray](https://github.com/Pradnesh02/LeetCode-/tree/master/2401-longest-nice-subarray) |
 | [2741-special-permutations](https://github.com/Pradnesh02/LeetCode-/tree/master/2741-special-permutations) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/Pradnesh02/LeetCode-/tree/master/2869-minimum-operations-to-collect-elements) |
 ## Divide and Conquer
@@ -528,6 +530,7 @@
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Pradnesh02/LeetCode-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Pradnesh02/LeetCode-/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Pradnesh02/LeetCode-/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2401-longest-nice-subarray](https://github.com/Pradnesh02/LeetCode-/tree/master/2401-longest-nice-subarray) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Pradnesh02/LeetCode-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Pradnesh02/LeetCode-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Monotonic Stack
