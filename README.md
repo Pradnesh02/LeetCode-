@@ -103,6 +103,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/Pradnesh02/LeetCode-/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Pradnesh02/LeetCode-/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Pradnesh02/LeetCode-/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/Pradnesh02/LeetCode-/tree/master/0424-longest-repeating-character-replacement) |
 | [0763-partition-labels](https://github.com/Pradnesh02/LeetCode-/tree/master/0763-partition-labels) |
 | [1090-largest-values-from-labels](https://github.com/Pradnesh02/LeetCode-/tree/master/1090-largest-values-from-labels) |
 | [1224-maximum-equal-frequency](https://github.com/Pradnesh02/LeetCode-/tree/master/1224-maximum-equal-frequency) |
@@ -217,6 +218,7 @@
 | [0388-longest-absolute-file-path](https://github.com/Pradnesh02/LeetCode-/tree/master/0388-longest-absolute-file-path) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Pradnesh02/LeetCode-/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0415-add-strings](https://github.com/Pradnesh02/LeetCode-/tree/master/0415-add-strings) |
+| [0424-longest-repeating-character-replacement](https://github.com/Pradnesh02/LeetCode-/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/Pradnesh02/LeetCode-/tree/master/0516-longest-palindromic-subsequence) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Pradnesh02/LeetCode-/tree/master/0592-fraction-addition-and-subtraction) |
 | [0640-solve-the-equation](https://github.com/Pradnesh02/LeetCode-/tree/master/0640-solve-the-equation) |
@@ -518,6 +520,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pradnesh02/LeetCode-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Pradnesh02/LeetCode-/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/Pradnesh02/LeetCode-/tree/master/0424-longest-repeating-character-replacement) |
 | [1004-max-consecutive-ones-iii](https://github.com/Pradnesh02/LeetCode-/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Pradnesh02/LeetCode-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Pradnesh02/LeetCode-/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
