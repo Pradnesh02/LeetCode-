@@ -30,6 +30,7 @@
 | [0053-maximum-subarray](https://github.com/Pradnesh02/LeetCode-/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Pradnesh02/LeetCode-/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Pradnesh02/LeetCode-/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/Pradnesh02/LeetCode-/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/Pradnesh02/LeetCode-/tree/master/0130-surrounded-regions) |
 | [0198-house-robber](https://github.com/Pradnesh02/LeetCode-/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Pradnesh02/LeetCode-/tree/master/0200-number-of-islands) |
@@ -104,6 +105,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pradnesh02/LeetCode-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Pradnesh02/LeetCode-/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0073-set-matrix-zeroes](https://github.com/Pradnesh02/LeetCode-/tree/master/0073-set-matrix-zeroes) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Pradnesh02/LeetCode-/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Pradnesh02/LeetCode-/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Pradnesh02/LeetCode-/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -393,6 +395,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Pradnesh02/LeetCode-/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/Pradnesh02/LeetCode-/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Pradnesh02/LeetCode-/tree/master/0200-number-of-islands) |
 | [0419-battleships-in-a-board](https://github.com/Pradnesh02/LeetCode-/tree/master/0419-battleships-in-a-board) |
