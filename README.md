@@ -94,6 +94,7 @@
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/Pradnesh02/LeetCode-/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Pradnesh02/LeetCode-/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2741-special-permutations](https://github.com/Pradnesh02/LeetCode-/tree/master/2741-special-permutations) |
+| [2817-minimum-absolute-difference-between-elements-with-constraint](https://github.com/Pradnesh02/LeetCode-/tree/master/2817-minimum-absolute-difference-between-elements-with-constraint) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/Pradnesh02/LeetCode-/tree/master/2869-minimum-operations-to-collect-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Pradnesh02/LeetCode-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Pradnesh02/LeetCode-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -197,6 +198,7 @@
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Pradnesh02/LeetCode-/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2363-merge-similar-items](https://github.com/Pradnesh02/LeetCode-/tree/master/2363-merge-similar-items) |
+| [2817-minimum-absolute-difference-between-elements-with-constraint](https://github.com/Pradnesh02/LeetCode-/tree/master/2817-minimum-absolute-difference-between-elements-with-constraint) |
 | [3477-fruits-into-baskets-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/3477-fruits-into-baskets-ii) |
 ## Database
 |  |
@@ -498,6 +500,7 @@
 | [2448-minimum-cost-to-make-array-equal](https://github.com/Pradnesh02/LeetCode-/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2560-house-robber-iv](https://github.com/Pradnesh02/LeetCode-/tree/master/2560-house-robber-iv) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/Pradnesh02/LeetCode-/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
+| [2817-minimum-absolute-difference-between-elements-with-constraint](https://github.com/Pradnesh02/LeetCode-/tree/master/2817-minimum-absolute-difference-between-elements-with-constraint) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Pradnesh02/LeetCode-/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Pradnesh02/LeetCode-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3477-fruits-into-baskets-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/3477-fruits-into-baskets-ii) |
