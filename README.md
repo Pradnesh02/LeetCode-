@@ -76,6 +76,7 @@
 | [2101-detonate-the-maximum-bombs](https://github.com/Pradnesh02/LeetCode-/tree/master/2101-detonate-the-maximum-bombs) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Pradnesh02/LeetCode-/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2140-solving-questions-with-brainpower](https://github.com/Pradnesh02/LeetCode-/tree/master/2140-solving-questions-with-brainpower) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/Pradnesh02/LeetCode-/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Pradnesh02/LeetCode-/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/Pradnesh02/LeetCode-/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Pradnesh02/LeetCode-/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -126,6 +127,7 @@
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Pradnesh02/LeetCode-/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/Pradnesh02/LeetCode-/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1915-number-of-wonderful-substrings](https://github.com/Pradnesh02/LeetCode-/tree/master/1915-number-of-wonderful-substrings) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/Pradnesh02/LeetCode-/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2363-merge-similar-items](https://github.com/Pradnesh02/LeetCode-/tree/master/2363-merge-similar-items) |
 | [2405-optimal-partition-of-string](https://github.com/Pradnesh02/LeetCode-/tree/master/2405-optimal-partition-of-string) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/Pradnesh02/LeetCode-/tree/master/2423-remove-letter-to-equalize-frequency) |
@@ -169,6 +171,7 @@
 | [1090-largest-values-from-labels](https://github.com/Pradnesh02/LeetCode-/tree/master/1090-largest-values-from-labels) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Pradnesh02/LeetCode-/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1686-stone-game-vi](https://github.com/Pradnesh02/LeetCode-/tree/master/1686-stone-game-vi) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/Pradnesh02/LeetCode-/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Pradnesh02/LeetCode-/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/Pradnesh02/LeetCode-/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2363-merge-similar-items](https://github.com/Pradnesh02/LeetCode-/tree/master/2363-merge-similar-items) |
@@ -406,6 +409,7 @@
 | [1441-build-an-array-with-stack-operations](https://github.com/Pradnesh02/LeetCode-/tree/master/1441-build-an-array-with-stack-operations) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Pradnesh02/LeetCode-/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/Pradnesh02/LeetCode-/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/Pradnesh02/LeetCode-/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Pradnesh02/LeetCode-/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Pradnesh02/LeetCode-/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3360-stone-removal-game](https://github.com/Pradnesh02/LeetCode-/tree/master/3360-stone-removal-game) |
