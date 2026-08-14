@@ -168,6 +168,7 @@
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Pradnesh02/LeetCode-/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1686-stone-game-vi](https://github.com/Pradnesh02/LeetCode-/tree/master/1686-stone-game-vi) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Pradnesh02/LeetCode-/tree/master/2164-sort-even-and-odd-indices-independently) |
+| [2231-largest-number-after-digit-swaps-by-parity](https://github.com/Pradnesh02/LeetCode-/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2363-merge-similar-items](https://github.com/Pradnesh02/LeetCode-/tree/master/2363-merge-similar-items) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/Pradnesh02/LeetCode-/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/Pradnesh02/LeetCode-/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
@@ -508,6 +509,7 @@
 | ------- |
 | [1686-stone-game-vi](https://github.com/Pradnesh02/LeetCode-/tree/master/1686-stone-game-vi) |
 | [1776-car-fleet-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/1776-car-fleet-ii) |
+| [2231-largest-number-after-digit-swaps-by-parity](https://github.com/Pradnesh02/LeetCode-/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/Pradnesh02/LeetCode-/tree/master/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 ## Prefix Sum
 |  |
