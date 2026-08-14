@@ -69,6 +69,7 @@
 | [2022-convert-1d-array-into-2d-array](https://github.com/Pradnesh02/LeetCode-/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Pradnesh02/LeetCode-/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Pradnesh02/LeetCode-/tree/master/2101-detonate-the-maximum-bombs) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/Pradnesh02/LeetCode-/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2140-solving-questions-with-brainpower](https://github.com/Pradnesh02/LeetCode-/tree/master/2140-solving-questions-with-brainpower) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/Pradnesh02/LeetCode-/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Pradnesh02/LeetCode-/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -203,6 +204,7 @@
 | [1776-car-fleet-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/1776-car-fleet-ii) |
 | [1837-sum-of-digits-in-base-k](https://github.com/Pradnesh02/LeetCode-/tree/master/1837-sum-of-digits-in-base-k) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Pradnesh02/LeetCode-/tree/master/2101-detonate-the-maximum-bombs) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/Pradnesh02/LeetCode-/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2396-strictly-palindromic-number](https://github.com/Pradnesh02/LeetCode-/tree/master/2396-strictly-palindromic-number) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/Pradnesh02/LeetCode-/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2843-count-symmetric-integers](https://github.com/Pradnesh02/LeetCode-/tree/master/2843-count-symmetric-integers) |
@@ -240,6 +242,7 @@
 | [1915-number-of-wonderful-substrings](https://github.com/Pradnesh02/LeetCode-/tree/master/1915-number-of-wonderful-substrings) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Pradnesh02/LeetCode-/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/Pradnesh02/LeetCode-/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/Pradnesh02/LeetCode-/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Pradnesh02/LeetCode-/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2232-minimize-result-by-adding-parentheses-to-expression](https://github.com/Pradnesh02/LeetCode-/tree/master/2232-minimize-result-by-adding-parentheses-to-expression) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Pradnesh02/LeetCode-/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -407,6 +410,7 @@
 | [1504-count-submatrices-with-all-ones](https://github.com/Pradnesh02/LeetCode-/tree/master/1504-count-submatrices-with-all-ones) |
 | [1992-find-all-groups-of-farmland](https://github.com/Pradnesh02/LeetCode-/tree/master/1992-find-all-groups-of-farmland) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Pradnesh02/LeetCode-/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/Pradnesh02/LeetCode-/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2258-escape-the-spreading-fire](https://github.com/Pradnesh02/LeetCode-/tree/master/2258-escape-the-spreading-fire) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Pradnesh02/LeetCode-/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Pradnesh02/LeetCode-/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
