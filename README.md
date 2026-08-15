@@ -72,6 +72,7 @@
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Pradnesh02/LeetCode-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Pradnesh02/LeetCode-/tree/master/1441-build-an-array-with-stack-operations) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Pradnesh02/LeetCode-/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
+| [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Pradnesh02/LeetCode-/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1504-count-submatrices-with-all-ones](https://github.com/Pradnesh02/LeetCode-/tree/master/1504-count-submatrices-with-all-ones) |
 | [1686-stone-game-vi](https://github.com/Pradnesh02/LeetCode-/tree/master/1686-stone-game-vi) |
 | [1776-car-fleet-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/1776-car-fleet-ii) |
@@ -448,6 +449,7 @@
 | [0735-asteroid-collision](https://github.com/Pradnesh02/LeetCode-/tree/master/0735-asteroid-collision) |
 | [1260-shift-2d-grid](https://github.com/Pradnesh02/LeetCode-/tree/master/1260-shift-2d-grid) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Pradnesh02/LeetCode-/tree/master/1441-build-an-array-with-stack-operations) |
+| [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Pradnesh02/LeetCode-/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Pradnesh02/LeetCode-/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/Pradnesh02/LeetCode-/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Pradnesh02/LeetCode-/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -479,6 +481,7 @@
 ## Brainteaser
 |  |
 | ------- |
+| [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Pradnesh02/LeetCode-/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [2396-strictly-palindromic-number](https://github.com/Pradnesh02/LeetCode-/tree/master/2396-strictly-palindromic-number) |
 | [2731-movement-of-robots](https://github.com/Pradnesh02/LeetCode-/tree/master/2731-movement-of-robots) |
 ## Depth-First Search
