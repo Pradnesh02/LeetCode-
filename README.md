@@ -27,6 +27,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Pradnesh02/LeetCode-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Pradnesh02/LeetCode-/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Pradnesh02/LeetCode-/tree/master/0014-longest-common-prefix) |
+| [0031-next-permutation](https://github.com/Pradnesh02/LeetCode-/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/Pradnesh02/LeetCode-/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Pradnesh02/LeetCode-/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Pradnesh02/LeetCode-/tree/master/0066-plus-one) |
@@ -168,6 +169,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Pradnesh02/LeetCode-/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Pradnesh02/LeetCode-/tree/master/0011-container-with-most-water) |
+| [0031-next-permutation](https://github.com/Pradnesh02/LeetCode-/tree/master/0031-next-permutation) |
 | [0234-palindrome-linked-list](https://github.com/Pradnesh02/LeetCode-/tree/master/0234-palindrome-linked-list) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Pradnesh02/LeetCode-/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0763-partition-labels](https://github.com/Pradnesh02/LeetCode-/tree/master/0763-partition-labels) |
