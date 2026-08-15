@@ -29,6 +29,7 @@
 | [0014-longest-common-prefix](https://github.com/Pradnesh02/LeetCode-/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/Pradnesh02/LeetCode-/tree/master/0031-next-permutation) |
 | [0046-permutations](https://github.com/Pradnesh02/LeetCode-/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/Pradnesh02/LeetCode-/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Pradnesh02/LeetCode-/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Pradnesh02/LeetCode-/tree/master/0066-plus-one) |
@@ -184,6 +185,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/Pradnesh02/LeetCode-/tree/master/0056-merge-intervals) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Pradnesh02/LeetCode-/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Pradnesh02/LeetCode-/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -324,6 +326,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Pradnesh02/LeetCode-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0046-permutations](https://github.com/Pradnesh02/LeetCode-/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/0047-permutations-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/0095-unique-binary-search-trees-ii) |
 | [0401-binary-watch](https://github.com/Pradnesh02/LeetCode-/tree/master/0401-binary-watch) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/3348-smallest-divisible-digit-product-ii) |
