@@ -28,6 +28,7 @@
 | [0011-container-with-most-water](https://github.com/Pradnesh02/LeetCode-/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Pradnesh02/LeetCode-/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/Pradnesh02/LeetCode-/tree/master/0031-next-permutation) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Pradnesh02/LeetCode-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Pradnesh02/LeetCode-/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Pradnesh02/LeetCode-/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Pradnesh02/LeetCode-/tree/master/0046-permutations) |
@@ -538,6 +539,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Pradnesh02/LeetCode-/tree/master/0004-median-of-two-sorted-arrays) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Pradnesh02/LeetCode-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Pradnesh02/LeetCode-/tree/master/0035-search-insert-position) |
 | [0278-first-bad-version](https://github.com/Pradnesh02/LeetCode-/tree/master/0278-first-bad-version) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Pradnesh02/LeetCode-/tree/master/0532-k-diff-pairs-in-an-array) |
