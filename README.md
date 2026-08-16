@@ -77,6 +77,7 @@
 | [1504-count-submatrices-with-all-ones](https://github.com/Pradnesh02/LeetCode-/tree/master/1504-count-submatrices-with-all-ones) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Pradnesh02/LeetCode-/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1686-stone-game-vi](https://github.com/Pradnesh02/LeetCode-/tree/master/1686-stone-game-vi) |
+| [1690-stone-game-vii](https://github.com/Pradnesh02/LeetCode-/tree/master/1690-stone-game-vii) |
 | [1776-car-fleet-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/1776-car-fleet-ii) |
 | [1824-minimum-sideway-jumps](https://github.com/Pradnesh02/LeetCode-/tree/master/1824-minimum-sideway-jumps) |
 | [1895-largest-magic-square](https://github.com/Pradnesh02/LeetCode-/tree/master/1895-largest-magic-square) |
@@ -254,6 +255,7 @@
 | [1510-stone-game-iv](https://github.com/Pradnesh02/LeetCode-/tree/master/1510-stone-game-iv) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Pradnesh02/LeetCode-/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1686-stone-game-vi](https://github.com/Pradnesh02/LeetCode-/tree/master/1686-stone-game-vi) |
+| [1690-stone-game-vii](https://github.com/Pradnesh02/LeetCode-/tree/master/1690-stone-game-vii) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/Pradnesh02/LeetCode-/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1776-car-fleet-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/1776-car-fleet-ii) |
 | [1837-sum-of-digits-in-base-k](https://github.com/Pradnesh02/LeetCode-/tree/master/1837-sum-of-digits-in-base-k) |
@@ -417,6 +419,7 @@
 | [1406-stone-game-iii](https://github.com/Pradnesh02/LeetCode-/tree/master/1406-stone-game-iii) |
 | [1504-count-submatrices-with-all-ones](https://github.com/Pradnesh02/LeetCode-/tree/master/1504-count-submatrices-with-all-ones) |
 | [1510-stone-game-iv](https://github.com/Pradnesh02/LeetCode-/tree/master/1510-stone-game-iv) |
+| [1690-stone-game-vii](https://github.com/Pradnesh02/LeetCode-/tree/master/1690-stone-game-vii) |
 | [1824-minimum-sideway-jumps](https://github.com/Pradnesh02/LeetCode-/tree/master/1824-minimum-sideway-jumps) |
 | [2140-solving-questions-with-brainpower](https://github.com/Pradnesh02/LeetCode-/tree/master/2140-solving-questions-with-brainpower) |
 | [2484-count-palindromic-subsequences](https://github.com/Pradnesh02/LeetCode-/tree/master/2484-count-palindromic-subsequences) |
@@ -434,6 +437,7 @@
 | [1406-stone-game-iii](https://github.com/Pradnesh02/LeetCode-/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Pradnesh02/LeetCode-/tree/master/1510-stone-game-iv) |
 | [1686-stone-game-vi](https://github.com/Pradnesh02/LeetCode-/tree/master/1686-stone-game-vi) |
+| [1690-stone-game-vii](https://github.com/Pradnesh02/LeetCode-/tree/master/1690-stone-game-vii) |
 | [2029-stone-game-ix](https://github.com/Pradnesh02/LeetCode-/tree/master/2029-stone-game-ix) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Pradnesh02/LeetCode-/tree/master/3222-find-the-winning-player-in-coin-game) |
 ## Memoization
@@ -561,6 +565,7 @@
 | [1406-stone-game-iii](https://github.com/Pradnesh02/LeetCode-/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Pradnesh02/LeetCode-/tree/master/1510-stone-game-iv) |
 | [1686-stone-game-vi](https://github.com/Pradnesh02/LeetCode-/tree/master/1686-stone-game-vi) |
+| [1690-stone-game-vii](https://github.com/Pradnesh02/LeetCode-/tree/master/1690-stone-game-vii) |
 | [2029-stone-game-ix](https://github.com/Pradnesh02/LeetCode-/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
@@ -569,6 +574,7 @@
 | [1406-stone-game-iii](https://github.com/Pradnesh02/LeetCode-/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Pradnesh02/LeetCode-/tree/master/1510-stone-game-iv) |
 | [1686-stone-game-vi](https://github.com/Pradnesh02/LeetCode-/tree/master/1686-stone-game-vi) |
+| [1690-stone-game-vii](https://github.com/Pradnesh02/LeetCode-/tree/master/1690-stone-game-vii) |
 | [2029-stone-game-ix](https://github.com/Pradnesh02/LeetCode-/tree/master/2029-stone-game-ix) |
 ## Heap (Priority Queue)
 |  |
