@@ -70,6 +70,7 @@
 | [1140-stone-game-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/1140-stone-game-ii) |
 | [1224-maximum-equal-frequency](https://github.com/Pradnesh02/LeetCode-/tree/master/1224-maximum-equal-frequency) |
 | [1260-shift-2d-grid](https://github.com/Pradnesh02/LeetCode-/tree/master/1260-shift-2d-grid) |
+| [1331-rank-transform-of-an-array](https://github.com/Pradnesh02/LeetCode-/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Pradnesh02/LeetCode-/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1406-stone-game-iii](https://github.com/Pradnesh02/LeetCode-/tree/master/1406-stone-game-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Pradnesh02/LeetCode-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -148,6 +149,7 @@
 | [0966-vowel-spellchecker](https://github.com/Pradnesh02/LeetCode-/tree/master/0966-vowel-spellchecker) |
 | [1090-largest-values-from-labels](https://github.com/Pradnesh02/LeetCode-/tree/master/1090-largest-values-from-labels) |
 | [1224-maximum-equal-frequency](https://github.com/Pradnesh02/LeetCode-/tree/master/1224-maximum-equal-frequency) |
+| [1331-rank-transform-of-an-array](https://github.com/Pradnesh02/LeetCode-/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Pradnesh02/LeetCode-/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Pradnesh02/LeetCode-/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Pradnesh02/LeetCode-/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
@@ -205,6 +207,7 @@
 | [0905-sort-array-by-parity](https://github.com/Pradnesh02/LeetCode-/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/0922-sort-array-by-parity-ii) |
 | [1090-largest-values-from-labels](https://github.com/Pradnesh02/LeetCode-/tree/master/1090-largest-values-from-labels) |
+| [1331-rank-transform-of-an-array](https://github.com/Pradnesh02/LeetCode-/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Pradnesh02/LeetCode-/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Pradnesh02/LeetCode-/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1686-stone-game-vi](https://github.com/Pradnesh02/LeetCode-/tree/master/1686-stone-game-vi) |
