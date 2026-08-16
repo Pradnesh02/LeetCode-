@@ -28,6 +28,7 @@
 | [0011-container-with-most-water](https://github.com/Pradnesh02/LeetCode-/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Pradnesh02/LeetCode-/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/Pradnesh02/LeetCode-/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/Pradnesh02/LeetCode-/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Pradnesh02/LeetCode-/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Pradnesh02/LeetCode-/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/0047-permutations-ii) |
@@ -537,6 +538,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Pradnesh02/LeetCode-/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/Pradnesh02/LeetCode-/tree/master/0035-search-insert-position) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Pradnesh02/LeetCode-/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Pradnesh02/LeetCode-/tree/master/1004-max-consecutive-ones-iii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Pradnesh02/LeetCode-/tree/master/1346-check-if-n-and-its-double-exist) |
