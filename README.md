@@ -118,6 +118,7 @@
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/Pradnesh02/LeetCode-/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Pradnesh02/LeetCode-/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2731-movement-of-robots](https://github.com/Pradnesh02/LeetCode-/tree/master/2731-movement-of-robots) |
+| [2733-neither-minimum-nor-maximum](https://github.com/Pradnesh02/LeetCode-/tree/master/2733-neither-minimum-nor-maximum) |
 | [2741-special-permutations](https://github.com/Pradnesh02/LeetCode-/tree/master/2741-special-permutations) |
 | [2817-minimum-absolute-difference-between-elements-with-constraint](https://github.com/Pradnesh02/LeetCode-/tree/master/2817-minimum-absolute-difference-between-elements-with-constraint) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/Pradnesh02/LeetCode-/tree/master/2869-minimum-operations-to-collect-elements) |
@@ -233,6 +234,7 @@
 | [2448-minimum-cost-to-make-array-equal](https://github.com/Pradnesh02/LeetCode-/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/Pradnesh02/LeetCode-/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [2731-movement-of-robots](https://github.com/Pradnesh02/LeetCode-/tree/master/2731-movement-of-robots) |
+| [2733-neither-minimum-nor-maximum](https://github.com/Pradnesh02/LeetCode-/tree/master/2733-neither-minimum-nor-maximum) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Pradnesh02/LeetCode-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Pradnesh02/LeetCode-/tree/master/3186-maximum-total-damage-with-spell-casting) |
