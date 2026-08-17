@@ -69,6 +69,7 @@
 | [1090-largest-values-from-labels](https://github.com/Pradnesh02/LeetCode-/tree/master/1090-largest-values-from-labels) |
 | [1139-largest-1-bordered-square](https://github.com/Pradnesh02/LeetCode-/tree/master/1139-largest-1-bordered-square) |
 | [1140-stone-game-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/1140-stone-game-ii) |
+| [1162-as-far-from-land-as-possible](https://github.com/Pradnesh02/LeetCode-/tree/master/1162-as-far-from-land-as-possible) |
 | [1224-maximum-equal-frequency](https://github.com/Pradnesh02/LeetCode-/tree/master/1224-maximum-equal-frequency) |
 | [1260-shift-2d-grid](https://github.com/Pradnesh02/LeetCode-/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/Pradnesh02/LeetCode-/tree/master/1331-rank-transform-of-an-array) |
@@ -434,6 +435,7 @@
 | [0877-stone-game](https://github.com/Pradnesh02/LeetCode-/tree/master/0877-stone-game) |
 | [1139-largest-1-bordered-square](https://github.com/Pradnesh02/LeetCode-/tree/master/1139-largest-1-bordered-square) |
 | [1140-stone-game-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/1140-stone-game-ii) |
+| [1162-as-far-from-land-as-possible](https://github.com/Pradnesh02/LeetCode-/tree/master/1162-as-far-from-land-as-possible) |
 | [1406-stone-game-iii](https://github.com/Pradnesh02/LeetCode-/tree/master/1406-stone-game-iii) |
 | [1504-count-submatrices-with-all-ones](https://github.com/Pradnesh02/LeetCode-/tree/master/1504-count-submatrices-with-all-ones) |
 | [1510-stone-game-iv](https://github.com/Pradnesh02/LeetCode-/tree/master/1510-stone-game-iv) |
@@ -503,6 +505,7 @@
 | [0840-magic-squares-in-grid](https://github.com/Pradnesh02/LeetCode-/tree/master/0840-magic-squares-in-grid) |
 | [0994-rotting-oranges](https://github.com/Pradnesh02/LeetCode-/tree/master/0994-rotting-oranges) |
 | [1139-largest-1-bordered-square](https://github.com/Pradnesh02/LeetCode-/tree/master/1139-largest-1-bordered-square) |
+| [1162-as-far-from-land-as-possible](https://github.com/Pradnesh02/LeetCode-/tree/master/1162-as-far-from-land-as-possible) |
 | [1260-shift-2d-grid](https://github.com/Pradnesh02/LeetCode-/tree/master/1260-shift-2d-grid) |
 | [1504-count-submatrices-with-all-ones](https://github.com/Pradnesh02/LeetCode-/tree/master/1504-count-submatrices-with-all-ones) |
 | [1632-rank-transform-of-a-matrix](https://github.com/Pradnesh02/LeetCode-/tree/master/1632-rank-transform-of-a-matrix) |
@@ -542,6 +545,7 @@
 | [0695-max-area-of-island](https://github.com/Pradnesh02/LeetCode-/tree/master/0695-max-area-of-island) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Pradnesh02/LeetCode-/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0994-rotting-oranges](https://github.com/Pradnesh02/LeetCode-/tree/master/0994-rotting-oranges) |
+| [1162-as-far-from-land-as-possible](https://github.com/Pradnesh02/LeetCode-/tree/master/1162-as-far-from-land-as-possible) |
 | [1992-find-all-groups-of-farmland](https://github.com/Pradnesh02/LeetCode-/tree/master/1992-find-all-groups-of-farmland) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Pradnesh02/LeetCode-/tree/master/2101-detonate-the-maximum-bombs) |
 | [2258-escape-the-spreading-fire](https://github.com/Pradnesh02/LeetCode-/tree/master/2258-escape-the-spreading-fire) |
