@@ -98,6 +98,7 @@
 | [2101-detonate-the-maximum-bombs](https://github.com/Pradnesh02/LeetCode-/tree/master/2101-detonate-the-maximum-bombs) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Pradnesh02/LeetCode-/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2140-solving-questions-with-brainpower](https://github.com/Pradnesh02/LeetCode-/tree/master/2140-solving-questions-with-brainpower) |
+| [2146-k-highest-ranked-items-within-a-price-range](https://github.com/Pradnesh02/LeetCode-/tree/master/2146-k-highest-ranked-items-within-a-price-range) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Pradnesh02/LeetCode-/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Pradnesh02/LeetCode-/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/Pradnesh02/LeetCode-/tree/master/2183-count-array-pairs-divisible-by-k) |
@@ -220,6 +221,7 @@
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Pradnesh02/LeetCode-/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1686-stone-game-vi](https://github.com/Pradnesh02/LeetCode-/tree/master/1686-stone-game-vi) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Pradnesh02/LeetCode-/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2146-k-highest-ranked-items-within-a-price-range](https://github.com/Pradnesh02/LeetCode-/tree/master/2146-k-highest-ranked-items-within-a-price-range) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Pradnesh02/LeetCode-/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Pradnesh02/LeetCode-/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/Pradnesh02/LeetCode-/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
@@ -513,6 +515,7 @@
 | [1992-find-all-groups-of-farmland](https://github.com/Pradnesh02/LeetCode-/tree/master/1992-find-all-groups-of-farmland) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Pradnesh02/LeetCode-/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Pradnesh02/LeetCode-/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [2146-k-highest-ranked-items-within-a-price-range](https://github.com/Pradnesh02/LeetCode-/tree/master/2146-k-highest-ranked-items-within-a-price-range) |
 | [2258-escape-the-spreading-fire](https://github.com/Pradnesh02/LeetCode-/tree/master/2258-escape-the-spreading-fire) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Pradnesh02/LeetCode-/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Pradnesh02/LeetCode-/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
@@ -548,6 +551,7 @@
 | [1162-as-far-from-land-as-possible](https://github.com/Pradnesh02/LeetCode-/tree/master/1162-as-far-from-land-as-possible) |
 | [1992-find-all-groups-of-farmland](https://github.com/Pradnesh02/LeetCode-/tree/master/1992-find-all-groups-of-farmland) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Pradnesh02/LeetCode-/tree/master/2101-detonate-the-maximum-bombs) |
+| [2146-k-highest-ranked-items-within-a-price-range](https://github.com/Pradnesh02/LeetCode-/tree/master/2146-k-highest-ranked-items-within-a-price-range) |
 | [2258-escape-the-spreading-fire](https://github.com/Pradnesh02/LeetCode-/tree/master/2258-escape-the-spreading-fire) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Pradnesh02/LeetCode-/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/Pradnesh02/LeetCode-/tree/master/3310-remove-methods-from-project) |
@@ -612,6 +616,7 @@
 | ------- |
 | [1686-stone-game-vi](https://github.com/Pradnesh02/LeetCode-/tree/master/1686-stone-game-vi) |
 | [1776-car-fleet-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/1776-car-fleet-ii) |
+| [2146-k-highest-ranked-items-within-a-price-range](https://github.com/Pradnesh02/LeetCode-/tree/master/2146-k-highest-ranked-items-within-a-price-range) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/Pradnesh02/LeetCode-/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/Pradnesh02/LeetCode-/tree/master/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 ## Prefix Sum
