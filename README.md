@@ -45,6 +45,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Pradnesh02/LeetCode-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/Pradnesh02/LeetCode-/tree/master/0216-combination-sum-iii) |
 | [0268-missing-number](https://github.com/Pradnesh02/LeetCode-/tree/master/0268-missing-number) |
+| [0300-longest-increasing-subsequence](https://github.com/Pradnesh02/LeetCode-/tree/master/0300-longest-increasing-subsequence) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Pradnesh02/LeetCode-/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Pradnesh02/LeetCode-/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0403-frog-jump](https://github.com/Pradnesh02/LeetCode-/tree/master/0403-frog-jump) |
@@ -470,6 +471,7 @@
 | [0096-unique-binary-search-trees](https://github.com/Pradnesh02/LeetCode-/tree/master/0096-unique-binary-search-trees) |
 | [0198-house-robber](https://github.com/Pradnesh02/LeetCode-/tree/master/0198-house-robber) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Pradnesh02/LeetCode-/tree/master/0241-different-ways-to-add-parentheses) |
+| [0300-longest-increasing-subsequence](https://github.com/Pradnesh02/LeetCode-/tree/master/0300-longest-increasing-subsequence) |
 | [0403-frog-jump](https://github.com/Pradnesh02/LeetCode-/tree/master/0403-frog-jump) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/Pradnesh02/LeetCode-/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0464-can-i-win](https://github.com/Pradnesh02/LeetCode-/tree/master/0464-can-i-win) |
@@ -616,6 +618,7 @@
 | [0035-search-insert-position](https://github.com/Pradnesh02/LeetCode-/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Pradnesh02/LeetCode-/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Pradnesh02/LeetCode-/tree/master/0278-first-bad-version) |
+| [0300-longest-increasing-subsequence](https://github.com/Pradnesh02/LeetCode-/tree/master/0300-longest-increasing-subsequence) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Pradnesh02/LeetCode-/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0911-online-election](https://github.com/Pradnesh02/LeetCode-/tree/master/0911-online-election) |
 | [1004-max-consecutive-ones-iii](https://github.com/Pradnesh02/LeetCode-/tree/master/1004-max-consecutive-ones-iii) |
@@ -856,5 +859,6 @@
 ## Longest Increasing Subsequence
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Pradnesh02/LeetCode-/tree/master/0300-longest-increasing-subsequence) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Pradnesh02/LeetCode-/tree/master/0673-number-of-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
