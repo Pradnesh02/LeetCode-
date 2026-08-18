@@ -79,6 +79,7 @@
 | [1260-shift-2d-grid](https://github.com/Pradnesh02/LeetCode-/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/Pradnesh02/LeetCode-/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Pradnesh02/LeetCode-/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1366-rank-teams-by-votes](https://github.com/Pradnesh02/LeetCode-/tree/master/1366-rank-teams-by-votes) |
 | [1406-stone-game-iii](https://github.com/Pradnesh02/LeetCode-/tree/master/1406-stone-game-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Pradnesh02/LeetCode-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Pradnesh02/LeetCode-/tree/master/1441-build-an-array-with-stack-operations) |
@@ -168,6 +169,7 @@
 | [1224-maximum-equal-frequency](https://github.com/Pradnesh02/LeetCode-/tree/master/1224-maximum-equal-frequency) |
 | [1331-rank-transform-of-an-array](https://github.com/Pradnesh02/LeetCode-/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Pradnesh02/LeetCode-/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1366-rank-teams-by-votes](https://github.com/Pradnesh02/LeetCode-/tree/master/1366-rank-teams-by-votes) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Pradnesh02/LeetCode-/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Pradnesh02/LeetCode-/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/Pradnesh02/LeetCode-/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
@@ -232,6 +234,7 @@
 | [1090-largest-values-from-labels](https://github.com/Pradnesh02/LeetCode-/tree/master/1090-largest-values-from-labels) |
 | [1331-rank-transform-of-an-array](https://github.com/Pradnesh02/LeetCode-/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Pradnesh02/LeetCode-/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1366-rank-teams-by-votes](https://github.com/Pradnesh02/LeetCode-/tree/master/1366-rank-teams-by-votes) |
 | [1632-rank-transform-of-a-matrix](https://github.com/Pradnesh02/LeetCode-/tree/master/1632-rank-transform-of-a-matrix) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Pradnesh02/LeetCode-/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1686-stone-game-vi](https://github.com/Pradnesh02/LeetCode-/tree/master/1686-stone-game-vi) |
@@ -333,6 +336,7 @@
 | [0763-partition-labels](https://github.com/Pradnesh02/LeetCode-/tree/master/0763-partition-labels) |
 | [0966-vowel-spellchecker](https://github.com/Pradnesh02/LeetCode-/tree/master/0966-vowel-spellchecker) |
 | [1078-occurrences-after-bigram](https://github.com/Pradnesh02/LeetCode-/tree/master/1078-occurrences-after-bigram) |
+| [1366-rank-teams-by-votes](https://github.com/Pradnesh02/LeetCode-/tree/master/1366-rank-teams-by-votes) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Pradnesh02/LeetCode-/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Pradnesh02/LeetCode-/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1915-number-of-wonderful-substrings](https://github.com/Pradnesh02/LeetCode-/tree/master/1915-number-of-wonderful-substrings) |
@@ -414,6 +418,7 @@
 |  |
 | ------- |
 | [1090-largest-values-from-labels](https://github.com/Pradnesh02/LeetCode-/tree/master/1090-largest-values-from-labels) |
+| [1366-rank-teams-by-votes](https://github.com/Pradnesh02/LeetCode-/tree/master/1366-rank-teams-by-votes) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Pradnesh02/LeetCode-/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/Pradnesh02/LeetCode-/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [2029-stone-game-ix](https://github.com/Pradnesh02/LeetCode-/tree/master/2029-stone-game-ix) |
