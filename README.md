@@ -190,6 +190,7 @@
 | [2336-smallest-number-in-infinite-set](https://github.com/Pradnesh02/LeetCode-/tree/master/2336-smallest-number-in-infinite-set) |
 | [2363-merge-similar-items](https://github.com/Pradnesh02/LeetCode-/tree/master/2363-merge-similar-items) |
 | [2364-count-number-of-bad-pairs](https://github.com/Pradnesh02/LeetCode-/tree/master/2364-count-number-of-bad-pairs) |
+| [2370-longest-ideal-subsequence](https://github.com/Pradnesh02/LeetCode-/tree/master/2370-longest-ideal-subsequence) |
 | [2405-optimal-partition-of-string](https://github.com/Pradnesh02/LeetCode-/tree/master/2405-optimal-partition-of-string) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/Pradnesh02/LeetCode-/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2453-destroy-sequential-targets](https://github.com/Pradnesh02/LeetCode-/tree/master/2453-destroy-sequential-targets) |
@@ -358,6 +359,7 @@
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Pradnesh02/LeetCode-/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Pradnesh02/LeetCode-/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2232-minimize-result-by-adding-parentheses-to-expression](https://github.com/Pradnesh02/LeetCode-/tree/master/2232-minimize-result-by-adding-parentheses-to-expression) |
+| [2370-longest-ideal-subsequence](https://github.com/Pradnesh02/LeetCode-/tree/master/2370-longest-ideal-subsequence) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Pradnesh02/LeetCode-/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2405-optimal-partition-of-string](https://github.com/Pradnesh02/LeetCode-/tree/master/2405-optimal-partition-of-string) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/Pradnesh02/LeetCode-/tree/master/2423-remove-letter-to-equalize-frequency) |
@@ -490,6 +492,7 @@
 | [1690-stone-game-vii](https://github.com/Pradnesh02/LeetCode-/tree/master/1690-stone-game-vii) |
 | [1824-minimum-sideway-jumps](https://github.com/Pradnesh02/LeetCode-/tree/master/1824-minimum-sideway-jumps) |
 | [2140-solving-questions-with-brainpower](https://github.com/Pradnesh02/LeetCode-/tree/master/2140-solving-questions-with-brainpower) |
+| [2370-longest-ideal-subsequence](https://github.com/Pradnesh02/LeetCode-/tree/master/2370-longest-ideal-subsequence) |
 | [2407-longest-increasing-subsequence-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/2407-longest-increasing-subsequence-ii) |
 | [2484-count-palindromic-subsequences](https://github.com/Pradnesh02/LeetCode-/tree/master/2484-count-palindromic-subsequences) |
 | [2560-house-robber-iv](https://github.com/Pradnesh02/LeetCode-/tree/master/2560-house-robber-iv) |
