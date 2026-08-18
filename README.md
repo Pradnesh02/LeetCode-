@@ -137,6 +137,7 @@
 | [3250-find-the-count-of-monotonic-pairs-i](https://github.com/Pradnesh02/LeetCode-/tree/master/3250-find-the-count-of-monotonic-pairs-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Pradnesh02/LeetCode-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3371-identify-the-largest-outlier-in-an-array](https://github.com/Pradnesh02/LeetCode-/tree/master/3371-identify-the-largest-outlier-in-an-array) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Pradnesh02/LeetCode-/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3477-fruits-into-baskets-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/3477-fruits-into-baskets-ii) |
 | [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/Pradnesh02/LeetCode-/tree/master/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Pradnesh02/LeetCode-/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -189,6 +190,7 @@
 | [3238-find-the-number-of-winning-players](https://github.com/Pradnesh02/LeetCode-/tree/master/3238-find-the-number-of-winning-players) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Pradnesh02/LeetCode-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3371-identify-the-largest-outlier-in-an-array](https://github.com/Pradnesh02/LeetCode-/tree/master/3371-identify-the-largest-outlier-in-an-array) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Pradnesh02/LeetCode-/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/Pradnesh02/LeetCode-/tree/master/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 | [3731-find-missing-elements](https://github.com/Pradnesh02/LeetCode-/tree/master/3731-find-missing-elements) |
 ## Two Pointers
