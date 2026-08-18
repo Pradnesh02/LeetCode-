@@ -617,6 +617,7 @@
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Pradnesh02/LeetCode-/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Pradnesh02/LeetCode-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2258-escape-the-spreading-fire](https://github.com/Pradnesh02/LeetCode-/tree/master/2258-escape-the-spreading-fire) |
+| [2286-booking-concert-tickets-in-groups](https://github.com/Pradnesh02/LeetCode-/tree/master/2286-booking-concert-tickets-in-groups) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/Pradnesh02/LeetCode-/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2560-house-robber-iv](https://github.com/Pradnesh02/LeetCode-/tree/master/2560-house-robber-iv) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/Pradnesh02/LeetCode-/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
@@ -801,6 +802,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/Pradnesh02/LeetCode-/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Pradnesh02/LeetCode-/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0911-online-election](https://github.com/Pradnesh02/LeetCode-/tree/master/0911-online-election) |
+| [2286-booking-concert-tickets-in-groups](https://github.com/Pradnesh02/LeetCode-/tree/master/2286-booking-concert-tickets-in-groups) |
 | [2336-smallest-number-in-infinite-set](https://github.com/Pradnesh02/LeetCode-/tree/master/2336-smallest-number-in-infinite-set) |
 ## Randomized
 |  |
@@ -815,6 +817,7 @@
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Pradnesh02/LeetCode-/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2286-booking-concert-tickets-in-groups](https://github.com/Pradnesh02/LeetCode-/tree/master/2286-booking-concert-tickets-in-groups) |
 | [3477-fruits-into-baskets-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/3477-fruits-into-baskets-ii) |
 ## Interactive
 |  |
@@ -828,4 +831,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Pradnesh02/LeetCode-/tree/master/0215-kth-largest-element-in-an-array) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2286-booking-concert-tickets-in-groups](https://github.com/Pradnesh02/LeetCode-/tree/master/2286-booking-concert-tickets-in-groups) |
 <!---LeetCode Topics End-->
