@@ -307,6 +307,7 @@
 | [0840-magic-squares-in-grid](https://github.com/Pradnesh02/LeetCode-/tree/master/0840-magic-squares-in-grid) |
 | [0877-stone-game](https://github.com/Pradnesh02/LeetCode-/tree/master/0877-stone-game) |
 | [0989-add-to-array-form-of-integer](https://github.com/Pradnesh02/LeetCode-/tree/master/0989-add-to-array-form-of-integer) |
+| [1006-clumsy-factorial](https://github.com/Pradnesh02/LeetCode-/tree/master/1006-clumsy-factorial) |
 | [1140-stone-game-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Pradnesh02/LeetCode-/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Pradnesh02/LeetCode-/tree/master/1510-stone-game-iv) |
@@ -476,6 +477,7 @@
 | [0388-longest-absolute-file-path](https://github.com/Pradnesh02/LeetCode-/tree/master/0388-longest-absolute-file-path) |
 | [0735-asteroid-collision](https://github.com/Pradnesh02/LeetCode-/tree/master/0735-asteroid-collision) |
 | [0853-car-fleet](https://github.com/Pradnesh02/LeetCode-/tree/master/0853-car-fleet) |
+| [1006-clumsy-factorial](https://github.com/Pradnesh02/LeetCode-/tree/master/1006-clumsy-factorial) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Pradnesh02/LeetCode-/tree/master/1441-build-an-array-with-stack-operations) |
 | [1504-count-submatrices-with-all-ones](https://github.com/Pradnesh02/LeetCode-/tree/master/1504-count-submatrices-with-all-ones) |
 | [1776-car-fleet-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/1776-car-fleet-ii) |
@@ -551,6 +553,7 @@
 | [0640-solve-the-equation](https://github.com/Pradnesh02/LeetCode-/tree/master/0640-solve-the-equation) |
 | [0657-robot-return-to-origin](https://github.com/Pradnesh02/LeetCode-/tree/master/0657-robot-return-to-origin) |
 | [0735-asteroid-collision](https://github.com/Pradnesh02/LeetCode-/tree/master/0735-asteroid-collision) |
+| [1006-clumsy-factorial](https://github.com/Pradnesh02/LeetCode-/tree/master/1006-clumsy-factorial) |
 | [1094-car-pooling](https://github.com/Pradnesh02/LeetCode-/tree/master/1094-car-pooling) |
 | [1260-shift-2d-grid](https://github.com/Pradnesh02/LeetCode-/tree/master/1260-shift-2d-grid) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Pradnesh02/LeetCode-/tree/master/1441-build-an-array-with-stack-operations) |
