@@ -120,6 +120,7 @@
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Pradnesh02/LeetCode-/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Pradnesh02/LeetCode-/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/Pradnesh02/LeetCode-/tree/master/2183-count-array-pairs-divisible-by-k) |
+| [2206-divide-array-into-equal-pairs](https://github.com/Pradnesh02/LeetCode-/tree/master/2206-divide-array-into-equal-pairs) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/Pradnesh02/LeetCode-/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Pradnesh02/LeetCode-/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2258-escape-the-spreading-fire](https://github.com/Pradnesh02/LeetCode-/tree/master/2258-escape-the-spreading-fire) |
@@ -201,6 +202,7 @@
 | [1915-number-of-wonderful-substrings](https://github.com/Pradnesh02/LeetCode-/tree/master/1915-number-of-wonderful-substrings) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Pradnesh02/LeetCode-/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/Pradnesh02/LeetCode-/tree/master/2183-count-array-pairs-divisible-by-k) |
+| [2206-divide-array-into-equal-pairs](https://github.com/Pradnesh02/LeetCode-/tree/master/2206-divide-array-into-equal-pairs) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Pradnesh02/LeetCode-/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2336-smallest-number-in-infinite-set](https://github.com/Pradnesh02/LeetCode-/tree/master/2336-smallest-number-in-infinite-set) |
 | [2363-merge-similar-items](https://github.com/Pradnesh02/LeetCode-/tree/master/2363-merge-similar-items) |
@@ -448,6 +450,7 @@
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Pradnesh02/LeetCode-/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1787-make-the-xor-of-all-segments-equal-to-zero](https://github.com/Pradnesh02/LeetCode-/tree/master/1787-make-the-xor-of-all-segments-equal-to-zero) |
 | [1915-number-of-wonderful-substrings](https://github.com/Pradnesh02/LeetCode-/tree/master/1915-number-of-wonderful-substrings) |
+| [2206-divide-array-into-equal-pairs](https://github.com/Pradnesh02/LeetCode-/tree/master/2206-divide-array-into-equal-pairs) |
 | [2401-longest-nice-subarray](https://github.com/Pradnesh02/LeetCode-/tree/master/2401-longest-nice-subarray) |
 | [2741-special-permutations](https://github.com/Pradnesh02/LeetCode-/tree/master/2741-special-permutations) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/Pradnesh02/LeetCode-/tree/master/2869-minimum-operations-to-collect-elements) |
@@ -475,6 +478,7 @@
 | [1787-make-the-xor-of-all-segments-equal-to-zero](https://github.com/Pradnesh02/LeetCode-/tree/master/1787-make-the-xor-of-all-segments-equal-to-zero) |
 | [2029-stone-game-ix](https://github.com/Pradnesh02/LeetCode-/tree/master/2029-stone-game-ix) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/Pradnesh02/LeetCode-/tree/master/2183-count-array-pairs-divisible-by-k) |
+| [2206-divide-array-into-equal-pairs](https://github.com/Pradnesh02/LeetCode-/tree/master/2206-divide-array-into-equal-pairs) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Pradnesh02/LeetCode-/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2364-count-number-of-bad-pairs](https://github.com/Pradnesh02/LeetCode-/tree/master/2364-count-number-of-bad-pairs) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/Pradnesh02/LeetCode-/tree/master/2423-remove-letter-to-equalize-frequency) |
