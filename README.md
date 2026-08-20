@@ -86,6 +86,7 @@
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Pradnesh02/LeetCode-/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1224-maximum-equal-frequency](https://github.com/Pradnesh02/LeetCode-/tree/master/1224-maximum-equal-frequency) |
 | [1260-shift-2d-grid](https://github.com/Pradnesh02/LeetCode-/tree/master/1260-shift-2d-grid) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/Pradnesh02/LeetCode-/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1331-rank-transform-of-an-array](https://github.com/Pradnesh02/LeetCode-/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Pradnesh02/LeetCode-/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1366-rank-teams-by-votes](https://github.com/Pradnesh02/LeetCode-/tree/master/1366-rank-teams-by-votes) |
@@ -542,6 +543,7 @@
 | [1139-largest-1-bordered-square](https://github.com/Pradnesh02/LeetCode-/tree/master/1139-largest-1-bordered-square) |
 | [1140-stone-game-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/1140-stone-game-ii) |
 | [1162-as-far-from-land-as-possible](https://github.com/Pradnesh02/LeetCode-/tree/master/1162-as-far-from-land-as-possible) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/Pradnesh02/LeetCode-/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1406-stone-game-iii](https://github.com/Pradnesh02/LeetCode-/tree/master/1406-stone-game-iii) |
 | [1504-count-submatrices-with-all-ones](https://github.com/Pradnesh02/LeetCode-/tree/master/1504-count-submatrices-with-all-ones) |
 | [1510-stone-game-iv](https://github.com/Pradnesh02/LeetCode-/tree/master/1510-stone-game-iv) |
@@ -621,6 +623,7 @@
 | [1139-largest-1-bordered-square](https://github.com/Pradnesh02/LeetCode-/tree/master/1139-largest-1-bordered-square) |
 | [1162-as-far-from-land-as-possible](https://github.com/Pradnesh02/LeetCode-/tree/master/1162-as-far-from-land-as-possible) |
 | [1260-shift-2d-grid](https://github.com/Pradnesh02/LeetCode-/tree/master/1260-shift-2d-grid) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/Pradnesh02/LeetCode-/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1504-count-submatrices-with-all-ones](https://github.com/Pradnesh02/LeetCode-/tree/master/1504-count-submatrices-with-all-ones) |
 | [1632-rank-transform-of-a-matrix](https://github.com/Pradnesh02/LeetCode-/tree/master/1632-rank-transform-of-a-matrix) |
 | [1895-largest-magic-square](https://github.com/Pradnesh02/LeetCode-/tree/master/1895-largest-magic-square) |
