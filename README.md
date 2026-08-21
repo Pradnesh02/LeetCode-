@@ -98,6 +98,7 @@
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Pradnesh02/LeetCode-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Pradnesh02/LeetCode-/tree/master/1441-build-an-array-with-stack-operations) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Pradnesh02/LeetCode-/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Pradnesh02/LeetCode-/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Pradnesh02/LeetCode-/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1504-count-submatrices-with-all-ones](https://github.com/Pradnesh02/LeetCode-/tree/master/1504-count-submatrices-with-all-ones) |
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/Pradnesh02/LeetCode-/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
@@ -281,6 +282,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/Pradnesh02/LeetCode-/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Pradnesh02/LeetCode-/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1366-rank-teams-by-votes](https://github.com/Pradnesh02/LeetCode-/tree/master/1366-rank-teams-by-votes) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Pradnesh02/LeetCode-/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1632-rank-transform-of-a-matrix](https://github.com/Pradnesh02/LeetCode-/tree/master/1632-rank-transform-of-a-matrix) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Pradnesh02/LeetCode-/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Pradnesh02/LeetCode-/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
