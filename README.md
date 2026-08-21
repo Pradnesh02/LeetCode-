@@ -319,6 +319,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Pradnesh02/LeetCode-/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/Pradnesh02/LeetCode-/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Pradnesh02/LeetCode-/tree/master/0009-palindrome-number) |
 | [0043-multiply-strings](https://github.com/Pradnesh02/LeetCode-/tree/master/0043-multiply-strings) |
 | [0062-unique-paths](https://github.com/Pradnesh02/LeetCode-/tree/master/0062-unique-paths) |
