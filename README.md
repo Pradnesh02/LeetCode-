@@ -331,6 +331,7 @@
 | [0504-base-7](https://github.com/Pradnesh02/LeetCode-/tree/master/0504-base-7) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Pradnesh02/LeetCode-/tree/master/0592-fraction-addition-and-subtraction) |
 | [0640-solve-the-equation](https://github.com/Pradnesh02/LeetCode-/tree/master/0640-solve-the-equation) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/Pradnesh02/LeetCode-/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0840-magic-squares-in-grid](https://github.com/Pradnesh02/LeetCode-/tree/master/0840-magic-squares-in-grid) |
 | [0877-stone-game](https://github.com/Pradnesh02/LeetCode-/tree/master/0877-stone-game) |
 | [0989-add-to-array-form-of-integer](https://github.com/Pradnesh02/LeetCode-/tree/master/0989-add-to-array-form-of-integer) |
@@ -704,6 +705,7 @@
 | [0278-first-bad-version](https://github.com/Pradnesh02/LeetCode-/tree/master/0278-first-bad-version) |
 | [0300-longest-increasing-subsequence](https://github.com/Pradnesh02/LeetCode-/tree/master/0300-longest-increasing-subsequence) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Pradnesh02/LeetCode-/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/Pradnesh02/LeetCode-/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0911-online-election](https://github.com/Pradnesh02/LeetCode-/tree/master/0911-online-election) |
 | [1004-max-consecutive-ones-iii](https://github.com/Pradnesh02/LeetCode-/tree/master/1004-max-consecutive-ones-iii) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Pradnesh02/LeetCode-/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
