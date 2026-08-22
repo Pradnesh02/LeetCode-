@@ -383,6 +383,7 @@
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3360-stone-removal-game](https://github.com/Pradnesh02/LeetCode-/tree/master/3360-stone-removal-game) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Pradnesh02/LeetCode-/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Pradnesh02/LeetCode-/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## String
 |  |
 | ------- |
