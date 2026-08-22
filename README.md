@@ -438,6 +438,7 @@
 | [1684-count-the-number-of-consistent-strings](https://github.com/Pradnesh02/LeetCode-/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1859-sorting-the-sentence](https://github.com/Pradnesh02/LeetCode-/tree/master/1859-sorting-the-sentence) |
 | [1915-number-of-wonderful-substrings](https://github.com/Pradnesh02/LeetCode-/tree/master/1915-number-of-wonderful-substrings) |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/Pradnesh02/LeetCode-/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Pradnesh02/LeetCode-/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Pradnesh02/LeetCode-/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/Pradnesh02/LeetCode-/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
@@ -656,6 +657,7 @@
 | [1260-shift-2d-grid](https://github.com/Pradnesh02/LeetCode-/tree/master/1260-shift-2d-grid) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Pradnesh02/LeetCode-/tree/master/1441-build-an-array-with-stack-operations) |
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Pradnesh02/LeetCode-/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/Pradnesh02/LeetCode-/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Pradnesh02/LeetCode-/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/Pradnesh02/LeetCode-/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Pradnesh02/LeetCode-/tree/master/2154-keep-multiplying-found-values-by-two) |
