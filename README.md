@@ -379,6 +379,7 @@
 | [2101-detonate-the-maximum-bombs](https://github.com/Pradnesh02/LeetCode-/tree/master/2101-detonate-the-maximum-bombs) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Pradnesh02/LeetCode-/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Pradnesh02/LeetCode-/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/Pradnesh02/LeetCode-/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/Pradnesh02/LeetCode-/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2249-count-lattice-points-inside-a-circle](https://github.com/Pradnesh02/LeetCode-/tree/master/2249-count-lattice-points-inside-a-circle) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Pradnesh02/LeetCode-/tree/master/2348-number-of-zero-filled-subarrays) |
@@ -661,6 +662,7 @@
 | [2022-convert-1d-array-into-2d-array](https://github.com/Pradnesh02/LeetCode-/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/Pradnesh02/LeetCode-/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Pradnesh02/LeetCode-/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/Pradnesh02/LeetCode-/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Pradnesh02/LeetCode-/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Pradnesh02/LeetCode-/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Pradnesh02/LeetCode-/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
