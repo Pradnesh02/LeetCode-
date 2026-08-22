@@ -189,6 +189,7 @@
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Pradnesh02/LeetCode-/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Pradnesh02/LeetCode-/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/Pradnesh02/LeetCode-/tree/master/3731-find-missing-elements) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Pradnesh02/LeetCode-/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3809-best-reachable-tower](https://github.com/Pradnesh02/LeetCode-/tree/master/3809-best-reachable-tower) |
 ## Hash Table
 |  |
@@ -264,6 +265,7 @@
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Pradnesh02/LeetCode-/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/Pradnesh02/LeetCode-/tree/master/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 | [3731-find-missing-elements](https://github.com/Pradnesh02/LeetCode-/tree/master/3731-find-missing-elements) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Pradnesh02/LeetCode-/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Two Pointers
 |  |
 | ------- |
