@@ -77,6 +77,7 @@
 | [0717-1-bit-and-2-bit-characters](https://github.com/Pradnesh02/LeetCode-/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0735-asteroid-collision](https://github.com/Pradnesh02/LeetCode-/tree/master/0735-asteroid-collision) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Pradnesh02/LeetCode-/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0789-escape-the-ghosts](https://github.com/Pradnesh02/LeetCode-/tree/master/0789-escape-the-ghosts) |
 | [0840-magic-squares-in-grid](https://github.com/Pradnesh02/LeetCode-/tree/master/0840-magic-squares-in-grid) |
 | [0853-car-fleet](https://github.com/Pradnesh02/LeetCode-/tree/master/0853-car-fleet) |
 | [0877-stone-game](https://github.com/Pradnesh02/LeetCode-/tree/master/0877-stone-game) |
@@ -382,6 +383,7 @@
 | [0592-fraction-addition-and-subtraction](https://github.com/Pradnesh02/LeetCode-/tree/master/0592-fraction-addition-and-subtraction) |
 | [0640-solve-the-equation](https://github.com/Pradnesh02/LeetCode-/tree/master/0640-solve-the-equation) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Pradnesh02/LeetCode-/tree/master/0668-kth-smallest-number-in-multiplication-table) |
+| [0789-escape-the-ghosts](https://github.com/Pradnesh02/LeetCode-/tree/master/0789-escape-the-ghosts) |
 | [0840-magic-squares-in-grid](https://github.com/Pradnesh02/LeetCode-/tree/master/0840-magic-squares-in-grid) |
 | [0877-stone-game](https://github.com/Pradnesh02/LeetCode-/tree/master/0877-stone-game) |
 | [0989-add-to-array-form-of-integer](https://github.com/Pradnesh02/LeetCode-/tree/master/0989-add-to-array-form-of-integer) |
