@@ -381,6 +381,7 @@
 | [1776-car-fleet-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/1776-car-fleet-ii) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/Pradnesh02/LeetCode-/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [1837-sum-of-digits-in-base-k](https://github.com/Pradnesh02/LeetCode-/tree/master/1837-sum-of-digits-in-base-k) |
+| [1927-sum-game](https://github.com/Pradnesh02/LeetCode-/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Pradnesh02/LeetCode-/tree/master/2029-stone-game-ix) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Pradnesh02/LeetCode-/tree/master/2101-detonate-the-maximum-bombs) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Pradnesh02/LeetCode-/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -448,6 +449,7 @@
 | [1684-count-the-number-of-consistent-strings](https://github.com/Pradnesh02/LeetCode-/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1859-sorting-the-sentence](https://github.com/Pradnesh02/LeetCode-/tree/master/1859-sorting-the-sentence) |
 | [1915-number-of-wonderful-substrings](https://github.com/Pradnesh02/LeetCode-/tree/master/1915-number-of-wonderful-substrings) |
+| [1927-sum-game](https://github.com/Pradnesh02/LeetCode-/tree/master/1927-sum-game) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Pradnesh02/LeetCode-/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Pradnesh02/LeetCode-/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Pradnesh02/LeetCode-/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
@@ -487,6 +489,7 @@
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Pradnesh02/LeetCode-/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1686-stone-game-vi](https://github.com/Pradnesh02/LeetCode-/tree/master/1686-stone-game-vi) |
 | [1824-minimum-sideway-jumps](https://github.com/Pradnesh02/LeetCode-/tree/master/1824-minimum-sideway-jumps) |
+| [1927-sum-game](https://github.com/Pradnesh02/LeetCode-/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Pradnesh02/LeetCode-/tree/master/2029-stone-game-ix) |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/Pradnesh02/LeetCode-/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Pradnesh02/LeetCode-/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -639,6 +642,7 @@
 | [1563-stone-game-v](https://github.com/Pradnesh02/LeetCode-/tree/master/1563-stone-game-v) |
 | [1686-stone-game-vi](https://github.com/Pradnesh02/LeetCode-/tree/master/1686-stone-game-vi) |
 | [1690-stone-game-vii](https://github.com/Pradnesh02/LeetCode-/tree/master/1690-stone-game-vii) |
+| [1927-sum-game](https://github.com/Pradnesh02/LeetCode-/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Pradnesh02/LeetCode-/tree/master/2029-stone-game-ix) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Pradnesh02/LeetCode-/tree/master/3222-find-the-winning-player-in-coin-game) |
 ## Memoization
