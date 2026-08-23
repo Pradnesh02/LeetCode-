@@ -181,6 +181,7 @@
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/Pradnesh02/LeetCode-/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3093-longest-common-suffix-queries](https://github.com/Pradnesh02/LeetCode-/tree/master/3093-longest-common-suffix-queries) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Pradnesh02/LeetCode-/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Pradnesh02/LeetCode-/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Pradnesh02/LeetCode-/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Pradnesh02/LeetCode-/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3164-find-the-number-of-good-pairs-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/3164-find-the-number-of-good-pairs-ii) |
@@ -265,6 +266,7 @@
 | [3026-maximum-good-subarray-sum](https://github.com/Pradnesh02/LeetCode-/tree/master/3026-maximum-good-subarray-sum) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Pradnesh02/LeetCode-/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Pradnesh02/LeetCode-/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Pradnesh02/LeetCode-/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Pradnesh02/LeetCode-/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Pradnesh02/LeetCode-/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3164-find-the-number-of-good-pairs-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/3164-find-the-number-of-good-pairs-ii) |
@@ -556,6 +558,7 @@
 | [2741-special-permutations](https://github.com/Pradnesh02/LeetCode-/tree/master/2741-special-permutations) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/Pradnesh02/LeetCode-/tree/master/2869-minimum-operations-to-collect-elements) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Pradnesh02/LeetCode-/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Pradnesh02/LeetCode-/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Pradnesh02/LeetCode-/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Divide and Conquer
 |  |
