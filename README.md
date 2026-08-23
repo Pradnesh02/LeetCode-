@@ -387,6 +387,7 @@
 | [0789-escape-the-ghosts](https://github.com/Pradnesh02/LeetCode-/tree/master/0789-escape-the-ghosts) |
 | [0840-magic-squares-in-grid](https://github.com/Pradnesh02/LeetCode-/tree/master/0840-magic-squares-in-grid) |
 | [0877-stone-game](https://github.com/Pradnesh02/LeetCode-/tree/master/0877-stone-game) |
+| [0913-cat-and-mouse](https://github.com/Pradnesh02/LeetCode-/tree/master/0913-cat-and-mouse) |
 | [0989-add-to-array-form-of-integer](https://github.com/Pradnesh02/LeetCode-/tree/master/0989-add-to-array-form-of-integer) |
 | [1006-clumsy-factorial](https://github.com/Pradnesh02/LeetCode-/tree/master/1006-clumsy-factorial) |
 | [1140-stone-game-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/1140-stone-game-ii) |
@@ -638,6 +639,7 @@
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Pradnesh02/LeetCode-/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0730-count-different-palindromic-subsequences](https://github.com/Pradnesh02/LeetCode-/tree/master/0730-count-different-palindromic-subsequences) |
 | [0877-stone-game](https://github.com/Pradnesh02/LeetCode-/tree/master/0877-stone-game) |
+| [0913-cat-and-mouse](https://github.com/Pradnesh02/LeetCode-/tree/master/0913-cat-and-mouse) |
 | [1139-largest-1-bordered-square](https://github.com/Pradnesh02/LeetCode-/tree/master/1139-largest-1-bordered-square) |
 | [1140-stone-game-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/1140-stone-game-ii) |
 | [1162-as-far-from-land-as-possible](https://github.com/Pradnesh02/LeetCode-/tree/master/1162-as-far-from-land-as-possible) |
@@ -667,6 +669,7 @@
 | [0464-can-i-win](https://github.com/Pradnesh02/LeetCode-/tree/master/0464-can-i-win) |
 | [0486-predict-the-winner](https://github.com/Pradnesh02/LeetCode-/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Pradnesh02/LeetCode-/tree/master/0877-stone-game) |
+| [0913-cat-and-mouse](https://github.com/Pradnesh02/LeetCode-/tree/master/0913-cat-and-mouse) |
 | [1140-stone-game-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Pradnesh02/LeetCode-/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Pradnesh02/LeetCode-/tree/master/1510-stone-game-iv) |
@@ -682,6 +685,7 @@
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/Pradnesh02/LeetCode-/tree/master/0241-different-ways-to-add-parentheses) |
 | [0464-can-i-win](https://github.com/Pradnesh02/LeetCode-/tree/master/0464-can-i-win) |
+| [0913-cat-and-mouse](https://github.com/Pradnesh02/LeetCode-/tree/master/0913-cat-and-mouse) |
 | [1728-cat-and-mouse-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/1728-cat-and-mouse-ii) |
 ## Bitmask
 |  |
@@ -830,6 +834,7 @@
 ## Graph Theory
 |  |
 | ------- |
+| [0913-cat-and-mouse](https://github.com/Pradnesh02/LeetCode-/tree/master/0913-cat-and-mouse) |
 | [1632-rank-transform-of-a-matrix](https://github.com/Pradnesh02/LeetCode-/tree/master/1632-rank-transform-of-a-matrix) |
 | [1728-cat-and-mouse-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/1728-cat-and-mouse-ii) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Pradnesh02/LeetCode-/tree/master/2101-detonate-the-maximum-bombs) |
@@ -843,6 +848,7 @@
 ## Minimax
 |  |
 | ------- |
+| [0913-cat-and-mouse](https://github.com/Pradnesh02/LeetCode-/tree/master/0913-cat-and-mouse) |
 | [1140-stone-game-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Pradnesh02/LeetCode-/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Pradnesh02/LeetCode-/tree/master/1510-stone-game-iv) |
@@ -853,6 +859,7 @@
 ## Zero-Sum Game
 |  |
 | ------- |
+| [0913-cat-and-mouse](https://github.com/Pradnesh02/LeetCode-/tree/master/0913-cat-and-mouse) |
 | [1140-stone-game-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Pradnesh02/LeetCode-/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Pradnesh02/LeetCode-/tree/master/1510-stone-game-iv) |
@@ -1057,6 +1064,7 @@
 ## Topological Sort
 |  |
 | ------- |
+| [0913-cat-and-mouse](https://github.com/Pradnesh02/LeetCode-/tree/master/0913-cat-and-mouse) |
 | [1632-rank-transform-of-a-matrix](https://github.com/Pradnesh02/LeetCode-/tree/master/1632-rank-transform-of-a-matrix) |
 | [1728-cat-and-mouse-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/1728-cat-and-mouse-ii) |
 ## Quickselect
