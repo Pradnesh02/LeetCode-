@@ -184,6 +184,7 @@
 | [3238-find-the-number-of-winning-players](https://github.com/Pradnesh02/LeetCode-/tree/master/3238-find-the-number-of-winning-players) |
 | [3250-find-the-count-of-monotonic-pairs-i](https://github.com/Pradnesh02/LeetCode-/tree/master/3250-find-the-count-of-monotonic-pairs-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Pradnesh02/LeetCode-/tree/master/3312-sorted-gcd-pair-queries) |
+| [3356-zero-array-transformation-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/3356-zero-array-transformation-ii) |
 | [3371-identify-the-largest-outlier-in-an-array](https://github.com/Pradnesh02/LeetCode-/tree/master/3371-identify-the-largest-outlier-in-an-array) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Pradnesh02/LeetCode-/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3477-fruits-into-baskets-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/3477-fruits-into-baskets-ii) |
@@ -286,6 +287,7 @@
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Pradnesh02/LeetCode-/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/Pradnesh02/LeetCode-/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Pradnesh02/LeetCode-/tree/master/3186-maximum-total-damage-with-spell-casting) |
+| [3356-zero-array-transformation-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/3356-zero-array-transformation-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -796,6 +798,7 @@
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Pradnesh02/LeetCode-/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Pradnesh02/LeetCode-/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Pradnesh02/LeetCode-/tree/master/3312-sorted-gcd-pair-queries) |
+| [3356-zero-array-transformation-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/3356-zero-array-transformation-ii) |
 | [3477-fruits-into-baskets-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/3477-fruits-into-baskets-ii) |
 ## Graph Theory
 |  |
@@ -862,6 +865,7 @@
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Pradnesh02/LeetCode-/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3250-find-the-count-of-monotonic-pairs-i](https://github.com/Pradnesh02/LeetCode-/tree/master/3250-find-the-count-of-monotonic-pairs-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Pradnesh02/LeetCode-/tree/master/3312-sorted-gcd-pair-queries) |
+| [3356-zero-array-transformation-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/3356-zero-array-transformation-ii) |
 ## Enumeration
 |  |
 | ------- |
