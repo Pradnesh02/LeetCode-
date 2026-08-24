@@ -36,6 +36,7 @@
 | [0041-first-missing-positive](https://github.com/Pradnesh02/LeetCode-/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/Pradnesh02/LeetCode-/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/Pradnesh02/LeetCode-/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Pradnesh02/LeetCode-/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Pradnesh02/LeetCode-/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/Pradnesh02/LeetCode-/tree/master/0064-minimum-path-sum) |
@@ -219,6 +220,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pradnesh02/LeetCode-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Pradnesh02/LeetCode-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/Pradnesh02/LeetCode-/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/Pradnesh02/LeetCode-/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Pradnesh02/LeetCode-/tree/master/0073-set-matrix-zeroes) |
 | [0202-happy-number](https://github.com/Pradnesh02/LeetCode-/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/Pradnesh02/LeetCode-/tree/master/0208-implement-trie-prefix-tree) |
@@ -315,6 +317,7 @@
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/Pradnesh02/LeetCode-/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Pradnesh02/LeetCode-/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Pradnesh02/LeetCode-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/Pradnesh02/LeetCode-/tree/master/0268-missing-number) |
@@ -457,6 +460,7 @@
 | [0014-longest-common-prefix](https://github.com/Pradnesh02/LeetCode-/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Pradnesh02/LeetCode-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0043-multiply-strings](https://github.com/Pradnesh02/LeetCode-/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/Pradnesh02/LeetCode-/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Pradnesh02/LeetCode-/tree/master/0058-length-of-last-word) |
 | [0208-implement-trie-prefix-tree](https://github.com/Pradnesh02/LeetCode-/tree/master/0208-implement-trie-prefix-tree) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Pradnesh02/LeetCode-/tree/master/0241-different-ways-to-add-parentheses) |
