@@ -21,6 +21,7 @@
 | [0234-palindrome-linked-list](https://github.com/Pradnesh02/LeetCode-/tree/master/0234-palindrome-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Pradnesh02/LeetCode-/tree/master/0241-different-ways-to-add-parentheses) |
 | [0486-predict-the-winner](https://github.com/Pradnesh02/LeetCode-/tree/master/0486-predict-the-winner) |
+| [1922-count-good-numbers](https://github.com/Pradnesh02/LeetCode-/tree/master/1922-count-good-numbers) |
 ## Array
 |  |
 | ------- |
@@ -404,6 +405,7 @@
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/Pradnesh02/LeetCode-/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [1837-sum-of-digits-in-base-k](https://github.com/Pradnesh02/LeetCode-/tree/master/1837-sum-of-digits-in-base-k) |
 | [1872-stone-game-viii](https://github.com/Pradnesh02/LeetCode-/tree/master/1872-stone-game-viii) |
+| [1922-count-good-numbers](https://github.com/Pradnesh02/LeetCode-/tree/master/1922-count-good-numbers) |
 | [1927-sum-game](https://github.com/Pradnesh02/LeetCode-/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Pradnesh02/LeetCode-/tree/master/2029-stone-game-ix) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Pradnesh02/LeetCode-/tree/master/2101-detonate-the-maximum-bombs) |
