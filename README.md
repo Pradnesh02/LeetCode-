@@ -42,6 +42,7 @@
 | [0066-plus-one](https://github.com/Pradnesh02/LeetCode-/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Pradnesh02/LeetCode-/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Pradnesh02/LeetCode-/tree/master/0074-search-a-2d-matrix) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Pradnesh02/LeetCode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/Pradnesh02/LeetCode-/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/Pradnesh02/LeetCode-/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/0137-single-number-ii) |
@@ -631,6 +632,7 @@
 | [0064-minimum-path-sum](https://github.com/Pradnesh02/LeetCode-/tree/master/0064-minimum-path-sum) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Pradnesh02/LeetCode-/tree/master/0096-unique-binary-search-trees) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Pradnesh02/LeetCode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Pradnesh02/LeetCode-/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Pradnesh02/LeetCode-/tree/master/0198-house-robber) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Pradnesh02/LeetCode-/tree/master/0241-different-ways-to-add-parentheses) |
