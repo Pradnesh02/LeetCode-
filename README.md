@@ -234,6 +234,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/Pradnesh02/LeetCode-/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Pradnesh02/LeetCode-/tree/master/0451-sort-characters-by-frequency) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Pradnesh02/LeetCode-/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0567-permutation-in-string](https://github.com/Pradnesh02/LeetCode-/tree/master/0567-permutation-in-string) |
 | [0648-replace-words](https://github.com/Pradnesh02/LeetCode-/tree/master/0648-replace-words) |
 | [0676-implement-magic-dictionary](https://github.com/Pradnesh02/LeetCode-/tree/master/0676-implement-magic-dictionary) |
 | [0763-partition-labels](https://github.com/Pradnesh02/LeetCode-/tree/master/0763-partition-labels) |
@@ -303,6 +304,7 @@
 | [0202-happy-number](https://github.com/Pradnesh02/LeetCode-/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Pradnesh02/LeetCode-/tree/master/0234-palindrome-linked-list) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Pradnesh02/LeetCode-/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0567-permutation-in-string](https://github.com/Pradnesh02/LeetCode-/tree/master/0567-permutation-in-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Pradnesh02/LeetCode-/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0763-partition-labels](https://github.com/Pradnesh02/LeetCode-/tree/master/0763-partition-labels) |
 | [0905-sort-array-by-parity](https://github.com/Pradnesh02/LeetCode-/tree/master/0905-sort-array-by-parity) |
@@ -477,6 +479,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/Pradnesh02/LeetCode-/tree/master/0451-sort-characters-by-frequency) |
 | [0504-base-7](https://github.com/Pradnesh02/LeetCode-/tree/master/0504-base-7) |
 | [0516-longest-palindromic-subsequence](https://github.com/Pradnesh02/LeetCode-/tree/master/0516-longest-palindromic-subsequence) |
+| [0567-permutation-in-string](https://github.com/Pradnesh02/LeetCode-/tree/master/0567-permutation-in-string) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Pradnesh02/LeetCode-/tree/master/0592-fraction-addition-and-subtraction) |
 | [0640-solve-the-equation](https://github.com/Pradnesh02/LeetCode-/tree/master/0640-solve-the-equation) |
 | [0648-replace-words](https://github.com/Pradnesh02/LeetCode-/tree/master/0648-replace-words) |
@@ -993,6 +996,7 @@
 | [0413-arithmetic-slices](https://github.com/Pradnesh02/LeetCode-/tree/master/0413-arithmetic-slices) |
 | [0424-longest-repeating-character-replacement](https://github.com/Pradnesh02/LeetCode-/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Pradnesh02/LeetCode-/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/Pradnesh02/LeetCode-/tree/master/0567-permutation-in-string) |
 | [0713-subarray-product-less-than-k](https://github.com/Pradnesh02/LeetCode-/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/Pradnesh02/LeetCode-/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Pradnesh02/LeetCode-/tree/master/1004-max-consecutive-ones-iii) |
