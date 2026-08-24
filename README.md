@@ -222,6 +222,7 @@
 | [0041-first-missing-positive](https://github.com/Pradnesh02/LeetCode-/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Pradnesh02/LeetCode-/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Pradnesh02/LeetCode-/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/Pradnesh02/LeetCode-/tree/master/0076-minimum-window-substring) |
 | [0202-happy-number](https://github.com/Pradnesh02/LeetCode-/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/Pradnesh02/LeetCode-/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Pradnesh02/LeetCode-/tree/master/0242-valid-anagram) |
@@ -467,6 +468,7 @@
 | [0043-multiply-strings](https://github.com/Pradnesh02/LeetCode-/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Pradnesh02/LeetCode-/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Pradnesh02/LeetCode-/tree/master/0058-length-of-last-word) |
+| [0076-minimum-window-substring](https://github.com/Pradnesh02/LeetCode-/tree/master/0076-minimum-window-substring) |
 | [0208-implement-trie-prefix-tree](https://github.com/Pradnesh02/LeetCode-/tree/master/0208-implement-trie-prefix-tree) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Pradnesh02/LeetCode-/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/Pradnesh02/LeetCode-/tree/master/0242-valid-anagram) |
@@ -992,6 +994,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pradnesh02/LeetCode-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/Pradnesh02/LeetCode-/tree/master/0076-minimum-window-substring) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Pradnesh02/LeetCode-/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0413-arithmetic-slices](https://github.com/Pradnesh02/LeetCode-/tree/master/0413-arithmetic-slices) |
 | [0424-longest-repeating-character-replacement](https://github.com/Pradnesh02/LeetCode-/tree/master/0424-longest-repeating-character-replacement) |
