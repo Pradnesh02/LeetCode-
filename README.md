@@ -193,6 +193,7 @@
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Pradnesh02/LeetCode-/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/Pradnesh02/LeetCode-/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3093-longest-common-suffix-queries](https://github.com/Pradnesh02/LeetCode-/tree/master/3093-longest-common-suffix-queries) |
+| [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/Pradnesh02/LeetCode-/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Pradnesh02/LeetCode-/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Pradnesh02/LeetCode-/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Pradnesh02/LeetCode-/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
@@ -600,6 +601,7 @@
 | [2506-count-pairs-of-similar-strings](https://github.com/Pradnesh02/LeetCode-/tree/master/2506-count-pairs-of-similar-strings) |
 | [2741-special-permutations](https://github.com/Pradnesh02/LeetCode-/tree/master/2741-special-permutations) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/Pradnesh02/LeetCode-/tree/master/2869-minimum-operations-to-collect-elements) |
+| [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/Pradnesh02/LeetCode-/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Pradnesh02/LeetCode-/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Pradnesh02/LeetCode-/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Pradnesh02/LeetCode-/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -1015,6 +1017,7 @@
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Pradnesh02/LeetCode-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Pradnesh02/LeetCode-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Pradnesh02/LeetCode-/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/Pradnesh02/LeetCode-/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 ## Monotonic Stack
 |  |
 | ------- |
