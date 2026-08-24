@@ -224,6 +224,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Pradnesh02/LeetCode-/tree/master/0073-set-matrix-zeroes) |
 | [0202-happy-number](https://github.com/Pradnesh02/LeetCode-/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/Pradnesh02/LeetCode-/tree/master/0208-implement-trie-prefix-tree) |
+| [0242-valid-anagram](https://github.com/Pradnesh02/LeetCode-/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Pradnesh02/LeetCode-/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Pradnesh02/LeetCode-/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Pradnesh02/LeetCode-/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
@@ -320,6 +321,7 @@
 | [0049-group-anagrams](https://github.com/Pradnesh02/LeetCode-/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Pradnesh02/LeetCode-/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Pradnesh02/LeetCode-/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/Pradnesh02/LeetCode-/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Pradnesh02/LeetCode-/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Pradnesh02/LeetCode-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/Pradnesh02/LeetCode-/tree/master/0414-third-maximum-number) |
@@ -464,6 +466,7 @@
 | [0058-length-of-last-word](https://github.com/Pradnesh02/LeetCode-/tree/master/0058-length-of-last-word) |
 | [0208-implement-trie-prefix-tree](https://github.com/Pradnesh02/LeetCode-/tree/master/0208-implement-trie-prefix-tree) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Pradnesh02/LeetCode-/tree/master/0241-different-ways-to-add-parentheses) |
+| [0242-valid-anagram](https://github.com/Pradnesh02/LeetCode-/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Pradnesh02/LeetCode-/tree/master/0383-ransom-note) |
 | [0388-longest-absolute-file-path](https://github.com/Pradnesh02/LeetCode-/tree/master/0388-longest-absolute-file-path) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Pradnesh02/LeetCode-/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
