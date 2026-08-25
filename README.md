@@ -135,6 +135,7 @@
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Pradnesh02/LeetCode-/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1776-car-fleet-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/1776-car-fleet-ii) |
 | [1787-make-the-xor-of-all-segments-equal-to-zero](https://github.com/Pradnesh02/LeetCode-/tree/master/1787-make-the-xor-of-all-segments-equal-to-zero) |
+| [1803-count-pairs-with-xor-in-a-range](https://github.com/Pradnesh02/LeetCode-/tree/master/1803-count-pairs-with-xor-in-a-range) |
 | [1824-minimum-sideway-jumps](https://github.com/Pradnesh02/LeetCode-/tree/master/1824-minimum-sideway-jumps) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/Pradnesh02/LeetCode-/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [1872-stone-game-viii](https://github.com/Pradnesh02/LeetCode-/tree/master/1872-stone-game-viii) |
@@ -603,6 +604,7 @@
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Pradnesh02/LeetCode-/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Pradnesh02/LeetCode-/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1787-make-the-xor-of-all-segments-equal-to-zero](https://github.com/Pradnesh02/LeetCode-/tree/master/1787-make-the-xor-of-all-segments-equal-to-zero) |
+| [1803-count-pairs-with-xor-in-a-range](https://github.com/Pradnesh02/LeetCode-/tree/master/1803-count-pairs-with-xor-in-a-range) |
 | [1915-number-of-wonderful-substrings](https://github.com/Pradnesh02/LeetCode-/tree/master/1915-number-of-wonderful-substrings) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Pradnesh02/LeetCode-/tree/master/2206-divide-array-into-equal-pairs) |
 | [2401-longest-nice-subarray](https://github.com/Pradnesh02/LeetCode-/tree/master/2401-longest-nice-subarray) |
@@ -1090,6 +1092,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/Pradnesh02/LeetCode-/tree/master/0208-implement-trie-prefix-tree) |
 | [0648-replace-words](https://github.com/Pradnesh02/LeetCode-/tree/master/0648-replace-words) |
 | [0676-implement-magic-dictionary](https://github.com/Pradnesh02/LeetCode-/tree/master/0676-implement-magic-dictionary) |
+| [1803-count-pairs-with-xor-in-a-range](https://github.com/Pradnesh02/LeetCode-/tree/master/1803-count-pairs-with-xor-in-a-range) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Pradnesh02/LeetCode-/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/Pradnesh02/LeetCode-/tree/master/3093-longest-common-suffix-queries) |
 ## Rolling Hash
