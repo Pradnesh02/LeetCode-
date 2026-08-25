@@ -161,6 +161,7 @@
 | [2249-count-lattice-points-inside-a-circle](https://github.com/Pradnesh02/LeetCode-/tree/master/2249-count-lattice-points-inside-a-circle) |
 | [2258-escape-the-spreading-fire](https://github.com/Pradnesh02/LeetCode-/tree/master/2258-escape-the-spreading-fire) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Pradnesh02/LeetCode-/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [2343-query-kth-smallest-trimmed-number](https://github.com/Pradnesh02/LeetCode-/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Pradnesh02/LeetCode-/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2363-merge-similar-items](https://github.com/Pradnesh02/LeetCode-/tree/master/2363-merge-similar-items) |
 | [2364-count-number-of-bad-pairs](https://github.com/Pradnesh02/LeetCode-/tree/master/2364-count-number-of-bad-pairs) |
@@ -360,6 +361,7 @@
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Pradnesh02/LeetCode-/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/Pradnesh02/LeetCode-/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Pradnesh02/LeetCode-/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [2343-query-kth-smallest-trimmed-number](https://github.com/Pradnesh02/LeetCode-/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [2363-merge-similar-items](https://github.com/Pradnesh02/LeetCode-/tree/master/2363-merge-similar-items) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/Pradnesh02/LeetCode-/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/Pradnesh02/LeetCode-/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
@@ -518,6 +520,7 @@
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Pradnesh02/LeetCode-/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2278-percentage-of-letter-in-string](https://github.com/Pradnesh02/LeetCode-/tree/master/2278-percentage-of-letter-in-string) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Pradnesh02/LeetCode-/tree/master/2287-rearrange-characters-to-make-target-string) |
+| [2343-query-kth-smallest-trimmed-number](https://github.com/Pradnesh02/LeetCode-/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [2370-longest-ideal-subsequence](https://github.com/Pradnesh02/LeetCode-/tree/master/2370-longest-ideal-subsequence) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Pradnesh02/LeetCode-/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Pradnesh02/LeetCode-/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -617,6 +620,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Pradnesh02/LeetCode-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Pradnesh02/LeetCode-/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [2343-query-kth-smallest-trimmed-number](https://github.com/Pradnesh02/LeetCode-/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [2407-longest-increasing-subsequence-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/2407-longest-increasing-subsequence-ii) |
 ## Counting
 |  |
@@ -932,6 +936,7 @@
 | [2146-k-highest-ranked-items-within-a-price-range](https://github.com/Pradnesh02/LeetCode-/tree/master/2146-k-highest-ranked-items-within-a-price-range) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/Pradnesh02/LeetCode-/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2336-smallest-number-in-infinite-set](https://github.com/Pradnesh02/LeetCode-/tree/master/2336-smallest-number-in-infinite-set) |
+| [2343-query-kth-smallest-trimmed-number](https://github.com/Pradnesh02/LeetCode-/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/Pradnesh02/LeetCode-/tree/master/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 ## Prefix Sum
 |  |
@@ -1133,6 +1138,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Pradnesh02/LeetCode-/tree/master/0215-kth-largest-element-in-an-array) |
+| [2343-query-kth-smallest-trimmed-number](https://github.com/Pradnesh02/LeetCode-/tree/master/2343-query-kth-smallest-trimmed-number) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -1164,4 +1170,8 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Pradnesh02/LeetCode-/tree/master/0202-happy-number) |
+## Radix Sort
+|  |
+| ------- |
+| [2343-query-kth-smallest-trimmed-number](https://github.com/Pradnesh02/LeetCode-/tree/master/2343-query-kth-smallest-trimmed-number) |
 <!---LeetCode Topics End-->
