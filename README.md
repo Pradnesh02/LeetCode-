@@ -140,6 +140,7 @@
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/Pradnesh02/LeetCode-/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [1872-stone-game-viii](https://github.com/Pradnesh02/LeetCode-/tree/master/1872-stone-game-viii) |
 | [1895-largest-magic-square](https://github.com/Pradnesh02/LeetCode-/tree/master/1895-largest-magic-square) |
+| [1905-count-sub-islands](https://github.com/Pradnesh02/LeetCode-/tree/master/1905-count-sub-islands) |
 | [1937-maximum-number-of-points-with-cost](https://github.com/Pradnesh02/LeetCode-/tree/master/1937-maximum-number-of-points-with-cost) |
 | [1992-find-all-groups-of-farmland](https://github.com/Pradnesh02/LeetCode-/tree/master/1992-find-all-groups-of-farmland) |
 | [2012-sum-of-beauty-in-the-array](https://github.com/Pradnesh02/LeetCode-/tree/master/2012-sum-of-beauty-in-the-array) |
@@ -806,6 +807,7 @@
 | [1632-rank-transform-of-a-matrix](https://github.com/Pradnesh02/LeetCode-/tree/master/1632-rank-transform-of-a-matrix) |
 | [1728-cat-and-mouse-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/1728-cat-and-mouse-ii) |
 | [1895-largest-magic-square](https://github.com/Pradnesh02/LeetCode-/tree/master/1895-largest-magic-square) |
+| [1905-count-sub-islands](https://github.com/Pradnesh02/LeetCode-/tree/master/1905-count-sub-islands) |
 | [1937-maximum-number-of-points-with-cost](https://github.com/Pradnesh02/LeetCode-/tree/master/1937-maximum-number-of-points-with-cost) |
 | [1992-find-all-groups-of-farmland](https://github.com/Pradnesh02/LeetCode-/tree/master/1992-find-all-groups-of-farmland) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Pradnesh02/LeetCode-/tree/master/2022-convert-1d-array-into-2d-array) |
@@ -834,6 +836,7 @@
 | [0676-implement-magic-dictionary](https://github.com/Pradnesh02/LeetCode-/tree/master/0676-implement-magic-dictionary) |
 | [0695-max-area-of-island](https://github.com/Pradnesh02/LeetCode-/tree/master/0695-max-area-of-island) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Pradnesh02/LeetCode-/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1905-count-sub-islands](https://github.com/Pradnesh02/LeetCode-/tree/master/1905-count-sub-islands) |
 | [1992-find-all-groups-of-farmland](https://github.com/Pradnesh02/LeetCode-/tree/master/1992-find-all-groups-of-farmland) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Pradnesh02/LeetCode-/tree/master/2101-detonate-the-maximum-bombs) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Pradnesh02/LeetCode-/tree/master/2658-maximum-number-of-fish-in-a-grid) |
@@ -847,6 +850,7 @@
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Pradnesh02/LeetCode-/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0994-rotting-oranges](https://github.com/Pradnesh02/LeetCode-/tree/master/0994-rotting-oranges) |
 | [1162-as-far-from-land-as-possible](https://github.com/Pradnesh02/LeetCode-/tree/master/1162-as-far-from-land-as-possible) |
+| [1905-count-sub-islands](https://github.com/Pradnesh02/LeetCode-/tree/master/1905-count-sub-islands) |
 | [1992-find-all-groups-of-farmland](https://github.com/Pradnesh02/LeetCode-/tree/master/1992-find-all-groups-of-farmland) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Pradnesh02/LeetCode-/tree/master/2101-detonate-the-maximum-bombs) |
 | [2146-k-highest-ranked-items-within-a-price-range](https://github.com/Pradnesh02/LeetCode-/tree/master/2146-k-highest-ranked-items-within-a-price-range) |
@@ -860,6 +864,7 @@
 | [0200-number-of-islands](https://github.com/Pradnesh02/LeetCode-/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Pradnesh02/LeetCode-/tree/master/0695-max-area-of-island) |
 | [1632-rank-transform-of-a-matrix](https://github.com/Pradnesh02/LeetCode-/tree/master/1632-rank-transform-of-a-matrix) |
+| [1905-count-sub-islands](https://github.com/Pradnesh02/LeetCode-/tree/master/1905-count-sub-islands) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Pradnesh02/LeetCode-/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## Binary Search
 |  |
