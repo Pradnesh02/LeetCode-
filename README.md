@@ -57,6 +57,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Pradnesh02/LeetCode-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/Pradnesh02/LeetCode-/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/Pradnesh02/LeetCode-/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/Pradnesh02/LeetCode-/tree/master/0260-single-number-iii) |
@@ -239,6 +240,7 @@
 | [0202-happy-number](https://github.com/Pradnesh02/LeetCode-/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/Pradnesh02/LeetCode-/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/Pradnesh02/LeetCode-/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Pradnesh02/LeetCode-/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Pradnesh02/LeetCode-/tree/master/0268-missing-number) |
@@ -1043,6 +1045,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pradnesh02/LeetCode-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Pradnesh02/LeetCode-/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Pradnesh02/LeetCode-/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/0219-contains-duplicate-ii) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Pradnesh02/LeetCode-/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0413-arithmetic-slices](https://github.com/Pradnesh02/LeetCode-/tree/master/0413-arithmetic-slices) |
 | [0424-longest-repeating-character-replacement](https://github.com/Pradnesh02/LeetCode-/tree/master/0424-longest-repeating-character-replacement) |
