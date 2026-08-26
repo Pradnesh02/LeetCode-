@@ -306,6 +306,7 @@
 | [3718-smallest-missing-multiple-of-k](https://github.com/Pradnesh02/LeetCode-/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Pradnesh02/LeetCode-/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Pradnesh02/LeetCode-/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/Pradnesh02/LeetCode-/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Two Pointers
 |  |
 | ------- |
@@ -545,6 +546,7 @@
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Pradnesh02/LeetCode-/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3093-longest-common-suffix-queries](https://github.com/Pradnesh02/LeetCode-/tree/master/3093-longest-common-suffix-queries) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/Pradnesh02/LeetCode-/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Greedy
 |  |
 | ------- |
