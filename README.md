@@ -169,6 +169,7 @@
 | [2363-merge-similar-items](https://github.com/Pradnesh02/LeetCode-/tree/master/2363-merge-similar-items) |
 | [2364-count-number-of-bad-pairs](https://github.com/Pradnesh02/LeetCode-/tree/master/2364-count-number-of-bad-pairs) |
 | [2401-longest-nice-subarray](https://github.com/Pradnesh02/LeetCode-/tree/master/2401-longest-nice-subarray) |
+| [2404-most-frequent-even-element](https://github.com/Pradnesh02/LeetCode-/tree/master/2404-most-frequent-even-element) |
 | [2407-longest-increasing-subsequence-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/2407-longest-increasing-subsequence-ii) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Pradnesh02/LeetCode-/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/Pradnesh02/LeetCode-/tree/master/2448-minimum-cost-to-make-array-equal) |
@@ -280,6 +281,7 @@
 | [2363-merge-similar-items](https://github.com/Pradnesh02/LeetCode-/tree/master/2363-merge-similar-items) |
 | [2364-count-number-of-bad-pairs](https://github.com/Pradnesh02/LeetCode-/tree/master/2364-count-number-of-bad-pairs) |
 | [2370-longest-ideal-subsequence](https://github.com/Pradnesh02/LeetCode-/tree/master/2370-longest-ideal-subsequence) |
+| [2404-most-frequent-even-element](https://github.com/Pradnesh02/LeetCode-/tree/master/2404-most-frequent-even-element) |
 | [2405-optimal-partition-of-string](https://github.com/Pradnesh02/LeetCode-/tree/master/2405-optimal-partition-of-string) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/Pradnesh02/LeetCode-/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2453-destroy-sequential-targets](https://github.com/Pradnesh02/LeetCode-/tree/master/2453-destroy-sequential-targets) |
@@ -650,6 +652,7 @@
 | [2206-divide-array-into-equal-pairs](https://github.com/Pradnesh02/LeetCode-/tree/master/2206-divide-array-into-equal-pairs) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Pradnesh02/LeetCode-/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2364-count-number-of-bad-pairs](https://github.com/Pradnesh02/LeetCode-/tree/master/2364-count-number-of-bad-pairs) |
+| [2404-most-frequent-even-element](https://github.com/Pradnesh02/LeetCode-/tree/master/2404-most-frequent-even-element) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/Pradnesh02/LeetCode-/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2453-destroy-sequential-targets](https://github.com/Pradnesh02/LeetCode-/tree/master/2453-destroy-sequential-targets) |
 | [2506-count-pairs-of-similar-strings](https://github.com/Pradnesh02/LeetCode-/tree/master/2506-count-pairs-of-similar-strings) |
