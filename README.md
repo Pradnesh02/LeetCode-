@@ -50,6 +50,7 @@
 | [0136-single-number](https://github.com/Pradnesh02/LeetCode-/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/Pradnesh02/LeetCode-/tree/master/0152-maximum-product-subarray) |
+| [0169-majority-element](https://github.com/Pradnesh02/LeetCode-/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Pradnesh02/LeetCode-/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Pradnesh02/LeetCode-/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Pradnesh02/LeetCode-/tree/master/0209-minimum-size-subarray-sum) |
@@ -232,6 +233,7 @@
 | [0049-group-anagrams](https://github.com/Pradnesh02/LeetCode-/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Pradnesh02/LeetCode-/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Pradnesh02/LeetCode-/tree/master/0076-minimum-window-substring) |
+| [0169-majority-element](https://github.com/Pradnesh02/LeetCode-/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Pradnesh02/LeetCode-/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/Pradnesh02/LeetCode-/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Pradnesh02/LeetCode-/tree/master/0242-valid-anagram) |
@@ -337,6 +339,7 @@
 | [0047-permutations-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Pradnesh02/LeetCode-/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Pradnesh02/LeetCode-/tree/master/0056-merge-intervals) |
+| [0169-majority-element](https://github.com/Pradnesh02/LeetCode-/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Pradnesh02/LeetCode-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Pradnesh02/LeetCode-/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Pradnesh02/LeetCode-/tree/master/0268-missing-number) |
@@ -628,6 +631,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Pradnesh02/LeetCode-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Pradnesh02/LeetCode-/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Pradnesh02/LeetCode-/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Pradnesh02/LeetCode-/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Pradnesh02/LeetCode-/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Pradnesh02/LeetCode-/tree/master/0215-kth-largest-element-in-an-array) |
@@ -638,6 +642,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Pradnesh02/LeetCode-/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Pradnesh02/LeetCode-/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/Pradnesh02/LeetCode-/tree/master/0451-sort-characters-by-frequency) |
 | [1090-largest-values-from-labels](https://github.com/Pradnesh02/LeetCode-/tree/master/1090-largest-values-from-labels) |
@@ -1196,4 +1201,8 @@
 |  |
 | ------- |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/Pradnesh02/LeetCode-/tree/master/2343-query-kth-smallest-trimmed-number) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Pradnesh02/LeetCode-/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
