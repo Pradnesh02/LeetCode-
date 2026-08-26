@@ -20,6 +20,7 @@
 | [0206-reverse-linked-list](https://github.com/Pradnesh02/LeetCode-/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Pradnesh02/LeetCode-/tree/master/0234-palindrome-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Pradnesh02/LeetCode-/tree/master/0241-different-ways-to-add-parentheses) |
+| [0390-elimination-game](https://github.com/Pradnesh02/LeetCode-/tree/master/0390-elimination-game) |
 | [0486-predict-the-winner](https://github.com/Pradnesh02/LeetCode-/tree/master/0486-predict-the-winner) |
 | [1922-count-good-numbers](https://github.com/Pradnesh02/LeetCode-/tree/master/1922-count-good-numbers) |
 ## Array
@@ -428,6 +429,7 @@
 | [0268-missing-number](https://github.com/Pradnesh02/LeetCode-/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Pradnesh02/LeetCode-/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Pradnesh02/LeetCode-/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0390-elimination-game](https://github.com/Pradnesh02/LeetCode-/tree/master/0390-elimination-game) |
 | [0415-add-strings](https://github.com/Pradnesh02/LeetCode-/tree/master/0415-add-strings) |
 | [0464-can-i-win](https://github.com/Pradnesh02/LeetCode-/tree/master/0464-can-i-win) |
 | [0486-predict-the-winner](https://github.com/Pradnesh02/LeetCode-/tree/master/0486-predict-the-winner) |
