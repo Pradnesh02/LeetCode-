@@ -307,6 +307,7 @@
 | [3238-find-the-number-of-winning-players](https://github.com/Pradnesh02/LeetCode-/tree/master/3238-find-the-number-of-winning-players) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Pradnesh02/LeetCode-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3371-identify-the-largest-outlier-in-an-array](https://github.com/Pradnesh02/LeetCode-/tree/master/3371-identify-the-largest-outlier-in-an-array) |
+| [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Pradnesh02/LeetCode-/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Pradnesh02/LeetCode-/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/Pradnesh02/LeetCode-/tree/master/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Pradnesh02/LeetCode-/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -554,6 +555,7 @@
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Pradnesh02/LeetCode-/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3093-longest-common-suffix-queries](https://github.com/Pradnesh02/LeetCode-/tree/master/3093-longest-common-suffix-queries) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Pradnesh02/LeetCode-/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Pradnesh02/LeetCode-/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Greedy
 |  |
@@ -672,6 +674,7 @@
 | [3238-find-the-number-of-winning-players](https://github.com/Pradnesh02/LeetCode-/tree/master/3238-find-the-number-of-winning-players) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Pradnesh02/LeetCode-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3371-identify-the-largest-outlier-in-an-array](https://github.com/Pradnesh02/LeetCode-/tree/master/3371-identify-the-largest-outlier-in-an-array) |
+| [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Pradnesh02/LeetCode-/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 ## Stack
 |  |
 | ------- |
