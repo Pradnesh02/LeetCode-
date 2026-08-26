@@ -448,6 +448,7 @@
 | [0989-add-to-array-form-of-integer](https://github.com/Pradnesh02/LeetCode-/tree/master/0989-add-to-array-form-of-integer) |
 | [1006-clumsy-factorial](https://github.com/Pradnesh02/LeetCode-/tree/master/1006-clumsy-factorial) |
 | [1140-stone-game-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/1140-stone-game-ii) |
+| [1154-day-of-the-year](https://github.com/Pradnesh02/LeetCode-/tree/master/1154-day-of-the-year) |
 | [1406-stone-game-iii](https://github.com/Pradnesh02/LeetCode-/tree/master/1406-stone-game-iii) |
 | [1447-simplified-fractions](https://github.com/Pradnesh02/LeetCode-/tree/master/1447-simplified-fractions) |
 | [1510-stone-game-iv](https://github.com/Pradnesh02/LeetCode-/tree/master/1510-stone-game-iv) |
@@ -531,6 +532,7 @@
 | [0942-di-string-match](https://github.com/Pradnesh02/LeetCode-/tree/master/0942-di-string-match) |
 | [0966-vowel-spellchecker](https://github.com/Pradnesh02/LeetCode-/tree/master/0966-vowel-spellchecker) |
 | [1078-occurrences-after-bigram](https://github.com/Pradnesh02/LeetCode-/tree/master/1078-occurrences-after-bigram) |
+| [1154-day-of-the-year](https://github.com/Pradnesh02/LeetCode-/tree/master/1154-day-of-the-year) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Pradnesh02/LeetCode-/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Pradnesh02/LeetCode-/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1366-rank-teams-by-votes](https://github.com/Pradnesh02/LeetCode-/tree/master/1366-rank-teams-by-votes) |
