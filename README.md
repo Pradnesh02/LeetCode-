@@ -480,6 +480,7 @@
 | [2544-alternating-digit-sum](https://github.com/Pradnesh02/LeetCode-/tree/master/2544-alternating-digit-sum) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/Pradnesh02/LeetCode-/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2843-count-symmetric-integers](https://github.com/Pradnesh02/LeetCode-/tree/master/2843-count-symmetric-integers) |
+| [2849-determine-if-a-cell-is-reachable-at-a-given-time](https://github.com/Pradnesh02/LeetCode-/tree/master/2849-determine-if-a-cell-is-reachable-at-a-given-time) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Pradnesh02/LeetCode-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/Pradnesh02/LeetCode-/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/Pradnesh02/LeetCode-/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
