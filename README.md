@@ -58,6 +58,7 @@
 | [0216-combination-sum-iii](https://github.com/Pradnesh02/LeetCode-/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/Pradnesh02/LeetCode-/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/0219-contains-duplicate-ii) |
+| [0220-contains-duplicate-iii](https://github.com/Pradnesh02/LeetCode-/tree/master/0220-contains-duplicate-iii) |
 | [0229-majority-element-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/Pradnesh02/LeetCode-/tree/master/0260-single-number-iii) |
@@ -349,6 +350,7 @@
 | [0169-majority-element](https://github.com/Pradnesh02/LeetCode-/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Pradnesh02/LeetCode-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Pradnesh02/LeetCode-/tree/master/0217-contains-duplicate) |
+| [0220-contains-duplicate-iii](https://github.com/Pradnesh02/LeetCode-/tree/master/0220-contains-duplicate-iii) |
 | [0229-majority-element-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Pradnesh02/LeetCode-/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Pradnesh02/LeetCode-/tree/master/0268-missing-number) |
@@ -395,6 +397,7 @@
 ## Ordered Set
 |  |
 | ------- |
+| [0220-contains-duplicate-iii](https://github.com/Pradnesh02/LeetCode-/tree/master/0220-contains-duplicate-iii) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Pradnesh02/LeetCode-/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2336-smallest-number-in-infinite-set](https://github.com/Pradnesh02/LeetCode-/tree/master/2336-smallest-number-in-infinite-set) |
 | [2363-merge-similar-items](https://github.com/Pradnesh02/LeetCode-/tree/master/2363-merge-similar-items) |
@@ -1046,6 +1049,7 @@
 | [0076-minimum-window-substring](https://github.com/Pradnesh02/LeetCode-/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Pradnesh02/LeetCode-/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/0219-contains-duplicate-ii) |
+| [0220-contains-duplicate-iii](https://github.com/Pradnesh02/LeetCode-/tree/master/0220-contains-duplicate-iii) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Pradnesh02/LeetCode-/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0413-arithmetic-slices](https://github.com/Pradnesh02/LeetCode-/tree/master/0413-arithmetic-slices) |
 | [0424-longest-repeating-character-replacement](https://github.com/Pradnesh02/LeetCode-/tree/master/0424-longest-repeating-character-replacement) |
@@ -1201,6 +1205,7 @@
 ## Bucket Sort
 |  |
 | ------- |
+| [0220-contains-duplicate-iii](https://github.com/Pradnesh02/LeetCode-/tree/master/0220-contains-duplicate-iii) |
 | [0451-sort-characters-by-frequency](https://github.com/Pradnesh02/LeetCode-/tree/master/0451-sort-characters-by-frequency) |
 ## Bubble Sort
 |  |
