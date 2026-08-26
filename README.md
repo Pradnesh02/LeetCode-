@@ -476,6 +476,7 @@
 | [2348-number-of-zero-filled-subarrays](https://github.com/Pradnesh02/LeetCode-/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2364-count-number-of-bad-pairs](https://github.com/Pradnesh02/LeetCode-/tree/master/2364-count-number-of-bad-pairs) |
 | [2396-strictly-palindromic-number](https://github.com/Pradnesh02/LeetCode-/tree/master/2396-strictly-palindromic-number) |
+| [2400-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/Pradnesh02/LeetCode-/tree/master/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Pradnesh02/LeetCode-/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Pradnesh02/LeetCode-/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2544-alternating-digit-sum](https://github.com/Pradnesh02/LeetCode-/tree/master/2544-alternating-digit-sum) |
@@ -762,6 +763,7 @@
 | [2140-solving-questions-with-brainpower](https://github.com/Pradnesh02/LeetCode-/tree/master/2140-solving-questions-with-brainpower) |
 | [2311-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Pradnesh02/LeetCode-/tree/master/2311-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2370-longest-ideal-subsequence](https://github.com/Pradnesh02/LeetCode-/tree/master/2370-longest-ideal-subsequence) |
+| [2400-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/Pradnesh02/LeetCode-/tree/master/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [2407-longest-increasing-subsequence-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/2407-longest-increasing-subsequence-ii) |
 | [2484-count-palindromic-subsequences](https://github.com/Pradnesh02/LeetCode-/tree/master/2484-count-palindromic-subsequences) |
 | [2560-house-robber-iv](https://github.com/Pradnesh02/LeetCode-/tree/master/2560-house-robber-iv) |
@@ -1037,6 +1039,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Pradnesh02/LeetCode-/tree/master/0062-unique-paths) |
+| [2400-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/Pradnesh02/LeetCode-/tree/master/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Pradnesh02/LeetCode-/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3250-find-the-count-of-monotonic-pairs-i](https://github.com/Pradnesh02/LeetCode-/tree/master/3250-find-the-count-of-monotonic-pairs-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Pradnesh02/LeetCode-/tree/master/3312-sorted-gcd-pair-queries) |
