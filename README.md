@@ -437,6 +437,7 @@
 | [0089-gray-code](https://github.com/Pradnesh02/LeetCode-/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/Pradnesh02/LeetCode-/tree/master/0096-unique-binary-search-trees) |
 | [0168-excel-sheet-column-title](https://github.com/Pradnesh02/LeetCode-/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/Pradnesh02/LeetCode-/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/Pradnesh02/LeetCode-/tree/master/0202-happy-number) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Pradnesh02/LeetCode-/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/Pradnesh02/LeetCode-/tree/master/0258-add-digits) |
@@ -523,6 +524,7 @@
 | [0076-minimum-window-substring](https://github.com/Pradnesh02/LeetCode-/tree/master/0076-minimum-window-substring) |
 | [0093-restore-ip-addresses](https://github.com/Pradnesh02/LeetCode-/tree/master/0093-restore-ip-addresses) |
 | [0168-excel-sheet-column-title](https://github.com/Pradnesh02/LeetCode-/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/Pradnesh02/LeetCode-/tree/master/0171-excel-sheet-column-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/Pradnesh02/LeetCode-/tree/master/0208-implement-trie-prefix-tree) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Pradnesh02/LeetCode-/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/Pradnesh02/LeetCode-/tree/master/0242-valid-anagram) |
