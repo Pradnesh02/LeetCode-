@@ -140,6 +140,7 @@
 | [1686-stone-game-vi](https://github.com/Pradnesh02/LeetCode-/tree/master/1686-stone-game-vi) |
 | [1690-stone-game-vii](https://github.com/Pradnesh02/LeetCode-/tree/master/1690-stone-game-vii) |
 | [1728-cat-and-mouse-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/1728-cat-and-mouse-ii) |
+| [1732-find-the-highest-altitude](https://github.com/Pradnesh02/LeetCode-/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Pradnesh02/LeetCode-/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1776-car-fleet-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/1776-car-fleet-ii) |
 | [1787-make-the-xor-of-all-segments-equal-to-zero](https://github.com/Pradnesh02/LeetCode-/tree/master/1787-make-the-xor-of-all-segments-equal-to-zero) |
@@ -1043,6 +1044,7 @@
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Pradnesh02/LeetCode-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/Pradnesh02/LeetCode-/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Pradnesh02/LeetCode-/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+| [1732-find-the-highest-altitude](https://github.com/Pradnesh02/LeetCode-/tree/master/1732-find-the-highest-altitude) |
 | [1872-stone-game-viii](https://github.com/Pradnesh02/LeetCode-/tree/master/1872-stone-game-viii) |
 | [1895-largest-magic-square](https://github.com/Pradnesh02/LeetCode-/tree/master/1895-largest-magic-square) |
 | [1915-number-of-wonderful-substrings](https://github.com/Pradnesh02/LeetCode-/tree/master/1915-number-of-wonderful-substrings) |
