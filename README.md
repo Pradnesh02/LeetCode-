@@ -320,6 +320,7 @@
 | [3164-find-the-number-of-good-pairs-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/3164-find-the-number-of-good-pairs-ii) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Pradnesh02/LeetCode-/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3238-find-the-number-of-winning-players](https://github.com/Pradnesh02/LeetCode-/tree/master/3238-find-the-number-of-winning-players) |
+| [3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Pradnesh02/LeetCode-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3371-identify-the-largest-outlier-in-an-array](https://github.com/Pradnesh02/LeetCode-/tree/master/3371-identify-the-largest-outlier-in-an-array) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Pradnesh02/LeetCode-/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
@@ -590,6 +591,7 @@
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/Pradnesh02/LeetCode-/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Pradnesh02/LeetCode-/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3093-longest-common-suffix-queries](https://github.com/Pradnesh02/LeetCode-/tree/master/3093-longest-common-suffix-queries) |
+| [3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Pradnesh02/LeetCode-/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Pradnesh02/LeetCode-/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -1116,6 +1118,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Pradnesh02/LeetCode-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Pradnesh02/LeetCode-/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/Pradnesh02/LeetCode-/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
+| [3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
