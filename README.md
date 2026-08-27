@@ -554,6 +554,7 @@
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Pradnesh02/LeetCode-/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Pradnesh02/LeetCode-/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1702-maximum-binary-string-after-change](https://github.com/Pradnesh02/LeetCode-/tree/master/1702-maximum-binary-string-after-change) |
+| [1839-longest-substring-of-all-vowels-in-order](https://github.com/Pradnesh02/LeetCode-/tree/master/1839-longest-substring-of-all-vowels-in-order) |
 | [1859-sorting-the-sentence](https://github.com/Pradnesh02/LeetCode-/tree/master/1859-sorting-the-sentence) |
 | [1915-number-of-wonderful-substrings](https://github.com/Pradnesh02/LeetCode-/tree/master/1915-number-of-wonderful-substrings) |
 | [1927-sum-game](https://github.com/Pradnesh02/LeetCode-/tree/master/1927-sum-game) |
@@ -1104,6 +1105,7 @@
 | [0992-subarrays-with-k-different-integers](https://github.com/Pradnesh02/LeetCode-/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Pradnesh02/LeetCode-/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Pradnesh02/LeetCode-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1839-longest-substring-of-all-vowels-in-order](https://github.com/Pradnesh02/LeetCode-/tree/master/1839-longest-substring-of-all-vowels-in-order) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Pradnesh02/LeetCode-/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Pradnesh02/LeetCode-/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Pradnesh02/LeetCode-/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
