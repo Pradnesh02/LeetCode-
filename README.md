@@ -103,6 +103,7 @@
 | [0942-di-string-match](https://github.com/Pradnesh02/LeetCode-/tree/master/0942-di-string-match) |
 | [0966-vowel-spellchecker](https://github.com/Pradnesh02/LeetCode-/tree/master/0966-vowel-spellchecker) |
 | [0989-add-to-array-form-of-integer](https://github.com/Pradnesh02/LeetCode-/tree/master/0989-add-to-array-form-of-integer) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Pradnesh02/LeetCode-/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/Pradnesh02/LeetCode-/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Pradnesh02/LeetCode-/tree/master/1004-max-consecutive-ones-iii) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Pradnesh02/LeetCode-/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -268,6 +269,7 @@
 | [0904-fruit-into-baskets](https://github.com/Pradnesh02/LeetCode-/tree/master/0904-fruit-into-baskets) |
 | [0911-online-election](https://github.com/Pradnesh02/LeetCode-/tree/master/0911-online-election) |
 | [0966-vowel-spellchecker](https://github.com/Pradnesh02/LeetCode-/tree/master/0966-vowel-spellchecker) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Pradnesh02/LeetCode-/tree/master/0992-subarrays-with-k-different-integers) |
 | [1090-largest-values-from-labels](https://github.com/Pradnesh02/LeetCode-/tree/master/1090-largest-values-from-labels) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Pradnesh02/LeetCode-/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Pradnesh02/LeetCode-/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
@@ -689,6 +691,7 @@
 | [0229-majority-element-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/Pradnesh02/LeetCode-/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/Pradnesh02/LeetCode-/tree/master/0451-sort-characters-by-frequency) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Pradnesh02/LeetCode-/tree/master/0992-subarrays-with-k-different-integers) |
 | [1090-largest-values-from-labels](https://github.com/Pradnesh02/LeetCode-/tree/master/1090-largest-values-from-labels) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Pradnesh02/LeetCode-/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1366-rank-teams-by-votes](https://github.com/Pradnesh02/LeetCode-/tree/master/1366-rank-teams-by-votes) |
@@ -1096,6 +1099,7 @@
 | [0567-permutation-in-string](https://github.com/Pradnesh02/LeetCode-/tree/master/0567-permutation-in-string) |
 | [0713-subarray-product-less-than-k](https://github.com/Pradnesh02/LeetCode-/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/Pradnesh02/LeetCode-/tree/master/0904-fruit-into-baskets) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Pradnesh02/LeetCode-/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Pradnesh02/LeetCode-/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Pradnesh02/LeetCode-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Pradnesh02/LeetCode-/tree/master/2024-maximize-the-confusion-of-an-exam) |
