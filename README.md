@@ -70,6 +70,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Pradnesh02/LeetCode-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Pradnesh02/LeetCode-/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Pradnesh02/LeetCode-/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0399-evaluate-division](https://github.com/Pradnesh02/LeetCode-/tree/master/0399-evaluate-division) |
 | [0403-frog-jump](https://github.com/Pradnesh02/LeetCode-/tree/master/0403-frog-jump) |
 | [0413-arithmetic-slices](https://github.com/Pradnesh02/LeetCode-/tree/master/0413-arithmetic-slices) |
 | [0414-third-maximum-number](https://github.com/Pradnesh02/LeetCode-/tree/master/0414-third-maximum-number) |
@@ -540,6 +541,7 @@
 | [0383-ransom-note](https://github.com/Pradnesh02/LeetCode-/tree/master/0383-ransom-note) |
 | [0388-longest-absolute-file-path](https://github.com/Pradnesh02/LeetCode-/tree/master/0388-longest-absolute-file-path) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Pradnesh02/LeetCode-/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0399-evaluate-division](https://github.com/Pradnesh02/LeetCode-/tree/master/0399-evaluate-division) |
 | [0415-add-strings](https://github.com/Pradnesh02/LeetCode-/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/Pradnesh02/LeetCode-/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Pradnesh02/LeetCode-/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -918,6 +920,7 @@
 | [0130-surrounded-regions](https://github.com/Pradnesh02/LeetCode-/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Pradnesh02/LeetCode-/tree/master/0200-number-of-islands) |
 | [0388-longest-absolute-file-path](https://github.com/Pradnesh02/LeetCode-/tree/master/0388-longest-absolute-file-path) |
+| [0399-evaluate-division](https://github.com/Pradnesh02/LeetCode-/tree/master/0399-evaluate-division) |
 | [0419-battleships-in-a-board](https://github.com/Pradnesh02/LeetCode-/tree/master/0419-battleships-in-a-board) |
 | [0676-implement-magic-dictionary](https://github.com/Pradnesh02/LeetCode-/tree/master/0676-implement-magic-dictionary) |
 | [0695-max-area-of-island](https://github.com/Pradnesh02/LeetCode-/tree/master/0695-max-area-of-island) |
@@ -932,6 +935,7 @@
 | ------- |
 | [0130-surrounded-regions](https://github.com/Pradnesh02/LeetCode-/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Pradnesh02/LeetCode-/tree/master/0200-number-of-islands) |
+| [0399-evaluate-division](https://github.com/Pradnesh02/LeetCode-/tree/master/0399-evaluate-division) |
 | [0695-max-area-of-island](https://github.com/Pradnesh02/LeetCode-/tree/master/0695-max-area-of-island) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Pradnesh02/LeetCode-/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0994-rotting-oranges](https://github.com/Pradnesh02/LeetCode-/tree/master/0994-rotting-oranges) |
@@ -948,6 +952,7 @@
 | ------- |
 | [0130-surrounded-regions](https://github.com/Pradnesh02/LeetCode-/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Pradnesh02/LeetCode-/tree/master/0200-number-of-islands) |
+| [0399-evaluate-division](https://github.com/Pradnesh02/LeetCode-/tree/master/0399-evaluate-division) |
 | [0695-max-area-of-island](https://github.com/Pradnesh02/LeetCode-/tree/master/0695-max-area-of-island) |
 | [1632-rank-transform-of-a-matrix](https://github.com/Pradnesh02/LeetCode-/tree/master/1632-rank-transform-of-a-matrix) |
 | [1905-count-sub-islands](https://github.com/Pradnesh02/LeetCode-/tree/master/1905-count-sub-islands) |
@@ -988,6 +993,7 @@
 ## Graph Theory
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/Pradnesh02/LeetCode-/tree/master/0399-evaluate-division) |
 | [0913-cat-and-mouse](https://github.com/Pradnesh02/LeetCode-/tree/master/0913-cat-and-mouse) |
 | [1632-rank-transform-of-a-matrix](https://github.com/Pradnesh02/LeetCode-/tree/master/1632-rank-transform-of-a-matrix) |
 | [1728-cat-and-mouse-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/1728-cat-and-mouse-ii) |
@@ -1295,4 +1301,16 @@
 | ------- |
 | [0169-majority-element](https://github.com/Pradnesh02/LeetCode-/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/0229-majority-element-ii) |
+## Shortest Path
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/Pradnesh02/LeetCode-/tree/master/0399-evaluate-division) |
+## Bellman–Ford Algorithm
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/Pradnesh02/LeetCode-/tree/master/0399-evaluate-division) |
+## Floyd–Warshall Algorithm
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/Pradnesh02/LeetCode-/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
