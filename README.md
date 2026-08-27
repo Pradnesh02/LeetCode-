@@ -288,6 +288,7 @@
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/Pradnesh02/LeetCode-/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1787-make-the-xor-of-all-segments-equal-to-zero](https://github.com/Pradnesh02/LeetCode-/tree/master/1787-make-the-xor-of-all-segments-equal-to-zero) |
 | [1915-number-of-wonderful-substrings](https://github.com/Pradnesh02/LeetCode-/tree/master/1915-number-of-wonderful-substrings) |
+| [2062-count-vowel-substrings-of-a-string](https://github.com/Pradnesh02/LeetCode-/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Pradnesh02/LeetCode-/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/Pradnesh02/LeetCode-/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Pradnesh02/LeetCode-/tree/master/2206-divide-array-into-equal-pairs) |
@@ -559,6 +560,7 @@
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Pradnesh02/LeetCode-/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Pradnesh02/LeetCode-/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Pradnesh02/LeetCode-/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
+| [2062-count-vowel-substrings-of-a-string](https://github.com/Pradnesh02/LeetCode-/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/Pradnesh02/LeetCode-/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Pradnesh02/LeetCode-/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Pradnesh02/LeetCode-/tree/master/2125-number-of-laser-beams-in-a-bank) |
