@@ -320,6 +320,7 @@
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Pradnesh02/LeetCode-/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/Pradnesh02/LeetCode-/tree/master/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Pradnesh02/LeetCode-/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Pradnesh02/LeetCode-/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/Pradnesh02/LeetCode-/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Pradnesh02/LeetCode-/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Pradnesh02/LeetCode-/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -581,6 +582,7 @@
 | [3093-longest-common-suffix-queries](https://github.com/Pradnesh02/LeetCode-/tree/master/3093-longest-common-suffix-queries) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Pradnesh02/LeetCode-/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Pradnesh02/LeetCode-/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Pradnesh02/LeetCode-/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Greedy
 |  |
@@ -613,6 +615,7 @@
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/Pradnesh02/LeetCode-/tree/master/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Pradnesh02/LeetCode-/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Backtracking
 |  |
 | ------- |
@@ -703,6 +706,7 @@
 | [3312-sorted-gcd-pair-queries](https://github.com/Pradnesh02/LeetCode-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3371-identify-the-largest-outlier-in-an-array](https://github.com/Pradnesh02/LeetCode-/tree/master/3371-identify-the-largest-outlier-in-an-array) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Pradnesh02/LeetCode-/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Pradnesh02/LeetCode-/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Stack
 |  |
 | ------- |
@@ -1035,6 +1039,7 @@
 | [2843-count-symmetric-integers](https://github.com/Pradnesh02/LeetCode-/tree/master/2843-count-symmetric-integers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Pradnesh02/LeetCode-/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3371-identify-the-largest-outlier-in-an-array](https://github.com/Pradnesh02/LeetCode-/tree/master/3371-identify-the-largest-outlier-in-an-array) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Pradnesh02/LeetCode-/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Combinatorics
 |  |
 | ------- |
