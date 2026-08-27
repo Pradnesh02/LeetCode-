@@ -225,6 +225,7 @@
 | [3356-zero-array-transformation-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/3356-zero-array-transformation-ii) |
 | [3371-identify-the-largest-outlier-in-an-array](https://github.com/Pradnesh02/LeetCode-/tree/master/3371-identify-the-largest-outlier-in-an-array) |
 | [3393-count-paths-with-the-given-xor-value](https://github.com/Pradnesh02/LeetCode-/tree/master/3393-count-paths-with-the-given-xor-value) |
+| [3452-sum-of-good-numbers](https://github.com/Pradnesh02/LeetCode-/tree/master/3452-sum-of-good-numbers) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Pradnesh02/LeetCode-/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3477-fruits-into-baskets-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/3477-fruits-into-baskets-ii) |
 | [3489-zero-array-transformation-iv](https://github.com/Pradnesh02/LeetCode-/tree/master/3489-zero-array-transformation-iv) |
