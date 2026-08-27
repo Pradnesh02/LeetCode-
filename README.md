@@ -529,6 +529,7 @@
 | [0592-fraction-addition-and-subtraction](https://github.com/Pradnesh02/LeetCode-/tree/master/0592-fraction-addition-and-subtraction) |
 | [0640-solve-the-equation](https://github.com/Pradnesh02/LeetCode-/tree/master/0640-solve-the-equation) |
 | [0648-replace-words](https://github.com/Pradnesh02/LeetCode-/tree/master/0648-replace-words) |
+| [0649-dota2-senate](https://github.com/Pradnesh02/LeetCode-/tree/master/0649-dota2-senate) |
 | [0657-robot-return-to-origin](https://github.com/Pradnesh02/LeetCode-/tree/master/0657-robot-return-to-origin) |
 | [0676-implement-magic-dictionary](https://github.com/Pradnesh02/LeetCode-/tree/master/0676-implement-magic-dictionary) |
 | [0730-count-different-palindromic-subsequences](https://github.com/Pradnesh02/LeetCode-/tree/master/0730-count-different-palindromic-subsequences) |
@@ -591,6 +592,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Pradnesh02/LeetCode-/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0605-can-place-flowers](https://github.com/Pradnesh02/LeetCode-/tree/master/0605-can-place-flowers) |
+| [0649-dota2-senate](https://github.com/Pradnesh02/LeetCode-/tree/master/0649-dota2-senate) |
 | [0763-partition-labels](https://github.com/Pradnesh02/LeetCode-/tree/master/0763-partition-labels) |
 | [0942-di-string-match](https://github.com/Pradnesh02/LeetCode-/tree/master/0942-di-string-match) |
 | [1090-largest-values-from-labels](https://github.com/Pradnesh02/LeetCode-/tree/master/1090-largest-values-from-labels) |
@@ -1224,6 +1226,7 @@
 ## Queue
 |  |
 | ------- |
+| [0649-dota2-senate](https://github.com/Pradnesh02/LeetCode-/tree/master/0649-dota2-senate) |
 | [2407-longest-increasing-subsequence-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/2407-longest-increasing-subsequence-ii) |
 ## Monotonic Queue
 |  |
