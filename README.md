@@ -238,6 +238,7 @@
 | [3731-find-missing-elements](https://github.com/Pradnesh02/LeetCode-/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Pradnesh02/LeetCode-/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3809-best-reachable-tower](https://github.com/Pradnesh02/LeetCode-/tree/master/3809-best-reachable-tower) |
+| [3937-minimum-operations-to-make-array-modulo-alternating-i](https://github.com/Pradnesh02/LeetCode-/tree/master/3937-minimum-operations-to-make-array-modulo-alternating-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -1083,6 +1084,7 @@
 | [3371-identify-the-largest-outlier-in-an-array](https://github.com/Pradnesh02/LeetCode-/tree/master/3371-identify-the-largest-outlier-in-an-array) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Pradnesh02/LeetCode-/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Pradnesh02/LeetCode-/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+| [3937-minimum-operations-to-make-array-modulo-alternating-i](https://github.com/Pradnesh02/LeetCode-/tree/master/3937-minimum-operations-to-make-array-modulo-alternating-i) |
 ## Combinatorics
 |  |
 | ------- |
