@@ -239,6 +239,7 @@
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Pradnesh02/LeetCode-/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3809-best-reachable-tower](https://github.com/Pradnesh02/LeetCode-/tree/master/3809-best-reachable-tower) |
 | [3937-minimum-operations-to-make-array-modulo-alternating-i](https://github.com/Pradnesh02/LeetCode-/tree/master/3937-minimum-operations-to-make-array-modulo-alternating-i) |
+| [3995-minimum-cost-to-convert-string-iii](https://github.com/Pradnesh02/LeetCode-/tree/master/3995-minimum-cost-to-convert-string-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -617,6 +618,7 @@
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Pradnesh02/LeetCode-/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Pradnesh02/LeetCode-/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Pradnesh02/LeetCode-/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [3995-minimum-cost-to-convert-string-iii](https://github.com/Pradnesh02/LeetCode-/tree/master/3995-minimum-cost-to-convert-string-iii) |
 ## Greedy
 |  |
 | ------- |
@@ -812,6 +814,7 @@
 | [3250-find-the-count-of-monotonic-pairs-i](https://github.com/Pradnesh02/LeetCode-/tree/master/3250-find-the-count-of-monotonic-pairs-i) |
 | [3393-count-paths-with-the-given-xor-value](https://github.com/Pradnesh02/LeetCode-/tree/master/3393-count-paths-with-the-given-xor-value) |
 | [3489-zero-array-transformation-iv](https://github.com/Pradnesh02/LeetCode-/tree/master/3489-zero-array-transformation-iv) |
+| [3995-minimum-cost-to-convert-string-iii](https://github.com/Pradnesh02/LeetCode-/tree/master/3995-minimum-cost-to-convert-string-iii) |
 ## Game Theory
 |  |
 | ------- |
