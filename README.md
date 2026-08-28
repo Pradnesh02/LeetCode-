@@ -816,6 +816,7 @@
 | [2560-house-robber-iv](https://github.com/Pradnesh02/LeetCode-/tree/master/2560-house-robber-iv) |
 | [2741-special-permutations](https://github.com/Pradnesh02/LeetCode-/tree/master/2741-special-permutations) |
 | [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/Pradnesh02/LeetCode-/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
+| [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Pradnesh02/LeetCode-/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Pradnesh02/LeetCode-/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3250-find-the-count-of-monotonic-pairs-i](https://github.com/Pradnesh02/LeetCode-/tree/master/3250-find-the-count-of-monotonic-pairs-i) |
 | [3393-count-paths-with-the-given-xor-value](https://github.com/Pradnesh02/LeetCode-/tree/master/3393-count-paths-with-the-given-xor-value) |
@@ -847,6 +848,7 @@
 | [0913-cat-and-mouse](https://github.com/Pradnesh02/LeetCode-/tree/master/0913-cat-and-mouse) |
 | [1728-cat-and-mouse-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/1728-cat-and-mouse-ii) |
 | [2311-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Pradnesh02/LeetCode-/tree/master/2311-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Pradnesh02/LeetCode-/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
 ## Bitmask
 |  |
 | ------- |
@@ -960,6 +962,7 @@
 | [2146-k-highest-ranked-items-within-a-price-range](https://github.com/Pradnesh02/LeetCode-/tree/master/2146-k-highest-ranked-items-within-a-price-range) |
 | [2258-escape-the-spreading-fire](https://github.com/Pradnesh02/LeetCode-/tree/master/2258-escape-the-spreading-fire) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Pradnesh02/LeetCode-/tree/master/2658-maximum-number-of-fish-in-a-grid) |
+| [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Pradnesh02/LeetCode-/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
 | [3310-remove-methods-from-project](https://github.com/Pradnesh02/LeetCode-/tree/master/3310-remove-methods-from-project) |
 ## Union-Find
 |  |
