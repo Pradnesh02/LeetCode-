@@ -584,6 +584,7 @@
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Pradnesh02/LeetCode-/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/Pradnesh02/LeetCode-/tree/master/1839-longest-substring-of-all-vowels-in-order) |
 | [1859-sorting-the-sentence](https://github.com/Pradnesh02/LeetCode-/tree/master/1859-sorting-the-sentence) |
+| [1871-jump-game-vii](https://github.com/Pradnesh02/LeetCode-/tree/master/1871-jump-game-vii) |
 | [1915-number-of-wonderful-substrings](https://github.com/Pradnesh02/LeetCode-/tree/master/1915-number-of-wonderful-substrings) |
 | [1927-sum-game](https://github.com/Pradnesh02/LeetCode-/tree/master/1927-sum-game) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Pradnesh02/LeetCode-/tree/master/1945-sum-of-digits-of-string-after-convert) |
@@ -812,6 +813,7 @@
 | [1728-cat-and-mouse-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/1728-cat-and-mouse-ii) |
 | [1787-make-the-xor-of-all-segments-equal-to-zero](https://github.com/Pradnesh02/LeetCode-/tree/master/1787-make-the-xor-of-all-segments-equal-to-zero) |
 | [1824-minimum-sideway-jumps](https://github.com/Pradnesh02/LeetCode-/tree/master/1824-minimum-sideway-jumps) |
+| [1871-jump-game-vii](https://github.com/Pradnesh02/LeetCode-/tree/master/1871-jump-game-vii) |
 | [1872-stone-game-viii](https://github.com/Pradnesh02/LeetCode-/tree/master/1872-stone-game-viii) |
 | [1937-maximum-number-of-points-with-cost](https://github.com/Pradnesh02/LeetCode-/tree/master/1937-maximum-number-of-points-with-cost) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Pradnesh02/LeetCode-/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -1088,6 +1090,7 @@
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Pradnesh02/LeetCode-/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1732-find-the-highest-altitude](https://github.com/Pradnesh02/LeetCode-/tree/master/1732-find-the-highest-altitude) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Pradnesh02/LeetCode-/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1871-jump-game-vii](https://github.com/Pradnesh02/LeetCode-/tree/master/1871-jump-game-vii) |
 | [1872-stone-game-viii](https://github.com/Pradnesh02/LeetCode-/tree/master/1872-stone-game-viii) |
 | [1895-largest-magic-square](https://github.com/Pradnesh02/LeetCode-/tree/master/1895-largest-magic-square) |
 | [1915-number-of-wonderful-substrings](https://github.com/Pradnesh02/LeetCode-/tree/master/1915-number-of-wonderful-substrings) |
@@ -1165,6 +1168,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/Pradnesh02/LeetCode-/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Pradnesh02/LeetCode-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/Pradnesh02/LeetCode-/tree/master/1839-longest-substring-of-all-vowels-in-order) |
+| [1871-jump-game-vii](https://github.com/Pradnesh02/LeetCode-/tree/master/1871-jump-game-vii) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Pradnesh02/LeetCode-/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Pradnesh02/LeetCode-/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Pradnesh02/LeetCode-/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
