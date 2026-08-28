@@ -202,6 +202,7 @@
 | [2741-special-permutations](https://github.com/Pradnesh02/LeetCode-/tree/master/2741-special-permutations) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Pradnesh02/LeetCode-/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2817-minimum-absolute-difference-between-elements-with-constraint](https://github.com/Pradnesh02/LeetCode-/tree/master/2817-minimum-absolute-difference-between-elements-with-constraint) |
+| [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/Pradnesh02/LeetCode-/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/Pradnesh02/LeetCode-/tree/master/2869-minimum-operations-to-collect-elements) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/Pradnesh02/LeetCode-/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [2942-find-words-containing-character](https://github.com/Pradnesh02/LeetCode-/tree/master/2942-find-words-containing-character) |
@@ -670,6 +671,7 @@
 | [0216-combination-sum-iii](https://github.com/Pradnesh02/LeetCode-/tree/master/0216-combination-sum-iii) |
 | [0401-binary-watch](https://github.com/Pradnesh02/LeetCode-/tree/master/0401-binary-watch) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Pradnesh02/LeetCode-/tree/master/2375-construct-smallest-number-from-di-string) |
+| [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/Pradnesh02/LeetCode-/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Bit Manipulation
 |  |
@@ -695,6 +697,7 @@
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Pradnesh02/LeetCode-/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2506-count-pairs-of-similar-strings](https://github.com/Pradnesh02/LeetCode-/tree/master/2506-count-pairs-of-similar-strings) |
 | [2741-special-permutations](https://github.com/Pradnesh02/LeetCode-/tree/master/2741-special-permutations) |
+| [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/Pradnesh02/LeetCode-/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/Pradnesh02/LeetCode-/tree/master/2869-minimum-operations-to-collect-elements) |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/Pradnesh02/LeetCode-/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Pradnesh02/LeetCode-/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -812,6 +815,7 @@
 | [2484-count-palindromic-subsequences](https://github.com/Pradnesh02/LeetCode-/tree/master/2484-count-palindromic-subsequences) |
 | [2560-house-robber-iv](https://github.com/Pradnesh02/LeetCode-/tree/master/2560-house-robber-iv) |
 | [2741-special-permutations](https://github.com/Pradnesh02/LeetCode-/tree/master/2741-special-permutations) |
+| [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/Pradnesh02/LeetCode-/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Pradnesh02/LeetCode-/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3250-find-the-count-of-monotonic-pairs-i](https://github.com/Pradnesh02/LeetCode-/tree/master/3250-find-the-count-of-monotonic-pairs-i) |
 | [3393-count-paths-with-the-given-xor-value](https://github.com/Pradnesh02/LeetCode-/tree/master/3393-count-paths-with-the-given-xor-value) |
@@ -848,6 +852,7 @@
 | ------- |
 | [0464-can-i-win](https://github.com/Pradnesh02/LeetCode-/tree/master/0464-can-i-win) |
 | [2741-special-permutations](https://github.com/Pradnesh02/LeetCode-/tree/master/2741-special-permutations) |
+| [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/Pradnesh02/LeetCode-/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
 ## Simulation
 |  |
 | ------- |
@@ -911,6 +916,7 @@
 | [2146-k-highest-ranked-items-within-a-price-range](https://github.com/Pradnesh02/LeetCode-/tree/master/2146-k-highest-ranked-items-within-a-price-range) |
 | [2258-escape-the-spreading-fire](https://github.com/Pradnesh02/LeetCode-/tree/master/2258-escape-the-spreading-fire) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Pradnesh02/LeetCode-/tree/master/2658-maximum-number-of-fish-in-a-grid) |
+| [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/Pradnesh02/LeetCode-/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Pradnesh02/LeetCode-/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3393-count-paths-with-the-given-xor-value](https://github.com/Pradnesh02/LeetCode-/tree/master/3393-count-paths-with-the-given-xor-value) |
 ## Brainteaser
