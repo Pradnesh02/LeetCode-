@@ -146,6 +146,7 @@
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Pradnesh02/LeetCode-/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1686-stone-game-vi](https://github.com/Pradnesh02/LeetCode-/tree/master/1686-stone-game-vi) |
 | [1690-stone-game-vii](https://github.com/Pradnesh02/LeetCode-/tree/master/1690-stone-game-vii) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Pradnesh02/LeetCode-/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1728-cat-and-mouse-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/1728-cat-and-mouse-ii) |
 | [1732-find-the-highest-altitude](https://github.com/Pradnesh02/LeetCode-/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Pradnesh02/LeetCode-/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -965,6 +966,7 @@
 | [0934-shortest-bridge](https://github.com/Pradnesh02/LeetCode-/tree/master/0934-shortest-bridge) |
 | [1202-smallest-string-with-swaps](https://github.com/Pradnesh02/LeetCode-/tree/master/1202-smallest-string-with-swaps) |
 | [1306-jump-game-iii](https://github.com/Pradnesh02/LeetCode-/tree/master/1306-jump-game-iii) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Pradnesh02/LeetCode-/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1905-count-sub-islands](https://github.com/Pradnesh02/LeetCode-/tree/master/1905-count-sub-islands) |
 | [1992-find-all-groups-of-farmland](https://github.com/Pradnesh02/LeetCode-/tree/master/1992-find-all-groups-of-farmland) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Pradnesh02/LeetCode-/tree/master/2101-detonate-the-maximum-bombs) |
@@ -1000,6 +1002,7 @@
 | [0695-max-area-of-island](https://github.com/Pradnesh02/LeetCode-/tree/master/0695-max-area-of-island) |
 | [1202-smallest-string-with-swaps](https://github.com/Pradnesh02/LeetCode-/tree/master/1202-smallest-string-with-swaps) |
 | [1632-rank-transform-of-a-matrix](https://github.com/Pradnesh02/LeetCode-/tree/master/1632-rank-transform-of-a-matrix) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Pradnesh02/LeetCode-/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1905-count-sub-islands](https://github.com/Pradnesh02/LeetCode-/tree/master/1905-count-sub-islands) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Pradnesh02/LeetCode-/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Pradnesh02/LeetCode-/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
