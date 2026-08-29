@@ -179,6 +179,7 @@
 | [2206-divide-array-into-equal-pairs](https://github.com/Pradnesh02/LeetCode-/tree/master/2206-divide-array-into-equal-pairs) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/Pradnesh02/LeetCode-/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Pradnesh02/LeetCode-/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2241-design-an-atm-machine](https://github.com/Pradnesh02/LeetCode-/tree/master/2241-design-an-atm-machine) |
 | [2249-count-lattice-points-inside-a-circle](https://github.com/Pradnesh02/LeetCode-/tree/master/2249-count-lattice-points-inside-a-circle) |
 | [2258-escape-the-spreading-fire](https://github.com/Pradnesh02/LeetCode-/tree/master/2258-escape-the-spreading-fire) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Pradnesh02/LeetCode-/tree/master/2273-find-resultant-array-after-removing-anagrams) |
@@ -660,6 +661,7 @@
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/Pradnesh02/LeetCode-/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Pradnesh02/LeetCode-/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Pradnesh02/LeetCode-/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2241-design-an-atm-machine](https://github.com/Pradnesh02/LeetCode-/tree/master/2241-design-an-atm-machine) |
 | [2311-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Pradnesh02/LeetCode-/tree/master/2311-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Pradnesh02/LeetCode-/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2405-optimal-partition-of-string](https://github.com/Pradnesh02/LeetCode-/tree/master/2405-optimal-partition-of-string) |
@@ -1279,6 +1281,7 @@
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Pradnesh02/LeetCode-/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0676-implement-magic-dictionary](https://github.com/Pradnesh02/LeetCode-/tree/master/0676-implement-magic-dictionary) |
 | [0911-online-election](https://github.com/Pradnesh02/LeetCode-/tree/master/0911-online-election) |
+| [2241-design-an-atm-machine](https://github.com/Pradnesh02/LeetCode-/tree/master/2241-design-an-atm-machine) |
 | [2286-booking-concert-tickets-in-groups](https://github.com/Pradnesh02/LeetCode-/tree/master/2286-booking-concert-tickets-in-groups) |
 | [2336-smallest-number-in-infinite-set](https://github.com/Pradnesh02/LeetCode-/tree/master/2336-smallest-number-in-infinite-set) |
 ## Randomized
