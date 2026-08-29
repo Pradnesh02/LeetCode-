@@ -215,6 +215,7 @@
 | [2786-visit-array-positions-to-maximize-score](https://github.com/Pradnesh02/LeetCode-/tree/master/2786-visit-array-positions-to-maximize-score) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Pradnesh02/LeetCode-/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2817-minimum-absolute-difference-between-elements-with-constraint](https://github.com/Pradnesh02/LeetCode-/tree/master/2817-minimum-absolute-difference-between-elements-with-constraint) |
+| [2831-find-the-longest-equal-subarray](https://github.com/Pradnesh02/LeetCode-/tree/master/2831-find-the-longest-equal-subarray) |
 | [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/Pradnesh02/LeetCode-/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/Pradnesh02/LeetCode-/tree/master/2869-minimum-operations-to-collect-elements) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/Pradnesh02/LeetCode-/tree/master/2903-find-indices-with-index-and-value-difference-i) |
@@ -335,6 +336,7 @@
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Pradnesh02/LeetCode-/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/Pradnesh02/LeetCode-/tree/master/2780-minimum-index-of-a-valid-split) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Pradnesh02/LeetCode-/tree/master/2799-count-complete-subarrays-in-an-array) |
+| [2831-find-the-longest-equal-subarray](https://github.com/Pradnesh02/LeetCode-/tree/master/2831-find-the-longest-equal-subarray) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/Pradnesh02/LeetCode-/tree/master/2869-minimum-operations-to-collect-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Pradnesh02/LeetCode-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Pradnesh02/LeetCode-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -1051,6 +1053,7 @@
 | [2560-house-robber-iv](https://github.com/Pradnesh02/LeetCode-/tree/master/2560-house-robber-iv) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/Pradnesh02/LeetCode-/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [2817-minimum-absolute-difference-between-elements-with-constraint](https://github.com/Pradnesh02/LeetCode-/tree/master/2817-minimum-absolute-difference-between-elements-with-constraint) |
+| [2831-find-the-longest-equal-subarray](https://github.com/Pradnesh02/LeetCode-/tree/master/2831-find-the-longest-equal-subarray) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Pradnesh02/LeetCode-/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Pradnesh02/LeetCode-/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Pradnesh02/LeetCode-/tree/master/3312-sorted-gcd-pair-queries) |
@@ -1212,6 +1215,7 @@
 | [2401-longest-nice-subarray](https://github.com/Pradnesh02/LeetCode-/tree/master/2401-longest-nice-subarray) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Pradnesh02/LeetCode-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Pradnesh02/LeetCode-/tree/master/2799-count-complete-subarrays-in-an-array) |
+| [2831-find-the-longest-equal-subarray](https://github.com/Pradnesh02/LeetCode-/tree/master/2831-find-the-longest-equal-subarray) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Pradnesh02/LeetCode-/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Pradnesh02/LeetCode-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Pradnesh02/LeetCode-/tree/master/3090-maximum-length-substring-with-two-occurrences) |
