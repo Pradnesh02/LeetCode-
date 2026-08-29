@@ -211,6 +211,7 @@
 | [2733-neither-minimum-nor-maximum](https://github.com/Pradnesh02/LeetCode-/tree/master/2733-neither-minimum-nor-maximum) |
 | [2741-special-permutations](https://github.com/Pradnesh02/LeetCode-/tree/master/2741-special-permutations) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Pradnesh02/LeetCode-/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [2780-minimum-index-of-a-valid-split](https://github.com/Pradnesh02/LeetCode-/tree/master/2780-minimum-index-of-a-valid-split) |
 | [2786-visit-array-positions-to-maximize-score](https://github.com/Pradnesh02/LeetCode-/tree/master/2786-visit-array-positions-to-maximize-score) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Pradnesh02/LeetCode-/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2817-minimum-absolute-difference-between-elements-with-constraint](https://github.com/Pradnesh02/LeetCode-/tree/master/2817-minimum-absolute-difference-between-elements-with-constraint) |
@@ -332,6 +333,7 @@
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Pradnesh02/LeetCode-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2506-count-pairs-of-similar-strings](https://github.com/Pradnesh02/LeetCode-/tree/master/2506-count-pairs-of-similar-strings) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Pradnesh02/LeetCode-/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
+| [2780-minimum-index-of-a-valid-split](https://github.com/Pradnesh02/LeetCode-/tree/master/2780-minimum-index-of-a-valid-split) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Pradnesh02/LeetCode-/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/Pradnesh02/LeetCode-/tree/master/2869-minimum-operations-to-collect-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Pradnesh02/LeetCode-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -433,6 +435,7 @@
 | [2708-maximum-strength-of-a-group](https://github.com/Pradnesh02/LeetCode-/tree/master/2708-maximum-strength-of-a-group) |
 | [2731-movement-of-robots](https://github.com/Pradnesh02/LeetCode-/tree/master/2731-movement-of-robots) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Pradnesh02/LeetCode-/tree/master/2733-neither-minimum-nor-maximum) |
+| [2780-minimum-index-of-a-valid-split](https://github.com/Pradnesh02/LeetCode-/tree/master/2780-minimum-index-of-a-valid-split) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Pradnesh02/LeetCode-/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Pradnesh02/LeetCode-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
