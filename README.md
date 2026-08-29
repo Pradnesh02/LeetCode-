@@ -77,6 +77,7 @@
 | [0413-arithmetic-slices](https://github.com/Pradnesh02/LeetCode-/tree/master/0413-arithmetic-slices) |
 | [0414-third-maximum-number](https://github.com/Pradnesh02/LeetCode-/tree/master/0414-third-maximum-number) |
 | [0419-battleships-in-a-board](https://github.com/Pradnesh02/LeetCode-/tree/master/0419-battleships-in-a-board) |
+| [0435-non-overlapping-intervals](https://github.com/Pradnesh02/LeetCode-/tree/master/0435-non-overlapping-intervals) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/Pradnesh02/LeetCode-/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0486-predict-the-winner](https://github.com/Pradnesh02/LeetCode-/tree/master/0486-predict-the-winner) |
 | [0495-teemo-attacking](https://github.com/Pradnesh02/LeetCode-/tree/master/0495-teemo-attacking) |
@@ -403,6 +404,7 @@
 | [0268-missing-number](https://github.com/Pradnesh02/LeetCode-/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Pradnesh02/LeetCode-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/Pradnesh02/LeetCode-/tree/master/0414-third-maximum-number) |
+| [0435-non-overlapping-intervals](https://github.com/Pradnesh02/LeetCode-/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/Pradnesh02/LeetCode-/tree/master/0451-sort-characters-by-frequency) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Pradnesh02/LeetCode-/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -661,6 +663,7 @@
 | [0045-jump-game-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Pradnesh02/LeetCode-/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0435-non-overlapping-intervals](https://github.com/Pradnesh02/LeetCode-/tree/master/0435-non-overlapping-intervals) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Pradnesh02/LeetCode-/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0605-can-place-flowers](https://github.com/Pradnesh02/LeetCode-/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/Pradnesh02/LeetCode-/tree/master/0649-dota2-senate) |
@@ -824,6 +827,7 @@
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Pradnesh02/LeetCode-/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0403-frog-jump](https://github.com/Pradnesh02/LeetCode-/tree/master/0403-frog-jump) |
 | [0413-arithmetic-slices](https://github.com/Pradnesh02/LeetCode-/tree/master/0413-arithmetic-slices) |
+| [0435-non-overlapping-intervals](https://github.com/Pradnesh02/LeetCode-/tree/master/0435-non-overlapping-intervals) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/Pradnesh02/LeetCode-/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0464-can-i-win](https://github.com/Pradnesh02/LeetCode-/tree/master/0464-can-i-win) |
 | [0486-predict-the-winner](https://github.com/Pradnesh02/LeetCode-/tree/master/0486-predict-the-winner) |
