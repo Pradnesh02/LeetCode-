@@ -92,6 +92,7 @@
 | [0695-max-area-of-island](https://github.com/Pradnesh02/LeetCode-/tree/master/0695-max-area-of-island) |
 | [0713-subarray-product-less-than-k](https://github.com/Pradnesh02/LeetCode-/tree/master/0713-subarray-product-less-than-k) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Pradnesh02/LeetCode-/tree/master/0717-1-bit-and-2-bit-characters) |
+| [0729-my-calendar-i](https://github.com/Pradnesh02/LeetCode-/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/0731-my-calendar-ii) |
 | [0735-asteroid-collision](https://github.com/Pradnesh02/LeetCode-/tree/master/0735-asteroid-collision) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Pradnesh02/LeetCode-/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -450,6 +451,7 @@
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/Pradnesh02/LeetCode-/tree/master/0220-contains-duplicate-iii) |
+| [0729-my-calendar-i](https://github.com/Pradnesh02/LeetCode-/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/0731-my-calendar-ii) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Pradnesh02/LeetCode-/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2336-smallest-number-in-infinite-set](https://github.com/Pradnesh02/LeetCode-/tree/master/2336-smallest-number-in-infinite-set) |
@@ -1043,6 +1045,7 @@
 | [0532-k-diff-pairs-in-an-array](https://github.com/Pradnesh02/LeetCode-/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Pradnesh02/LeetCode-/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0713-subarray-product-less-than-k](https://github.com/Pradnesh02/LeetCode-/tree/master/0713-subarray-product-less-than-k) |
+| [0729-my-calendar-i](https://github.com/Pradnesh02/LeetCode-/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/0731-my-calendar-ii) |
 | [0911-online-election](https://github.com/Pradnesh02/LeetCode-/tree/master/0911-online-election) |
 | [1004-max-consecutive-ones-iii](https://github.com/Pradnesh02/LeetCode-/tree/master/1004-max-consecutive-ones-iii) |
@@ -1305,6 +1308,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/Pradnesh02/LeetCode-/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Pradnesh02/LeetCode-/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0676-implement-magic-dictionary](https://github.com/Pradnesh02/LeetCode-/tree/master/0676-implement-magic-dictionary) |
+| [0729-my-calendar-i](https://github.com/Pradnesh02/LeetCode-/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/0731-my-calendar-ii) |
 | [0911-online-election](https://github.com/Pradnesh02/LeetCode-/tree/master/0911-online-election) |
 | [2043-simple-bank-system](https://github.com/Pradnesh02/LeetCode-/tree/master/2043-simple-bank-system) |
@@ -1324,6 +1328,7 @@
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Pradnesh02/LeetCode-/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0729-my-calendar-i](https://github.com/Pradnesh02/LeetCode-/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/0731-my-calendar-ii) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Pradnesh02/LeetCode-/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2286-booking-concert-tickets-in-groups](https://github.com/Pradnesh02/LeetCode-/tree/master/2286-booking-concert-tickets-in-groups) |
