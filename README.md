@@ -224,6 +224,7 @@
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Pradnesh02/LeetCode-/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Pradnesh02/LeetCode-/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Pradnesh02/LeetCode-/tree/master/3074-apple-redistribution-into-boxes) |
+| [3077-maximum-strength-of-k-disjoint-subarrays](https://github.com/Pradnesh02/LeetCode-/tree/master/3077-maximum-strength-of-k-disjoint-subarrays) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/Pradnesh02/LeetCode-/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3093-longest-common-suffix-queries](https://github.com/Pradnesh02/LeetCode-/tree/master/3093-longest-common-suffix-queries) |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/Pradnesh02/LeetCode-/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
@@ -848,6 +849,7 @@
 | [2786-visit-array-positions-to-maximize-score](https://github.com/Pradnesh02/LeetCode-/tree/master/2786-visit-array-positions-to-maximize-score) |
 | [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/Pradnesh02/LeetCode-/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
 | [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Pradnesh02/LeetCode-/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
+| [3077-maximum-strength-of-k-disjoint-subarrays](https://github.com/Pradnesh02/LeetCode-/tree/master/3077-maximum-strength-of-k-disjoint-subarrays) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Pradnesh02/LeetCode-/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3250-find-the-count-of-monotonic-pairs-i](https://github.com/Pradnesh02/LeetCode-/tree/master/3250-find-the-count-of-monotonic-pairs-i) |
 | [3393-count-paths-with-the-given-xor-value](https://github.com/Pradnesh02/LeetCode-/tree/master/3393-count-paths-with-the-given-xor-value) |
@@ -1128,6 +1130,7 @@
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/Pradnesh02/LeetCode-/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [2731-movement-of-robots](https://github.com/Pradnesh02/LeetCode-/tree/master/2731-movement-of-robots) |
 | [3026-maximum-good-subarray-sum](https://github.com/Pradnesh02/LeetCode-/tree/master/3026-maximum-good-subarray-sum) |
+| [3077-maximum-strength-of-k-disjoint-subarrays](https://github.com/Pradnesh02/LeetCode-/tree/master/3077-maximum-strength-of-k-disjoint-subarrays) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Pradnesh02/LeetCode-/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3250-find-the-count-of-monotonic-pairs-i](https://github.com/Pradnesh02/LeetCode-/tree/master/3250-find-the-count-of-monotonic-pairs-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Pradnesh02/LeetCode-/tree/master/3312-sorted-gcd-pair-queries) |
