@@ -610,6 +610,7 @@
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Pradnesh02/LeetCode-/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Pradnesh02/LeetCode-/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Pradnesh02/LeetCode-/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Pradnesh02/LeetCode-/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1702-maximum-binary-string-after-change](https://github.com/Pradnesh02/LeetCode-/tree/master/1702-maximum-binary-string-after-change) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Pradnesh02/LeetCode-/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/Pradnesh02/LeetCode-/tree/master/1839-longest-substring-of-all-vowels-in-order) |
@@ -677,6 +678,7 @@
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/Pradnesh02/LeetCode-/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Pradnesh02/LeetCode-/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1686-stone-game-vi](https://github.com/Pradnesh02/LeetCode-/tree/master/1686-stone-game-vi) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Pradnesh02/LeetCode-/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1702-maximum-binary-string-after-change](https://github.com/Pradnesh02/LeetCode-/tree/master/1702-maximum-binary-string-after-change) |
 | [1824-minimum-sideway-jumps](https://github.com/Pradnesh02/LeetCode-/tree/master/1824-minimum-sideway-jumps) |
 | [1927-sum-game](https://github.com/Pradnesh02/LeetCode-/tree/master/1927-sum-game) |
