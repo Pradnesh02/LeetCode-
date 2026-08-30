@@ -1,26 +1,25 @@
-class Solution(object):
-    def minimumDeletions(self, nums):
-        """
-        :type nums: List[int]
-        :rtype: int
-        """
+class Solution:
+    def minimumDeletions(self, nums: list[int]) -> int:
         n = len(nums)
         if n <= 2:
             return n
-            
-        idx1 = nums.index(min(nums))
-        idx2 = nums.index(max(nums))
-        
-        # Ensure i is the smaller index and j is the larger index
-        i, j = min(idx1, idx2), max(idx1, idx2)
-        
-        # Option 1: Delete both from the front
-        option1 = j + 1
-        
-        # Option 2: Delete both from the back
-        option2 = n - i
-        
-        # Option 3: Delete i from the front and j from the back
-        option3 = (i + 1) + (n - j)
-        
-        return min(option1, option2, option3)
+
+        # Find the 0-indexed positions of the min and max elements
+        min_idx = nums.index(min(nums))
+        max_idx = nums.index(max(nums))
+
+        # Order indices so low <= high
+        low = min(min_idx, max_idx)
+        high = max(min_idx, max_idx)
+
+        # 3 possible deletion strategies:
+        # 1. Remove both from the front (left)
+        from_front = high + 1
+
+        # 2. Remove both from the back (right)
+        from_back = n - low
+
+        # 3. Remove one from the front and one from the back
+        from_both_ends = (low + 1) + (n - high)
+
+        return min(from_front, from_back, from_both_ends)
