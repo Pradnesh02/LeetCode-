@@ -102,6 +102,7 @@
 | [0789-escape-the-ghosts](https://github.com/Pradnesh02/LeetCode-/tree/master/0789-escape-the-ghosts) |
 | [0840-magic-squares-in-grid](https://github.com/Pradnesh02/LeetCode-/tree/master/0840-magic-squares-in-grid) |
 | [0853-car-fleet](https://github.com/Pradnesh02/LeetCode-/tree/master/0853-car-fleet) |
+| [0875-koko-eating-bananas](https://github.com/Pradnesh02/LeetCode-/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Pradnesh02/LeetCode-/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/Pradnesh02/LeetCode-/tree/master/0896-monotonic-array) |
 | [0904-fruit-into-baskets](https://github.com/Pradnesh02/LeetCode-/tree/master/0904-fruit-into-baskets) |
@@ -1063,6 +1064,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/Pradnesh02/LeetCode-/tree/master/0713-subarray-product-less-than-k) |
 | [0729-my-calendar-i](https://github.com/Pradnesh02/LeetCode-/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/0731-my-calendar-ii) |
+| [0875-koko-eating-bananas](https://github.com/Pradnesh02/LeetCode-/tree/master/0875-koko-eating-bananas) |
 | [0911-online-election](https://github.com/Pradnesh02/LeetCode-/tree/master/0911-online-election) |
 | [1004-max-consecutive-ones-iii](https://github.com/Pradnesh02/LeetCode-/tree/master/1004-max-consecutive-ones-iii) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Pradnesh02/LeetCode-/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
