@@ -544,6 +544,7 @@
 | [1872-stone-game-viii](https://github.com/Pradnesh02/LeetCode-/tree/master/1872-stone-game-viii) |
 | [1922-count-good-numbers](https://github.com/Pradnesh02/LeetCode-/tree/master/1922-count-good-numbers) |
 | [1927-sum-game](https://github.com/Pradnesh02/LeetCode-/tree/master/1927-sum-game) |
+| [1952-three-divisors](https://github.com/Pradnesh02/LeetCode-/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Pradnesh02/LeetCode-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Pradnesh02/LeetCode-/tree/master/2029-stone-game-ix) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Pradnesh02/LeetCode-/tree/master/2101-detonate-the-maximum-bombs) |
@@ -1204,6 +1205,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [1952-three-divisors](https://github.com/Pradnesh02/LeetCode-/tree/master/1952-three-divisors) |
 | [2232-minimize-result-by-adding-parentheses-to-expression](https://github.com/Pradnesh02/LeetCode-/tree/master/2232-minimize-result-by-adding-parentheses-to-expression) |
 | [2249-count-lattice-points-inside-a-circle](https://github.com/Pradnesh02/LeetCode-/tree/master/2249-count-lattice-points-inside-a-circle) |
 | [2708-maximum-strength-of-a-group](https://github.com/Pradnesh02/LeetCode-/tree/master/2708-maximum-strength-of-a-group) |
@@ -1227,6 +1229,7 @@
 | ------- |
 | [0258-add-digits](https://github.com/Pradnesh02/LeetCode-/tree/master/0258-add-digits) |
 | [1447-simplified-fractions](https://github.com/Pradnesh02/LeetCode-/tree/master/1447-simplified-fractions) |
+| [1952-three-divisors](https://github.com/Pradnesh02/LeetCode-/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Pradnesh02/LeetCode-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/Pradnesh02/LeetCode-/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Pradnesh02/LeetCode-/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -1473,4 +1476,12 @@
 |  |
 | ------- |
 | [0478-generate-random-point-in-a-circle](https://github.com/Pradnesh02/LeetCode-/tree/master/0478-generate-random-point-in-a-circle) |
+## Prime Factorization
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/Pradnesh02/LeetCode-/tree/master/1952-three-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/Pradnesh02/LeetCode-/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
