@@ -509,6 +509,7 @@
 | [0398-random-pick-index](https://github.com/Pradnesh02/LeetCode-/tree/master/0398-random-pick-index) |
 | [0415-add-strings](https://github.com/Pradnesh02/LeetCode-/tree/master/0415-add-strings) |
 | [0464-can-i-win](https://github.com/Pradnesh02/LeetCode-/tree/master/0464-can-i-win) |
+| [0478-generate-random-point-in-a-circle](https://github.com/Pradnesh02/LeetCode-/tree/master/0478-generate-random-point-in-a-circle) |
 | [0486-predict-the-winner](https://github.com/Pradnesh02/LeetCode-/tree/master/0486-predict-the-winner) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/Pradnesh02/LeetCode-/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0504-base-7](https://github.com/Pradnesh02/LeetCode-/tree/master/0504-base-7) |
@@ -1119,6 +1120,7 @@
 ## Geometry
 |  |
 | ------- |
+| [0478-generate-random-point-in-a-circle](https://github.com/Pradnesh02/LeetCode-/tree/master/0478-generate-random-point-in-a-circle) |
 | [1030-matrix-cells-in-distance-order](https://github.com/Pradnesh02/LeetCode-/tree/master/1030-matrix-cells-in-distance-order) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/Pradnesh02/LeetCode-/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Pradnesh02/LeetCode-/tree/master/2101-detonate-the-maximum-bombs) |
@@ -1367,6 +1369,7 @@
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Pradnesh02/LeetCode-/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0382-linked-list-random-node](https://github.com/Pradnesh02/LeetCode-/tree/master/0382-linked-list-random-node) |
 | [0398-random-pick-index](https://github.com/Pradnesh02/LeetCode-/tree/master/0398-random-pick-index) |
+| [0478-generate-random-point-in-a-circle](https://github.com/Pradnesh02/LeetCode-/tree/master/0478-generate-random-point-in-a-circle) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/Pradnesh02/LeetCode-/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0528-random-pick-with-weight](https://github.com/Pradnesh02/LeetCode-/tree/master/0528-random-pick-with-weight) |
 ## Quicksort
@@ -1458,4 +1461,8 @@
 | [0382-linked-list-random-node](https://github.com/Pradnesh02/LeetCode-/tree/master/0382-linked-list-random-node) |
 | [0398-random-pick-index](https://github.com/Pradnesh02/LeetCode-/tree/master/0398-random-pick-index) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/Pradnesh02/LeetCode-/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+## Rejection Sampling
+|  |
+| ------- |
+| [0478-generate-random-point-in-a-circle](https://github.com/Pradnesh02/LeetCode-/tree/master/0478-generate-random-point-in-a-circle) |
 <!---LeetCode Topics End-->
