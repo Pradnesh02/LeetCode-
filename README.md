@@ -9,6 +9,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/Pradnesh02/LeetCode-/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/Pradnesh02/LeetCode-/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Pradnesh02/LeetCode-/tree/master/0234-palindrome-linked-list) |
+| [0382-linked-list-random-node](https://github.com/Pradnesh02/LeetCode-/tree/master/0382-linked-list-random-node) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Pradnesh02/LeetCode-/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2074-reverse-nodes-in-even-length-groups](https://github.com/Pradnesh02/LeetCode-/tree/master/2074-reverse-nodes-in-even-length-groups) |
 ## Recursion
@@ -499,6 +500,7 @@
 | [0268-missing-number](https://github.com/Pradnesh02/LeetCode-/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Pradnesh02/LeetCode-/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Pradnesh02/LeetCode-/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0382-linked-list-random-node](https://github.com/Pradnesh02/LeetCode-/tree/master/0382-linked-list-random-node) |
 | [0390-elimination-game](https://github.com/Pradnesh02/LeetCode-/tree/master/0390-elimination-game) |
 | [0415-add-strings](https://github.com/Pradnesh02/LeetCode-/tree/master/0415-add-strings) |
 | [0464-can-i-win](https://github.com/Pradnesh02/LeetCode-/tree/master/0464-can-i-win) |
@@ -1352,6 +1354,7 @@
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Pradnesh02/LeetCode-/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Pradnesh02/LeetCode-/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0382-linked-list-random-node](https://github.com/Pradnesh02/LeetCode-/tree/master/0382-linked-list-random-node) |
 ## Quicksort
 |  |
 | ------- |
@@ -1435,4 +1438,8 @@
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/Pradnesh02/LeetCode-/tree/master/0399-evaluate-division) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/Pradnesh02/LeetCode-/tree/master/0382-linked-list-random-node) |
 <!---LeetCode Topics End-->
