@@ -172,6 +172,7 @@
 | [1895-largest-magic-square](https://github.com/Pradnesh02/LeetCode-/tree/master/1895-largest-magic-square) |
 | [1898-maximum-number-of-removable-characters](https://github.com/Pradnesh02/LeetCode-/tree/master/1898-maximum-number-of-removable-characters) |
 | [1905-count-sub-islands](https://github.com/Pradnesh02/LeetCode-/tree/master/1905-count-sub-islands) |
+| [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/Pradnesh02/LeetCode-/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
 | [1937-maximum-number-of-points-with-cost](https://github.com/Pradnesh02/LeetCode-/tree/master/1937-maximum-number-of-points-with-cost) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Pradnesh02/LeetCode-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1992-find-all-groups-of-farmland](https://github.com/Pradnesh02/LeetCode-/tree/master/1992-find-all-groups-of-farmland) |
