@@ -294,6 +294,7 @@
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Pradnesh02/LeetCode-/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0383-ransom-note](https://github.com/Pradnesh02/LeetCode-/tree/master/0383-ransom-note) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Pradnesh02/LeetCode-/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0398-random-pick-index](https://github.com/Pradnesh02/LeetCode-/tree/master/0398-random-pick-index) |
 | [0424-longest-repeating-character-replacement](https://github.com/Pradnesh02/LeetCode-/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Pradnesh02/LeetCode-/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Pradnesh02/LeetCode-/tree/master/0451-sort-characters-by-frequency) |
@@ -502,6 +503,7 @@
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Pradnesh02/LeetCode-/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0382-linked-list-random-node](https://github.com/Pradnesh02/LeetCode-/tree/master/0382-linked-list-random-node) |
 | [0390-elimination-game](https://github.com/Pradnesh02/LeetCode-/tree/master/0390-elimination-game) |
+| [0398-random-pick-index](https://github.com/Pradnesh02/LeetCode-/tree/master/0398-random-pick-index) |
 | [0415-add-strings](https://github.com/Pradnesh02/LeetCode-/tree/master/0415-add-strings) |
 | [0464-can-i-win](https://github.com/Pradnesh02/LeetCode-/tree/master/0464-can-i-win) |
 | [0486-predict-the-winner](https://github.com/Pradnesh02/LeetCode-/tree/master/0486-predict-the-winner) |
@@ -1355,6 +1357,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/Pradnesh02/LeetCode-/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Pradnesh02/LeetCode-/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0382-linked-list-random-node](https://github.com/Pradnesh02/LeetCode-/tree/master/0382-linked-list-random-node) |
+| [0398-random-pick-index](https://github.com/Pradnesh02/LeetCode-/tree/master/0398-random-pick-index) |
 ## Quicksort
 |  |
 | ------- |
@@ -1442,4 +1445,5 @@
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/Pradnesh02/LeetCode-/tree/master/0382-linked-list-random-node) |
+| [0398-random-pick-index](https://github.com/Pradnesh02/LeetCode-/tree/master/0398-random-pick-index) |
 <!---LeetCode Topics End-->
