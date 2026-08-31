@@ -257,6 +257,7 @@
 | [3238-find-the-number-of-winning-players](https://github.com/Pradnesh02/LeetCode-/tree/master/3238-find-the-number-of-winning-players) |
 | [3250-find-the-count-of-monotonic-pairs-i](https://github.com/Pradnesh02/LeetCode-/tree/master/3250-find-the-count-of-monotonic-pairs-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Pradnesh02/LeetCode-/tree/master/3312-sorted-gcd-pair-queries) |
+| [3334-find-the-maximum-factor-score-of-array](https://github.com/Pradnesh02/LeetCode-/tree/master/3334-find-the-maximum-factor-score-of-array) |
 | [3355-zero-array-transformation-i](https://github.com/Pradnesh02/LeetCode-/tree/master/3355-zero-array-transformation-i) |
 | [3356-zero-array-transformation-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/3356-zero-array-transformation-ii) |
 | [3371-identify-the-largest-outlier-in-an-array](https://github.com/Pradnesh02/LeetCode-/tree/master/3371-identify-the-largest-outlier-in-an-array) |
@@ -574,6 +575,7 @@
 | [3250-find-the-count-of-monotonic-pairs-i](https://github.com/Pradnesh02/LeetCode-/tree/master/3250-find-the-count-of-monotonic-pairs-i) |
 | [3280-convert-date-to-binary](https://github.com/Pradnesh02/LeetCode-/tree/master/3280-convert-date-to-binary) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Pradnesh02/LeetCode-/tree/master/3312-sorted-gcd-pair-queries) |
+| [3334-find-the-maximum-factor-score-of-array](https://github.com/Pradnesh02/LeetCode-/tree/master/3334-find-the-maximum-factor-score-of-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Pradnesh02/LeetCode-/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3360-stone-removal-game](https://github.com/Pradnesh02/LeetCode-/tree/master/3360-stone-removal-game) |
@@ -1238,6 +1240,7 @@
 | [2413-smallest-even-multiple](https://github.com/Pradnesh02/LeetCode-/tree/master/2413-smallest-even-multiple) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Pradnesh02/LeetCode-/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Pradnesh02/LeetCode-/tree/master/3312-sorted-gcd-pair-queries) |
+| [3334-find-the-maximum-factor-score-of-array](https://github.com/Pradnesh02/LeetCode-/tree/master/3334-find-the-maximum-factor-score-of-array) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Euclidean Algorithm
 |  |
@@ -1490,4 +1493,8 @@
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/Pradnesh02/LeetCode-/tree/master/1952-three-divisors) |
+## Least Common Multiple
+|  |
+| ------- |
+| [3334-find-the-maximum-factor-score-of-array](https://github.com/Pradnesh02/LeetCode-/tree/master/3334-find-the-maximum-factor-score-of-array) |
 <!---LeetCode Topics End-->
