@@ -9,6 +9,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/Pradnesh02/LeetCode-/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/Pradnesh02/LeetCode-/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Pradnesh02/LeetCode-/tree/master/0234-palindrome-linked-list) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Pradnesh02/LeetCode-/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2074-reverse-nodes-in-even-length-groups](https://github.com/Pradnesh02/LeetCode-/tree/master/2074-reverse-nodes-in-even-length-groups) |
 ## Recursion
 |  |
