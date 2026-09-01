@@ -536,6 +536,7 @@
 | [1406-stone-game-iii](https://github.com/Pradnesh02/LeetCode-/tree/master/1406-stone-game-iii) |
 | [1447-simplified-fractions](https://github.com/Pradnesh02/LeetCode-/tree/master/1447-simplified-fractions) |
 | [1510-stone-game-iv](https://github.com/Pradnesh02/LeetCode-/tree/master/1510-stone-game-iv) |
+| [1518-water-bottles](https://github.com/Pradnesh02/LeetCode-/tree/master/1518-water-bottles) |
 | [1563-stone-game-v](https://github.com/Pradnesh02/LeetCode-/tree/master/1563-stone-game-v) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Pradnesh02/LeetCode-/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1686-stone-game-vi](https://github.com/Pradnesh02/LeetCode-/tree/master/1686-stone-game-vi) |
@@ -964,6 +965,7 @@
 | [1260-shift-2d-grid](https://github.com/Pradnesh02/LeetCode-/tree/master/1260-shift-2d-grid) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Pradnesh02/LeetCode-/tree/master/1441-build-an-array-with-stack-operations) |
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Pradnesh02/LeetCode-/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
+| [1518-water-bottles](https://github.com/Pradnesh02/LeetCode-/tree/master/1518-water-bottles) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Pradnesh02/LeetCode-/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Pradnesh02/LeetCode-/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2043-simple-bank-system](https://github.com/Pradnesh02/LeetCode-/tree/master/2043-simple-bank-system) |
