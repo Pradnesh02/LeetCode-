@@ -203,6 +203,7 @@
 | [2249-count-lattice-points-inside-a-circle](https://github.com/Pradnesh02/LeetCode-/tree/master/2249-count-lattice-points-inside-a-circle) |
 | [2258-escape-the-spreading-fire](https://github.com/Pradnesh02/LeetCode-/tree/master/2258-escape-the-spreading-fire) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Pradnesh02/LeetCode-/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [2284-sender-with-largest-word-count](https://github.com/Pradnesh02/LeetCode-/tree/master/2284-sender-with-largest-word-count) |
 | [2293-min-max-game](https://github.com/Pradnesh02/LeetCode-/tree/master/2293-min-max-game) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/Pradnesh02/LeetCode-/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Pradnesh02/LeetCode-/tree/master/2348-number-of-zero-filled-subarrays) |
@@ -346,6 +347,7 @@
 | [2206-divide-array-into-equal-pairs](https://github.com/Pradnesh02/LeetCode-/tree/master/2206-divide-array-into-equal-pairs) |
 | [2249-count-lattice-points-inside-a-circle](https://github.com/Pradnesh02/LeetCode-/tree/master/2249-count-lattice-points-inside-a-circle) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Pradnesh02/LeetCode-/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [2284-sender-with-largest-word-count](https://github.com/Pradnesh02/LeetCode-/tree/master/2284-sender-with-largest-word-count) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Pradnesh02/LeetCode-/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2336-smallest-number-in-infinite-set](https://github.com/Pradnesh02/LeetCode-/tree/master/2336-smallest-number-in-infinite-set) |
 | [2363-merge-similar-items](https://github.com/Pradnesh02/LeetCode-/tree/master/2363-merge-similar-items) |
@@ -676,6 +678,7 @@
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Pradnesh02/LeetCode-/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Pradnesh02/LeetCode-/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2278-percentage-of-letter-in-string](https://github.com/Pradnesh02/LeetCode-/tree/master/2278-percentage-of-letter-in-string) |
+| [2284-sender-with-largest-word-count](https://github.com/Pradnesh02/LeetCode-/tree/master/2284-sender-with-largest-word-count) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Pradnesh02/LeetCode-/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2311-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Pradnesh02/LeetCode-/tree/master/2311-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/Pradnesh02/LeetCode-/tree/master/2343-query-kth-smallest-trimmed-number) |
@@ -829,6 +832,7 @@
 | [2029-stone-game-ix](https://github.com/Pradnesh02/LeetCode-/tree/master/2029-stone-game-ix) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/Pradnesh02/LeetCode-/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Pradnesh02/LeetCode-/tree/master/2206-divide-array-into-equal-pairs) |
+| [2284-sender-with-largest-word-count](https://github.com/Pradnesh02/LeetCode-/tree/master/2284-sender-with-largest-word-count) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Pradnesh02/LeetCode-/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2364-count-number-of-bad-pairs](https://github.com/Pradnesh02/LeetCode-/tree/master/2364-count-number-of-bad-pairs) |
 | [2404-most-frequent-even-element](https://github.com/Pradnesh02/LeetCode-/tree/master/2404-most-frequent-even-element) |
