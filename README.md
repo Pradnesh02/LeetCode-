@@ -280,6 +280,7 @@
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Pradnesh02/LeetCode-/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3809-best-reachable-tower](https://github.com/Pradnesh02/LeetCode-/tree/master/3809-best-reachable-tower) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Pradnesh02/LeetCode-/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3937-minimum-operations-to-make-array-modulo-alternating-i](https://github.com/Pradnesh02/LeetCode-/tree/master/3937-minimum-operations-to-make-array-modulo-alternating-i) |
 | [3947-maximum-number-of-items-from-sale-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 | [3995-minimum-cost-to-convert-string-iii](https://github.com/Pradnesh02/LeetCode-/tree/master/3995-minimum-cost-to-convert-string-iii) |
@@ -599,6 +600,7 @@
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Pradnesh02/LeetCode-/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Pradnesh02/LeetCode-/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Pradnesh02/LeetCode-/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/3876-construct-uniform-parity-array-ii) |
 ## String
 |  |
 | ------- |
