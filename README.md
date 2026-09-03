@@ -12,6 +12,7 @@
 | [0382-linked-list-random-node](https://github.com/Pradnesh02/LeetCode-/tree/master/0382-linked-list-random-node) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Pradnesh02/LeetCode-/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2074-reverse-nodes-in-even-length-groups](https://github.com/Pradnesh02/LeetCode-/tree/master/2074-reverse-nodes-in-even-length-groups) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/Pradnesh02/LeetCode-/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -582,6 +583,7 @@
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Pradnesh02/LeetCode-/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2544-alternating-digit-sum](https://github.com/Pradnesh02/LeetCode-/tree/master/2544-alternating-digit-sum) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/Pradnesh02/LeetCode-/tree/master/2600-k-items-with-the-maximum-sum) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/Pradnesh02/LeetCode-/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [2843-count-symmetric-integers](https://github.com/Pradnesh02/LeetCode-/tree/master/2843-count-symmetric-integers) |
 | [2849-determine-if-a-cell-is-reachable-at-a-given-time](https://github.com/Pradnesh02/LeetCode-/tree/master/2849-determine-if-a-cell-is-reachable-at-a-given-time) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Pradnesh02/LeetCode-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -870,6 +872,7 @@
 | [1504-count-submatrices-with-all-ones](https://github.com/Pradnesh02/LeetCode-/tree/master/1504-count-submatrices-with-all-ones) |
 | [1776-car-fleet-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/1776-car-fleet-ii) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Pradnesh02/LeetCode-/tree/master/2375-construct-smallest-number-from-di-string) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/Pradnesh02/LeetCode-/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
