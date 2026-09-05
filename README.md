@@ -917,6 +917,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/Pradnesh02/LeetCode-/tree/master/0516-longest-palindromic-subsequence) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Pradnesh02/LeetCode-/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0730-count-different-palindromic-subsequences](https://github.com/Pradnesh02/LeetCode-/tree/master/0730-count-different-palindromic-subsequences) |
+| [0834-sum-of-distances-in-tree](https://github.com/Pradnesh02/LeetCode-/tree/master/0834-sum-of-distances-in-tree) |
 | [0877-stone-game](https://github.com/Pradnesh02/LeetCode-/tree/master/0877-stone-game) |
 | [0913-cat-and-mouse](https://github.com/Pradnesh02/LeetCode-/tree/master/0913-cat-and-mouse) |
 | [1139-largest-1-bordered-square](https://github.com/Pradnesh02/LeetCode-/tree/master/1139-largest-1-bordered-square) |
@@ -1082,6 +1083,7 @@
 | [0676-implement-magic-dictionary](https://github.com/Pradnesh02/LeetCode-/tree/master/0676-implement-magic-dictionary) |
 | [0695-max-area-of-island](https://github.com/Pradnesh02/LeetCode-/tree/master/0695-max-area-of-island) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Pradnesh02/LeetCode-/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0834-sum-of-distances-in-tree](https://github.com/Pradnesh02/LeetCode-/tree/master/0834-sum-of-distances-in-tree) |
 | [0934-shortest-bridge](https://github.com/Pradnesh02/LeetCode-/tree/master/0934-shortest-bridge) |
 | [1202-smallest-string-with-swaps](https://github.com/Pradnesh02/LeetCode-/tree/master/1202-smallest-string-with-swaps) |
 | [1306-jump-game-iii](https://github.com/Pradnesh02/LeetCode-/tree/master/1306-jump-game-iii) |
@@ -1178,6 +1180,7 @@
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/Pradnesh02/LeetCode-/tree/master/0399-evaluate-division) |
+| [0834-sum-of-distances-in-tree](https://github.com/Pradnesh02/LeetCode-/tree/master/0834-sum-of-distances-in-tree) |
 | [0913-cat-and-mouse](https://github.com/Pradnesh02/LeetCode-/tree/master/0913-cat-and-mouse) |
 | [1632-rank-transform-of-a-matrix](https://github.com/Pradnesh02/LeetCode-/tree/master/1632-rank-transform-of-a-matrix) |
 | [1728-cat-and-mouse-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/1728-cat-and-mouse-ii) |
@@ -1375,6 +1378,7 @@
 | [0096-unique-binary-search-trees](https://github.com/Pradnesh02/LeetCode-/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Pradnesh02/LeetCode-/tree/master/0098-validate-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Pradnesh02/LeetCode-/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0834-sum-of-distances-in-tree](https://github.com/Pradnesh02/LeetCode-/tree/master/0834-sum-of-distances-in-tree) |
 | [2467-most-profitable-path-in-a-tree](https://github.com/Pradnesh02/LeetCode-/tree/master/2467-most-profitable-path-in-a-tree) |
 | [3241-time-taken-to-mark-all-nodes](https://github.com/Pradnesh02/LeetCode-/tree/master/3241-time-taken-to-mark-all-nodes) |
 ## Binary Search Tree
@@ -1570,5 +1574,6 @@
 ## DP on Trees
 |  |
 | ------- |
+| [0834-sum-of-distances-in-tree](https://github.com/Pradnesh02/LeetCode-/tree/master/0834-sum-of-distances-in-tree) |
 | [3241-time-taken-to-mark-all-nodes](https://github.com/Pradnesh02/LeetCode-/tree/master/3241-time-taken-to-mark-all-nodes) |
 <!---LeetCode Topics End-->
