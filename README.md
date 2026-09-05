@@ -287,6 +287,7 @@
 | [3875-construct-uniform-parity-array-i](https://github.com/Pradnesh02/LeetCode-/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Pradnesh02/LeetCode-/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/3904-smallest-stable-index-ii) |
 | [3937-minimum-operations-to-make-array-modulo-alternating-i](https://github.com/Pradnesh02/LeetCode-/tree/master/3937-minimum-operations-to-make-array-modulo-alternating-i) |
 | [3947-maximum-number-of-items-from-sale-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 | [3995-minimum-cost-to-convert-string-iii](https://github.com/Pradnesh02/LeetCode-/tree/master/3995-minimum-cost-to-convert-string-iii) |
@@ -1258,6 +1259,7 @@
 | [3355-zero-array-transformation-i](https://github.com/Pradnesh02/LeetCode-/tree/master/3355-zero-array-transformation-i) |
 | [3356-zero-array-transformation-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/3356-zero-array-transformation-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Pradnesh02/LeetCode-/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/3904-smallest-stable-index-ii) |
 ## Enumeration
 |  |
 | ------- |
