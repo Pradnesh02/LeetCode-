@@ -688,6 +688,7 @@
 | [1915-number-of-wonderful-substrings](https://github.com/Pradnesh02/LeetCode-/tree/master/1915-number-of-wonderful-substrings) |
 | [1927-sum-game](https://github.com/Pradnesh02/LeetCode-/tree/master/1927-sum-game) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Pradnesh02/LeetCode-/tree/master/1945-sum-of-digits-of-string-after-convert) |
+| [1987-number-of-unique-good-subsequences](https://github.com/Pradnesh02/LeetCode-/tree/master/1987-number-of-unique-good-subsequences) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Pradnesh02/LeetCode-/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Pradnesh02/LeetCode-/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/Pradnesh02/LeetCode-/tree/master/2062-count-vowel-substrings-of-a-string) |
@@ -937,6 +938,7 @@
 | [1871-jump-game-vii](https://github.com/Pradnesh02/LeetCode-/tree/master/1871-jump-game-vii) |
 | [1872-stone-game-viii](https://github.com/Pradnesh02/LeetCode-/tree/master/1872-stone-game-viii) |
 | [1937-maximum-number-of-points-with-cost](https://github.com/Pradnesh02/LeetCode-/tree/master/1937-maximum-number-of-points-with-cost) |
+| [1987-number-of-unique-good-subsequences](https://github.com/Pradnesh02/LeetCode-/tree/master/1987-number-of-unique-good-subsequences) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Pradnesh02/LeetCode-/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2140-solving-questions-with-brainpower](https://github.com/Pradnesh02/LeetCode-/tree/master/2140-solving-questions-with-brainpower) |
 | [2311-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Pradnesh02/LeetCode-/tree/master/2311-longest-binary-subsequence-less-than-or-equal-to-k) |
