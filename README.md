@@ -675,6 +675,7 @@
 | [1154-day-of-the-year](https://github.com/Pradnesh02/LeetCode-/tree/master/1154-day-of-the-year) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Pradnesh02/LeetCode-/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Pradnesh02/LeetCode-/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Pradnesh02/LeetCode-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1202-smallest-string-with-swaps](https://github.com/Pradnesh02/LeetCode-/tree/master/1202-smallest-string-with-swaps) |
 | [1234-replace-the-substring-for-balanced-string](https://github.com/Pradnesh02/LeetCode-/tree/master/1234-replace-the-substring-for-balanced-string) |
 | [1366-rank-teams-by-votes](https://github.com/Pradnesh02/LeetCode-/tree/master/1366-rank-teams-by-votes) |
@@ -890,6 +891,7 @@
 | [0735-asteroid-collision](https://github.com/Pradnesh02/LeetCode-/tree/master/0735-asteroid-collision) |
 | [0853-car-fleet](https://github.com/Pradnesh02/LeetCode-/tree/master/0853-car-fleet) |
 | [1006-clumsy-factorial](https://github.com/Pradnesh02/LeetCode-/tree/master/1006-clumsy-factorial) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Pradnesh02/LeetCode-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Pradnesh02/LeetCode-/tree/master/1441-build-an-array-with-stack-operations) |
 | [1504-count-submatrices-with-all-ones](https://github.com/Pradnesh02/LeetCode-/tree/master/1504-count-submatrices-with-all-ones) |
 | [1776-car-fleet-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/1776-car-fleet-ii) |
@@ -1412,6 +1414,7 @@
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/Pradnesh02/LeetCode-/tree/master/0241-different-ways-to-add-parentheses) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Pradnesh02/LeetCode-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Linear Algebra
 |  |
 | ------- |
