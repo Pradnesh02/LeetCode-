@@ -377,6 +377,7 @@
 | [2780-minimum-index-of-a-valid-split](https://github.com/Pradnesh02/LeetCode-/tree/master/2780-minimum-index-of-a-valid-split) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Pradnesh02/LeetCode-/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2831-find-the-longest-equal-subarray](https://github.com/Pradnesh02/LeetCode-/tree/master/2831-find-the-longest-equal-subarray) |
+| [2842-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/Pradnesh02/LeetCode-/tree/master/2842-count-k-subsequences-of-a-string-with-maximum-beauty) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/Pradnesh02/LeetCode-/tree/master/2869-minimum-operations-to-collect-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Pradnesh02/LeetCode-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Pradnesh02/LeetCode-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -488,6 +489,7 @@
 | [2731-movement-of-robots](https://github.com/Pradnesh02/LeetCode-/tree/master/2731-movement-of-robots) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Pradnesh02/LeetCode-/tree/master/2733-neither-minimum-nor-maximum) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/Pradnesh02/LeetCode-/tree/master/2780-minimum-index-of-a-valid-split) |
+| [2842-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/Pradnesh02/LeetCode-/tree/master/2842-count-k-subsequences-of-a-string-with-maximum-beauty) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Pradnesh02/LeetCode-/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Pradnesh02/LeetCode-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -598,6 +600,7 @@
 | [2544-alternating-digit-sum](https://github.com/Pradnesh02/LeetCode-/tree/master/2544-alternating-digit-sum) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/Pradnesh02/LeetCode-/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Pradnesh02/LeetCode-/tree/master/2816-double-a-number-represented-as-a-linked-list) |
+| [2842-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/Pradnesh02/LeetCode-/tree/master/2842-count-k-subsequences-of-a-string-with-maximum-beauty) |
 | [2843-count-symmetric-integers](https://github.com/Pradnesh02/LeetCode-/tree/master/2843-count-symmetric-integers) |
 | [2849-determine-if-a-cell-is-reachable-at-a-given-time](https://github.com/Pradnesh02/LeetCode-/tree/master/2849-determine-if-a-cell-is-reachable-at-a-given-time) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Pradnesh02/LeetCode-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -715,6 +718,7 @@
 | [2484-count-palindromic-subsequences](https://github.com/Pradnesh02/LeetCode-/tree/master/2484-count-palindromic-subsequences) |
 | [2506-count-pairs-of-similar-strings](https://github.com/Pradnesh02/LeetCode-/tree/master/2506-count-pairs-of-similar-strings) |
 | [2833-furthest-point-from-origin](https://github.com/Pradnesh02/LeetCode-/tree/master/2833-furthest-point-from-origin) |
+| [2842-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/Pradnesh02/LeetCode-/tree/master/2842-count-k-subsequences-of-a-string-with-maximum-beauty) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Pradnesh02/LeetCode-/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2942-find-words-containing-character](https://github.com/Pradnesh02/LeetCode-/tree/master/2942-find-words-containing-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Pradnesh02/LeetCode-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -768,6 +772,7 @@
 | [2560-house-robber-iv](https://github.com/Pradnesh02/LeetCode-/tree/master/2560-house-robber-iv) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/Pradnesh02/LeetCode-/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2708-maximum-strength-of-a-group](https://github.com/Pradnesh02/LeetCode-/tree/master/2708-maximum-strength-of-a-group) |
+| [2842-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/Pradnesh02/LeetCode-/tree/master/2842-count-k-subsequences-of-a-string-with-maximum-beauty) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Pradnesh02/LeetCode-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Pradnesh02/LeetCode-/tree/master/3074-apple-redistribution-into-boxes) |
@@ -1298,6 +1303,7 @@
 | ------- |
 | [0062-unique-paths](https://github.com/Pradnesh02/LeetCode-/tree/master/0062-unique-paths) |
 | [2400-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/Pradnesh02/LeetCode-/tree/master/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
+| [2842-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/Pradnesh02/LeetCode-/tree/master/2842-count-k-subsequences-of-a-string-with-maximum-beauty) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Pradnesh02/LeetCode-/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3250-find-the-count-of-monotonic-pairs-i](https://github.com/Pradnesh02/LeetCode-/tree/master/3250-find-the-count-of-monotonic-pairs-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Pradnesh02/LeetCode-/tree/master/3312-sorted-gcd-pair-queries) |
@@ -1582,4 +1588,8 @@
 | ------- |
 | [0834-sum-of-distances-in-tree](https://github.com/Pradnesh02/LeetCode-/tree/master/0834-sum-of-distances-in-tree) |
 | [3241-time-taken-to-mark-all-nodes](https://github.com/Pradnesh02/LeetCode-/tree/master/3241-time-taken-to-mark-all-nodes) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [2842-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/Pradnesh02/LeetCode-/tree/master/2842-count-k-subsequences-of-a-string-with-maximum-beauty) |
 <!---LeetCode Topics End-->
