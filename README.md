@@ -558,6 +558,7 @@
 | [0592-fraction-addition-and-subtraction](https://github.com/Pradnesh02/LeetCode-/tree/master/0592-fraction-addition-and-subtraction) |
 | [0640-solve-the-equation](https://github.com/Pradnesh02/LeetCode-/tree/master/0640-solve-the-equation) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Pradnesh02/LeetCode-/tree/master/0668-kth-smallest-number-in-multiplication-table) |
+| [0670-maximum-swap](https://github.com/Pradnesh02/LeetCode-/tree/master/0670-maximum-swap) |
 | [0780-reaching-points](https://github.com/Pradnesh02/LeetCode-/tree/master/0780-reaching-points) |
 | [0789-escape-the-ghosts](https://github.com/Pradnesh02/LeetCode-/tree/master/0789-escape-the-ghosts) |
 | [0840-magic-squares-in-grid](https://github.com/Pradnesh02/LeetCode-/tree/master/0840-magic-squares-in-grid) |
@@ -756,6 +757,7 @@
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Pradnesh02/LeetCode-/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0605-can-place-flowers](https://github.com/Pradnesh02/LeetCode-/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/Pradnesh02/LeetCode-/tree/master/0649-dota2-senate) |
+| [0670-maximum-swap](https://github.com/Pradnesh02/LeetCode-/tree/master/0670-maximum-swap) |
 | [0763-partition-labels](https://github.com/Pradnesh02/LeetCode-/tree/master/0763-partition-labels) |
 | [0942-di-string-match](https://github.com/Pradnesh02/LeetCode-/tree/master/0942-di-string-match) |
 | [1090-largest-values-from-labels](https://github.com/Pradnesh02/LeetCode-/tree/master/1090-largest-values-from-labels) |
