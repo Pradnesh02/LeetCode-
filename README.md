@@ -571,6 +571,7 @@
 | [1071-greatest-common-divisor-of-strings](https://github.com/Pradnesh02/LeetCode-/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1140-stone-game-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/1140-stone-game-ii) |
 | [1154-day-of-the-year](https://github.com/Pradnesh02/LeetCode-/tree/master/1154-day-of-the-year) |
+| [1360-number-of-days-between-two-dates](https://github.com/Pradnesh02/LeetCode-/tree/master/1360-number-of-days-between-two-dates) |
 | [1406-stone-game-iii](https://github.com/Pradnesh02/LeetCode-/tree/master/1406-stone-game-iii) |
 | [1447-simplified-fractions](https://github.com/Pradnesh02/LeetCode-/tree/master/1447-simplified-fractions) |
 | [1510-stone-game-iv](https://github.com/Pradnesh02/LeetCode-/tree/master/1510-stone-game-iv) |
@@ -688,6 +689,7 @@
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Pradnesh02/LeetCode-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1202-smallest-string-with-swaps](https://github.com/Pradnesh02/LeetCode-/tree/master/1202-smallest-string-with-swaps) |
 | [1234-replace-the-substring-for-balanced-string](https://github.com/Pradnesh02/LeetCode-/tree/master/1234-replace-the-substring-for-balanced-string) |
+| [1360-number-of-days-between-two-dates](https://github.com/Pradnesh02/LeetCode-/tree/master/1360-number-of-days-between-two-dates) |
 | [1366-rank-teams-by-votes](https://github.com/Pradnesh02/LeetCode-/tree/master/1366-rank-teams-by-votes) |
 | [1447-simplified-fractions](https://github.com/Pradnesh02/LeetCode-/tree/master/1447-simplified-fractions) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Pradnesh02/LeetCode-/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
