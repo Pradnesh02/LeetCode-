@@ -117,6 +117,7 @@
 | [0877-stone-game](https://github.com/Pradnesh02/LeetCode-/tree/master/0877-stone-game) |
 | [0892-surface-area-of-3d-shapes](https://github.com/Pradnesh02/LeetCode-/tree/master/0892-surface-area-of-3d-shapes) |
 | [0896-monotonic-array](https://github.com/Pradnesh02/LeetCode-/tree/master/0896-monotonic-array) |
+| [0900-rle-iterator](https://github.com/Pradnesh02/LeetCode-/tree/master/0900-rle-iterator) |
 | [0904-fruit-into-baskets](https://github.com/Pradnesh02/LeetCode-/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/Pradnesh02/LeetCode-/tree/master/0905-sort-array-by-parity) |
 | [0909-snakes-and-ladders](https://github.com/Pradnesh02/LeetCode-/tree/master/0909-snakes-and-ladders) |
@@ -871,6 +872,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Pradnesh02/LeetCode-/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Pradnesh02/LeetCode-/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/Pradnesh02/LeetCode-/tree/master/0451-sort-characters-by-frequency) |
+| [0900-rle-iterator](https://github.com/Pradnesh02/LeetCode-/tree/master/0900-rle-iterator) |
 | [0923-3sum-with-multiplicity](https://github.com/Pradnesh02/LeetCode-/tree/master/0923-3sum-with-multiplicity) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Pradnesh02/LeetCode-/tree/master/0992-subarrays-with-k-different-integers) |
 | [1090-largest-values-from-labels](https://github.com/Pradnesh02/LeetCode-/tree/master/1090-largest-values-from-labels) |
@@ -1490,6 +1492,7 @@
 | [0676-implement-magic-dictionary](https://github.com/Pradnesh02/LeetCode-/tree/master/0676-implement-magic-dictionary) |
 | [0729-my-calendar-i](https://github.com/Pradnesh02/LeetCode-/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/0731-my-calendar-ii) |
+| [0900-rle-iterator](https://github.com/Pradnesh02/LeetCode-/tree/master/0900-rle-iterator) |
 | [0911-online-election](https://github.com/Pradnesh02/LeetCode-/tree/master/0911-online-election) |
 | [2043-simple-bank-system](https://github.com/Pradnesh02/LeetCode-/tree/master/2043-simple-bank-system) |
 | [2241-design-an-atm-machine](https://github.com/Pradnesh02/LeetCode-/tree/master/2241-design-an-atm-machine) |
@@ -1622,4 +1625,8 @@
 |  |
 | ------- |
 | [2842-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/Pradnesh02/LeetCode-/tree/master/2842-count-k-subsequences-of-a-string-with-maximum-beauty) |
+## Iterator
+|  |
+| ------- |
+| [0900-rle-iterator](https://github.com/Pradnesh02/LeetCode-/tree/master/0900-rle-iterator) |
 <!---LeetCode Topics End-->
