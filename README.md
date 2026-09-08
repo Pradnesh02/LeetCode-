@@ -115,6 +115,7 @@
 | [0853-car-fleet](https://github.com/Pradnesh02/LeetCode-/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/Pradnesh02/LeetCode-/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Pradnesh02/LeetCode-/tree/master/0877-stone-game) |
+| [0892-surface-area-of-3d-shapes](https://github.com/Pradnesh02/LeetCode-/tree/master/0892-surface-area-of-3d-shapes) |
 | [0896-monotonic-array](https://github.com/Pradnesh02/LeetCode-/tree/master/0896-monotonic-array) |
 | [0904-fruit-into-baskets](https://github.com/Pradnesh02/LeetCode-/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/Pradnesh02/LeetCode-/tree/master/0905-sort-array-by-parity) |
@@ -563,6 +564,7 @@
 | [0789-escape-the-ghosts](https://github.com/Pradnesh02/LeetCode-/tree/master/0789-escape-the-ghosts) |
 | [0840-magic-squares-in-grid](https://github.com/Pradnesh02/LeetCode-/tree/master/0840-magic-squares-in-grid) |
 | [0877-stone-game](https://github.com/Pradnesh02/LeetCode-/tree/master/0877-stone-game) |
+| [0892-surface-area-of-3d-shapes](https://github.com/Pradnesh02/LeetCode-/tree/master/0892-surface-area-of-3d-shapes) |
 | [0913-cat-and-mouse](https://github.com/Pradnesh02/LeetCode-/tree/master/0913-cat-and-mouse) |
 | [0989-add-to-array-form-of-integer](https://github.com/Pradnesh02/LeetCode-/tree/master/0989-add-to-array-form-of-integer) |
 | [1006-clumsy-factorial](https://github.com/Pradnesh02/LeetCode-/tree/master/1006-clumsy-factorial) |
@@ -1070,6 +1072,7 @@
 | [0661-image-smoother](https://github.com/Pradnesh02/LeetCode-/tree/master/0661-image-smoother) |
 | [0695-max-area-of-island](https://github.com/Pradnesh02/LeetCode-/tree/master/0695-max-area-of-island) |
 | [0840-magic-squares-in-grid](https://github.com/Pradnesh02/LeetCode-/tree/master/0840-magic-squares-in-grid) |
+| [0892-surface-area-of-3d-shapes](https://github.com/Pradnesh02/LeetCode-/tree/master/0892-surface-area-of-3d-shapes) |
 | [0909-snakes-and-ladders](https://github.com/Pradnesh02/LeetCode-/tree/master/0909-snakes-and-ladders) |
 | [0934-shortest-bridge](https://github.com/Pradnesh02/LeetCode-/tree/master/0934-shortest-bridge) |
 | [0994-rotting-oranges](https://github.com/Pradnesh02/LeetCode-/tree/master/0994-rotting-oranges) |
@@ -1225,6 +1228,7 @@
 |  |
 | ------- |
 | [0478-generate-random-point-in-a-circle](https://github.com/Pradnesh02/LeetCode-/tree/master/0478-generate-random-point-in-a-circle) |
+| [0892-surface-area-of-3d-shapes](https://github.com/Pradnesh02/LeetCode-/tree/master/0892-surface-area-of-3d-shapes) |
 | [1030-matrix-cells-in-distance-order](https://github.com/Pradnesh02/LeetCode-/tree/master/1030-matrix-cells-in-distance-order) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/Pradnesh02/LeetCode-/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Pradnesh02/LeetCode-/tree/master/2101-detonate-the-maximum-bombs) |
