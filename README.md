@@ -128,6 +128,7 @@
 | [0934-shortest-bridge](https://github.com/Pradnesh02/LeetCode-/tree/master/0934-shortest-bridge) |
 | [0942-di-string-match](https://github.com/Pradnesh02/LeetCode-/tree/master/0942-di-string-match) |
 | [0966-vowel-spellchecker](https://github.com/Pradnesh02/LeetCode-/tree/master/0966-vowel-spellchecker) |
+| [0975-odd-even-jump](https://github.com/Pradnesh02/LeetCode-/tree/master/0975-odd-even-jump) |
 | [0989-add-to-array-form-of-integer](https://github.com/Pradnesh02/LeetCode-/tree/master/0989-add-to-array-form-of-integer) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Pradnesh02/LeetCode-/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/Pradnesh02/LeetCode-/tree/master/0994-rotting-oranges) |
@@ -467,6 +468,7 @@
 | [0905-sort-array-by-parity](https://github.com/Pradnesh02/LeetCode-/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/0922-sort-array-by-parity-ii) |
 | [0923-3sum-with-multiplicity](https://github.com/Pradnesh02/LeetCode-/tree/master/0923-3sum-with-multiplicity) |
+| [0975-odd-even-jump](https://github.com/Pradnesh02/LeetCode-/tree/master/0975-odd-even-jump) |
 | [1030-matrix-cells-in-distance-order](https://github.com/Pradnesh02/LeetCode-/tree/master/1030-matrix-cells-in-distance-order) |
 | [1090-largest-values-from-labels](https://github.com/Pradnesh02/LeetCode-/tree/master/1090-largest-values-from-labels) |
 | [1094-car-pooling](https://github.com/Pradnesh02/LeetCode-/tree/master/1094-car-pooling) |
@@ -513,6 +515,7 @@
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/Pradnesh02/LeetCode-/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0729-my-calendar-i](https://github.com/Pradnesh02/LeetCode-/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/0731-my-calendar-ii) |
+| [0975-odd-even-jump](https://github.com/Pradnesh02/LeetCode-/tree/master/0975-odd-even-jump) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Pradnesh02/LeetCode-/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2336-smallest-number-in-infinite-set](https://github.com/Pradnesh02/LeetCode-/tree/master/2336-smallest-number-in-infinite-set) |
 | [2363-merge-similar-items](https://github.com/Pradnesh02/LeetCode-/tree/master/2363-merge-similar-items) |
@@ -911,6 +914,7 @@
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Pradnesh02/LeetCode-/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0735-asteroid-collision](https://github.com/Pradnesh02/LeetCode-/tree/master/0735-asteroid-collision) |
 | [0853-car-fleet](https://github.com/Pradnesh02/LeetCode-/tree/master/0853-car-fleet) |
+| [0975-odd-even-jump](https://github.com/Pradnesh02/LeetCode-/tree/master/0975-odd-even-jump) |
 | [1006-clumsy-factorial](https://github.com/Pradnesh02/LeetCode-/tree/master/1006-clumsy-factorial) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Pradnesh02/LeetCode-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Pradnesh02/LeetCode-/tree/master/1441-build-an-array-with-stack-operations) |
@@ -953,6 +957,7 @@
 | [0877-stone-game](https://github.com/Pradnesh02/LeetCode-/tree/master/0877-stone-game) |
 | [0913-cat-and-mouse](https://github.com/Pradnesh02/LeetCode-/tree/master/0913-cat-and-mouse) |
 | [0940-distinct-subsequences-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/0940-distinct-subsequences-ii) |
+| [0975-odd-even-jump](https://github.com/Pradnesh02/LeetCode-/tree/master/0975-odd-even-jump) |
 | [1139-largest-1-bordered-square](https://github.com/Pradnesh02/LeetCode-/tree/master/1139-largest-1-bordered-square) |
 | [1140-stone-game-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/1140-stone-game-ii) |
 | [1162-as-far-from-land-as-possible](https://github.com/Pradnesh02/LeetCode-/tree/master/1162-as-far-from-land-as-possible) |
@@ -1411,6 +1416,7 @@
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Pradnesh02/LeetCode-/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0853-car-fleet](https://github.com/Pradnesh02/LeetCode-/tree/master/0853-car-fleet) |
+| [0975-odd-even-jump](https://github.com/Pradnesh02/LeetCode-/tree/master/0975-odd-even-jump) |
 | [1504-count-submatrices-with-all-ones](https://github.com/Pradnesh02/LeetCode-/tree/master/1504-count-submatrices-with-all-ones) |
 | [1776-car-fleet-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/1776-car-fleet-ii) |
 ## Tree
