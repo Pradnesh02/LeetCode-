@@ -556,6 +556,7 @@
 | [0415-add-strings](https://github.com/Pradnesh02/LeetCode-/tree/master/0415-add-strings) |
 | [0464-can-i-win](https://github.com/Pradnesh02/LeetCode-/tree/master/0464-can-i-win) |
 | [0478-generate-random-point-in-a-circle](https://github.com/Pradnesh02/LeetCode-/tree/master/0478-generate-random-point-in-a-circle) |
+| [0479-largest-palindrome-product](https://github.com/Pradnesh02/LeetCode-/tree/master/0479-largest-palindrome-product) |
 | [0486-predict-the-winner](https://github.com/Pradnesh02/LeetCode-/tree/master/0486-predict-the-winner) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/Pradnesh02/LeetCode-/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0504-base-7](https://github.com/Pradnesh02/LeetCode-/tree/master/0504-base-7) |
@@ -1321,6 +1322,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [0479-largest-palindrome-product](https://github.com/Pradnesh02/LeetCode-/tree/master/0479-largest-palindrome-product) |
 | [1952-three-divisors](https://github.com/Pradnesh02/LeetCode-/tree/master/1952-three-divisors) |
 | [2232-minimize-result-by-adding-parentheses-to-expression](https://github.com/Pradnesh02/LeetCode-/tree/master/2232-minimize-result-by-adding-parentheses-to-expression) |
 | [2249-count-lattice-points-inside-a-circle](https://github.com/Pradnesh02/LeetCode-/tree/master/2249-count-lattice-points-inside-a-circle) |
