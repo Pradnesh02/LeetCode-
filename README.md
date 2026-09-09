@@ -231,6 +231,7 @@
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Pradnesh02/LeetCode-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2467-most-profitable-path-in-a-tree](https://github.com/Pradnesh02/LeetCode-/tree/master/2467-most-profitable-path-in-a-tree) |
 | [2506-count-pairs-of-similar-strings](https://github.com/Pradnesh02/LeetCode-/tree/master/2506-count-pairs-of-similar-strings) |
+| [2518-number-of-great-partitions](https://github.com/Pradnesh02/LeetCode-/tree/master/2518-number-of-great-partitions) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Pradnesh02/LeetCode-/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Pradnesh02/LeetCode-/tree/master/2553-separate-the-digits-in-an-array) |
 | [2560-house-robber-iv](https://github.com/Pradnesh02/LeetCode-/tree/master/2560-house-robber-iv) |
@@ -985,6 +986,7 @@
 | [2400-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/Pradnesh02/LeetCode-/tree/master/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [2407-longest-increasing-subsequence-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/2407-longest-increasing-subsequence-ii) |
 | [2484-count-palindromic-subsequences](https://github.com/Pradnesh02/LeetCode-/tree/master/2484-count-palindromic-subsequences) |
+| [2518-number-of-great-partitions](https://github.com/Pradnesh02/LeetCode-/tree/master/2518-number-of-great-partitions) |
 | [2560-house-robber-iv](https://github.com/Pradnesh02/LeetCode-/tree/master/2560-house-robber-iv) |
 | [2708-maximum-strength-of-a-group](https://github.com/Pradnesh02/LeetCode-/tree/master/2708-maximum-strength-of-a-group) |
 | [2741-special-permutations](https://github.com/Pradnesh02/LeetCode-/tree/master/2741-special-permutations) |
