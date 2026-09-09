@@ -616,6 +616,7 @@
 | [2544-alternating-digit-sum](https://github.com/Pradnesh02/LeetCode-/tree/master/2544-alternating-digit-sum) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/Pradnesh02/LeetCode-/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Pradnesh02/LeetCode-/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [2698-find-the-punishment-number-of-an-integer](https://github.com/Pradnesh02/LeetCode-/tree/master/2698-find-the-punishment-number-of-an-integer) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Pradnesh02/LeetCode-/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [2842-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/Pradnesh02/LeetCode-/tree/master/2842-count-k-subsequences-of-a-string-with-maximum-beauty) |
 | [2843-count-symmetric-integers](https://github.com/Pradnesh02/LeetCode-/tree/master/2843-count-symmetric-integers) |
@@ -818,6 +819,7 @@
 | [0216-combination-sum-iii](https://github.com/Pradnesh02/LeetCode-/tree/master/0216-combination-sum-iii) |
 | [0401-binary-watch](https://github.com/Pradnesh02/LeetCode-/tree/master/0401-binary-watch) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Pradnesh02/LeetCode-/tree/master/2375-construct-smallest-number-from-di-string) |
+| [2698-find-the-punishment-number-of-an-integer](https://github.com/Pradnesh02/LeetCode-/tree/master/2698-find-the-punishment-number-of-an-integer) |
 | [2708-maximum-strength-of-a-group](https://github.com/Pradnesh02/LeetCode-/tree/master/2708-maximum-strength-of-a-group) |
 | [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/Pradnesh02/LeetCode-/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/3348-smallest-divisible-digit-product-ii) |
