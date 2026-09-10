@@ -1141,6 +1141,7 @@
 | [1905-count-sub-islands](https://github.com/Pradnesh02/LeetCode-/tree/master/1905-count-sub-islands) |
 | [1992-find-all-groups-of-farmland](https://github.com/Pradnesh02/LeetCode-/tree/master/1992-find-all-groups-of-farmland) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Pradnesh02/LeetCode-/tree/master/2101-detonate-the-maximum-bombs) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Pradnesh02/LeetCode-/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2467-most-profitable-path-in-a-tree](https://github.com/Pradnesh02/LeetCode-/tree/master/2467-most-profitable-path-in-a-tree) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Pradnesh02/LeetCode-/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3241-time-taken-to-mark-all-nodes](https://github.com/Pradnesh02/LeetCode-/tree/master/3241-time-taken-to-mark-all-nodes) |
@@ -1437,6 +1438,7 @@
 | [0098-validate-binary-search-tree](https://github.com/Pradnesh02/LeetCode-/tree/master/0098-validate-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Pradnesh02/LeetCode-/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0834-sum-of-distances-in-tree](https://github.com/Pradnesh02/LeetCode-/tree/master/0834-sum-of-distances-in-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Pradnesh02/LeetCode-/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2467-most-profitable-path-in-a-tree](https://github.com/Pradnesh02/LeetCode-/tree/master/2467-most-profitable-path-in-a-tree) |
 | [3241-time-taken-to-mark-all-nodes](https://github.com/Pradnesh02/LeetCode-/tree/master/3241-time-taken-to-mark-all-nodes) |
 ## Binary Search Tree
@@ -1454,6 +1456,7 @@
 | [0096-unique-binary-search-trees](https://github.com/Pradnesh02/LeetCode-/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Pradnesh02/LeetCode-/tree/master/0098-validate-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Pradnesh02/LeetCode-/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Pradnesh02/LeetCode-/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Bracket Sequences
 |  |
 | ------- |
