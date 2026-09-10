@@ -1127,6 +1127,7 @@
 | [0130-surrounded-regions](https://github.com/Pradnesh02/LeetCode-/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Pradnesh02/LeetCode-/tree/master/0200-number-of-islands) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Pradnesh02/LeetCode-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Pradnesh02/LeetCode-/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0385-mini-parser](https://github.com/Pradnesh02/LeetCode-/tree/master/0385-mini-parser) |
 | [0388-longest-absolute-file-path](https://github.com/Pradnesh02/LeetCode-/tree/master/0388-longest-absolute-file-path) |
 | [0399-evaluate-division](https://github.com/Pradnesh02/LeetCode-/tree/master/0399-evaluate-division) |
@@ -1440,6 +1441,7 @@
 | [0096-unique-binary-search-trees](https://github.com/Pradnesh02/LeetCode-/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Pradnesh02/LeetCode-/tree/master/0098-validate-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Pradnesh02/LeetCode-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Pradnesh02/LeetCode-/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/Pradnesh02/LeetCode-/tree/master/0563-binary-tree-tilt) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Pradnesh02/LeetCode-/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0834-sum-of-distances-in-tree](https://github.com/Pradnesh02/LeetCode-/tree/master/0834-sum-of-distances-in-tree) |
@@ -1463,6 +1465,7 @@
 | [0096-unique-binary-search-trees](https://github.com/Pradnesh02/LeetCode-/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Pradnesh02/LeetCode-/tree/master/0098-validate-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Pradnesh02/LeetCode-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Pradnesh02/LeetCode-/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/Pradnesh02/LeetCode-/tree/master/0563-binary-tree-tilt) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Pradnesh02/LeetCode-/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/Pradnesh02/LeetCode-/tree/master/1080-insufficient-nodes-in-root-to-leaf-paths) |
@@ -1670,8 +1673,10 @@
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Pradnesh02/LeetCode-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Pradnesh02/LeetCode-/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Lowest Common Ancestor
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Pradnesh02/LeetCode-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Pradnesh02/LeetCode-/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
