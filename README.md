@@ -1130,6 +1130,7 @@
 | [0388-longest-absolute-file-path](https://github.com/Pradnesh02/LeetCode-/tree/master/0388-longest-absolute-file-path) |
 | [0399-evaluate-division](https://github.com/Pradnesh02/LeetCode-/tree/master/0399-evaluate-division) |
 | [0419-battleships-in-a-board](https://github.com/Pradnesh02/LeetCode-/tree/master/0419-battleships-in-a-board) |
+| [0563-binary-tree-tilt](https://github.com/Pradnesh02/LeetCode-/tree/master/0563-binary-tree-tilt) |
 | [0676-implement-magic-dictionary](https://github.com/Pradnesh02/LeetCode-/tree/master/0676-implement-magic-dictionary) |
 | [0695-max-area-of-island](https://github.com/Pradnesh02/LeetCode-/tree/master/0695-max-area-of-island) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Pradnesh02/LeetCode-/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -1437,6 +1438,7 @@
 | [0095-unique-binary-search-trees-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Pradnesh02/LeetCode-/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Pradnesh02/LeetCode-/tree/master/0098-validate-binary-search-tree) |
+| [0563-binary-tree-tilt](https://github.com/Pradnesh02/LeetCode-/tree/master/0563-binary-tree-tilt) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Pradnesh02/LeetCode-/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0834-sum-of-distances-in-tree](https://github.com/Pradnesh02/LeetCode-/tree/master/0834-sum-of-distances-in-tree) |
 | [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/Pradnesh02/LeetCode-/tree/master/1080-insufficient-nodes-in-root-to-leaf-paths) |
@@ -1457,6 +1459,7 @@
 | [0095-unique-binary-search-trees-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Pradnesh02/LeetCode-/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Pradnesh02/LeetCode-/tree/master/0098-validate-binary-search-tree) |
+| [0563-binary-tree-tilt](https://github.com/Pradnesh02/LeetCode-/tree/master/0563-binary-tree-tilt) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Pradnesh02/LeetCode-/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/Pradnesh02/LeetCode-/tree/master/1080-insufficient-nodes-in-root-to-leaf-paths) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Pradnesh02/LeetCode-/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -1640,6 +1643,7 @@
 ## DP on Trees
 |  |
 | ------- |
+| [0563-binary-tree-tilt](https://github.com/Pradnesh02/LeetCode-/tree/master/0563-binary-tree-tilt) |
 | [0834-sum-of-distances-in-tree](https://github.com/Pradnesh02/LeetCode-/tree/master/0834-sum-of-distances-in-tree) |
 | [3241-time-taken-to-mark-all-nodes](https://github.com/Pradnesh02/LeetCode-/tree/master/3241-time-taken-to-mark-all-nodes) |
 ## Fermat's Little Theorem
