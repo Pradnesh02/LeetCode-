@@ -1135,6 +1135,7 @@
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Pradnesh02/LeetCode-/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0834-sum-of-distances-in-tree](https://github.com/Pradnesh02/LeetCode-/tree/master/0834-sum-of-distances-in-tree) |
 | [0934-shortest-bridge](https://github.com/Pradnesh02/LeetCode-/tree/master/0934-shortest-bridge) |
+| [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/Pradnesh02/LeetCode-/tree/master/1080-insufficient-nodes-in-root-to-leaf-paths) |
 | [1202-smallest-string-with-swaps](https://github.com/Pradnesh02/LeetCode-/tree/master/1202-smallest-string-with-swaps) |
 | [1306-jump-game-iii](https://github.com/Pradnesh02/LeetCode-/tree/master/1306-jump-game-iii) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Pradnesh02/LeetCode-/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
@@ -1438,6 +1439,7 @@
 | [0098-validate-binary-search-tree](https://github.com/Pradnesh02/LeetCode-/tree/master/0098-validate-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Pradnesh02/LeetCode-/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0834-sum-of-distances-in-tree](https://github.com/Pradnesh02/LeetCode-/tree/master/0834-sum-of-distances-in-tree) |
+| [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/Pradnesh02/LeetCode-/tree/master/1080-insufficient-nodes-in-root-to-leaf-paths) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Pradnesh02/LeetCode-/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2467-most-profitable-path-in-a-tree](https://github.com/Pradnesh02/LeetCode-/tree/master/2467-most-profitable-path-in-a-tree) |
 | [3241-time-taken-to-mark-all-nodes](https://github.com/Pradnesh02/LeetCode-/tree/master/3241-time-taken-to-mark-all-nodes) |
@@ -1456,6 +1458,7 @@
 | [0096-unique-binary-search-trees](https://github.com/Pradnesh02/LeetCode-/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Pradnesh02/LeetCode-/tree/master/0098-validate-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Pradnesh02/LeetCode-/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/Pradnesh02/LeetCode-/tree/master/1080-insufficient-nodes-in-root-to-leaf-paths) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Pradnesh02/LeetCode-/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Bracket Sequences
 |  |
