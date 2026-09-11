@@ -26,6 +26,7 @@
 | [0390-elimination-game](https://github.com/Pradnesh02/LeetCode-/tree/master/0390-elimination-game) |
 | [0486-predict-the-winner](https://github.com/Pradnesh02/LeetCode-/tree/master/0486-predict-the-winner) |
 | [1922-count-good-numbers](https://github.com/Pradnesh02/LeetCode-/tree/master/1922-count-good-numbers) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Pradnesh02/LeetCode-/tree/master/3483-unique-3-digit-even-numbers) |
 ## Array
 |  |
 | ------- |
@@ -286,6 +287,7 @@
 | [3452-sum-of-good-numbers](https://github.com/Pradnesh02/LeetCode-/tree/master/3452-sum-of-good-numbers) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Pradnesh02/LeetCode-/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3477-fruits-into-baskets-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/3477-fruits-into-baskets-ii) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Pradnesh02/LeetCode-/tree/master/3483-unique-3-digit-even-numbers) |
 | [3489-zero-array-transformation-iv](https://github.com/Pradnesh02/LeetCode-/tree/master/3489-zero-array-transformation-iv) |
 | [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/Pradnesh02/LeetCode-/tree/master/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Pradnesh02/LeetCode-/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
@@ -405,6 +407,7 @@
 | [3371-identify-the-largest-outlier-in-an-array](https://github.com/Pradnesh02/LeetCode-/tree/master/3371-identify-the-largest-outlier-in-an-array) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Pradnesh02/LeetCode-/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Pradnesh02/LeetCode-/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Pradnesh02/LeetCode-/tree/master/3483-unique-3-digit-even-numbers) |
 | [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/Pradnesh02/LeetCode-/tree/master/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Pradnesh02/LeetCode-/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Pradnesh02/LeetCode-/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -1342,6 +1345,7 @@
 | [3197-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/3197-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Pradnesh02/LeetCode-/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3371-identify-the-largest-outlier-in-an-array](https://github.com/Pradnesh02/LeetCode-/tree/master/3371-identify-the-largest-outlier-in-an-array) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Pradnesh02/LeetCode-/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Pradnesh02/LeetCode-/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Pradnesh02/LeetCode-/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3937-minimum-operations-to-make-array-modulo-alternating-i](https://github.com/Pradnesh02/LeetCode-/tree/master/3937-minimum-operations-to-make-array-modulo-alternating-i) |
