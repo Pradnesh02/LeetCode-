@@ -26,6 +26,7 @@
 | [0390-elimination-game](https://github.com/Pradnesh02/LeetCode-/tree/master/0390-elimination-game) |
 | [0486-predict-the-winner](https://github.com/Pradnesh02/LeetCode-/tree/master/0486-predict-the-winner) |
 | [1922-count-good-numbers](https://github.com/Pradnesh02/LeetCode-/tree/master/1922-count-good-numbers) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Pradnesh02/LeetCode-/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Pradnesh02/LeetCode-/tree/master/3483-unique-3-digit-even-numbers) |
 ## Array
 |  |
@@ -199,6 +200,7 @@
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/Pradnesh02/LeetCode-/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Pradnesh02/LeetCode-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Pradnesh02/LeetCode-/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Pradnesh02/LeetCode-/tree/master/2094-finding-3-digit-even-numbers) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Pradnesh02/LeetCode-/tree/master/2101-detonate-the-maximum-bombs) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Pradnesh02/LeetCode-/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Pradnesh02/LeetCode-/tree/master/2125-number-of-laser-beams-in-a-bank) |
@@ -367,6 +369,7 @@
 | [1915-number-of-wonderful-substrings](https://github.com/Pradnesh02/LeetCode-/tree/master/1915-number-of-wonderful-substrings) |
 | [2043-simple-bank-system](https://github.com/Pradnesh02/LeetCode-/tree/master/2043-simple-bank-system) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/Pradnesh02/LeetCode-/tree/master/2062-count-vowel-substrings-of-a-string) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Pradnesh02/LeetCode-/tree/master/2094-finding-3-digit-even-numbers) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Pradnesh02/LeetCode-/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/Pradnesh02/LeetCode-/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Pradnesh02/LeetCode-/tree/master/2206-divide-array-into-equal-pairs) |
@@ -490,6 +493,7 @@
 | [1686-stone-game-vi](https://github.com/Pradnesh02/LeetCode-/tree/master/1686-stone-game-vi) |
 | [1859-sorting-the-sentence](https://github.com/Pradnesh02/LeetCode-/tree/master/1859-sorting-the-sentence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Pradnesh02/LeetCode-/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Pradnesh02/LeetCode-/tree/master/2094-finding-3-digit-even-numbers) |
 | [2146-k-highest-ranked-items-within-a-price-range](https://github.com/Pradnesh02/LeetCode-/tree/master/2146-k-highest-ranked-items-within-a-price-range) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Pradnesh02/LeetCode-/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Pradnesh02/LeetCode-/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
@@ -1338,6 +1342,7 @@
 | ------- |
 | [0479-largest-palindrome-product](https://github.com/Pradnesh02/LeetCode-/tree/master/0479-largest-palindrome-product) |
 | [1952-three-divisors](https://github.com/Pradnesh02/LeetCode-/tree/master/1952-three-divisors) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Pradnesh02/LeetCode-/tree/master/2094-finding-3-digit-even-numbers) |
 | [2232-minimize-result-by-adding-parentheses-to-expression](https://github.com/Pradnesh02/LeetCode-/tree/master/2232-minimize-result-by-adding-parentheses-to-expression) |
 | [2249-count-lattice-points-inside-a-circle](https://github.com/Pradnesh02/LeetCode-/tree/master/2249-count-lattice-points-inside-a-circle) |
 | [2708-maximum-strength-of-a-group](https://github.com/Pradnesh02/LeetCode-/tree/master/2708-maximum-strength-of-a-group) |
