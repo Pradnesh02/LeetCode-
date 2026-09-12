@@ -447,6 +447,7 @@
 | [2396-strictly-palindromic-number](https://github.com/Pradnesh02/LeetCode-/tree/master/2396-strictly-palindromic-number) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Pradnesh02/LeetCode-/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/Pradnesh02/LeetCode-/tree/master/2903-find-indices-with-index-and-value-difference-i) |
+| [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/Pradnesh02/LeetCode-/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Pradnesh02/LeetCode-/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3356-zero-array-transformation-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/3356-zero-array-transformation-ii) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Pradnesh02/LeetCode-/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -760,6 +761,7 @@
 | [2842-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/Pradnesh02/LeetCode-/tree/master/2842-count-k-subsequences-of-a-string-with-maximum-beauty) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Pradnesh02/LeetCode-/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2942-find-words-containing-character](https://github.com/Pradnesh02/LeetCode-/tree/master/2942-find-words-containing-character) |
+| [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/Pradnesh02/LeetCode-/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Pradnesh02/LeetCode-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3019-number-of-changing-keys](https://github.com/Pradnesh02/LeetCode-/tree/master/3019-number-of-changing-keys) |
@@ -1245,6 +1247,7 @@
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/Pradnesh02/LeetCode-/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [2817-minimum-absolute-difference-between-elements-with-constraint](https://github.com/Pradnesh02/LeetCode-/tree/master/2817-minimum-absolute-difference-between-elements-with-constraint) |
 | [2831-find-the-longest-equal-subarray](https://github.com/Pradnesh02/LeetCode-/tree/master/2831-find-the-longest-equal-subarray) |
+| [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/Pradnesh02/LeetCode-/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Pradnesh02/LeetCode-/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Pradnesh02/LeetCode-/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Pradnesh02/LeetCode-/tree/master/3312-sorted-gcd-pair-queries) |
@@ -1529,10 +1532,12 @@
 |  |
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Pradnesh02/LeetCode-/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/Pradnesh02/LeetCode-/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 ## Hash Function
 |  |
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Pradnesh02/LeetCode-/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/Pradnesh02/LeetCode-/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
@@ -1702,4 +1707,20 @@
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Pradnesh02/LeetCode-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Pradnesh02/LeetCode-/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## String Matching
+|  |
+| ------- |
+| [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/Pradnesh02/LeetCode-/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
+## Z Algorithm
+|  |
+| ------- |
+| [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/Pradnesh02/LeetCode-/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/Pradnesh02/LeetCode-/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/Pradnesh02/LeetCode-/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 <!---LeetCode Topics End-->
