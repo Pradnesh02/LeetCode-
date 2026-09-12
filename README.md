@@ -240,6 +240,7 @@
 | [2518-number-of-great-partitions](https://github.com/Pradnesh02/LeetCode-/tree/master/2518-number-of-great-partitions) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Pradnesh02/LeetCode-/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Pradnesh02/LeetCode-/tree/master/2553-separate-the-digits-in-an-array) |
+| [2555-maximize-win-from-two-segments](https://github.com/Pradnesh02/LeetCode-/tree/master/2555-maximize-win-from-two-segments) |
 | [2560-house-robber-iv](https://github.com/Pradnesh02/LeetCode-/tree/master/2560-house-robber-iv) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Pradnesh02/LeetCode-/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/Pradnesh02/LeetCode-/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
@@ -1239,6 +1240,7 @@
 | [2258-escape-the-spreading-fire](https://github.com/Pradnesh02/LeetCode-/tree/master/2258-escape-the-spreading-fire) |
 | [2286-booking-concert-tickets-in-groups](https://github.com/Pradnesh02/LeetCode-/tree/master/2286-booking-concert-tickets-in-groups) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/Pradnesh02/LeetCode-/tree/master/2448-minimum-cost-to-make-array-equal) |
+| [2555-maximize-win-from-two-segments](https://github.com/Pradnesh02/LeetCode-/tree/master/2555-maximize-win-from-two-segments) |
 | [2560-house-robber-iv](https://github.com/Pradnesh02/LeetCode-/tree/master/2560-house-robber-iv) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/Pradnesh02/LeetCode-/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [2817-minimum-absolute-difference-between-elements-with-constraint](https://github.com/Pradnesh02/LeetCode-/tree/master/2817-minimum-absolute-difference-between-elements-with-constraint) |
@@ -1438,6 +1440,7 @@
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Pradnesh02/LeetCode-/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2401-longest-nice-subarray](https://github.com/Pradnesh02/LeetCode-/tree/master/2401-longest-nice-subarray) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Pradnesh02/LeetCode-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2555-maximize-win-from-two-segments](https://github.com/Pradnesh02/LeetCode-/tree/master/2555-maximize-win-from-two-segments) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Pradnesh02/LeetCode-/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2831-find-the-longest-equal-subarray](https://github.com/Pradnesh02/LeetCode-/tree/master/2831-find-the-longest-equal-subarray) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Pradnesh02/LeetCode-/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
