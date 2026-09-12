@@ -287,6 +287,7 @@
 | [3371-identify-the-largest-outlier-in-an-array](https://github.com/Pradnesh02/LeetCode-/tree/master/3371-identify-the-largest-outlier-in-an-array) |
 | [3376-minimum-time-to-break-locks-i](https://github.com/Pradnesh02/LeetCode-/tree/master/3376-minimum-time-to-break-locks-i) |
 | [3393-count-paths-with-the-given-xor-value](https://github.com/Pradnesh02/LeetCode-/tree/master/3393-count-paths-with-the-given-xor-value) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Pradnesh02/LeetCode-/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3452-sum-of-good-numbers](https://github.com/Pradnesh02/LeetCode-/tree/master/3452-sum-of-good-numbers) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Pradnesh02/LeetCode-/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3477-fruits-into-baskets-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/3477-fruits-into-baskets-ii) |
@@ -515,6 +516,7 @@
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Pradnesh02/LeetCode-/tree/master/3074-apple-redistribution-into-boxes) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Pradnesh02/LeetCode-/tree/master/3186-maximum-total-damage-with-spell-casting) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Pradnesh02/LeetCode-/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/Pradnesh02/LeetCode-/tree/master/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 | [3731-find-missing-elements](https://github.com/Pradnesh02/LeetCode-/tree/master/3731-find-missing-elements) |
 | [3947-maximum-number-of-items-from-sale-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/3947-maximum-number-of-items-from-sale-ii) |
@@ -1011,6 +1013,7 @@
 | [3250-find-the-count-of-monotonic-pairs-i](https://github.com/Pradnesh02/LeetCode-/tree/master/3250-find-the-count-of-monotonic-pairs-i) |
 | [3376-minimum-time-to-break-locks-i](https://github.com/Pradnesh02/LeetCode-/tree/master/3376-minimum-time-to-break-locks-i) |
 | [3393-count-paths-with-the-given-xor-value](https://github.com/Pradnesh02/LeetCode-/tree/master/3393-count-paths-with-the-given-xor-value) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Pradnesh02/LeetCode-/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3489-zero-array-transformation-iv](https://github.com/Pradnesh02/LeetCode-/tree/master/3489-zero-array-transformation-iv) |
 | [3995-minimum-cost-to-convert-string-iii](https://github.com/Pradnesh02/LeetCode-/tree/master/3995-minimum-cost-to-convert-string-iii) |
 ## Game Theory
@@ -1240,6 +1243,7 @@
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Pradnesh02/LeetCode-/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Pradnesh02/LeetCode-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3356-zero-array-transformation-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/3356-zero-array-transformation-ii) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Pradnesh02/LeetCode-/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3477-fruits-into-baskets-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/3477-fruits-into-baskets-ii) |
 ## Graph Theory
 |  |
