@@ -229,6 +229,7 @@
 | [2364-count-number-of-bad-pairs](https://github.com/Pradnesh02/LeetCode-/tree/master/2364-count-number-of-bad-pairs) |
 | [2401-longest-nice-subarray](https://github.com/Pradnesh02/LeetCode-/tree/master/2401-longest-nice-subarray) |
 | [2404-most-frequent-even-element](https://github.com/Pradnesh02/LeetCode-/tree/master/2404-most-frequent-even-element) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Pradnesh02/LeetCode-/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2407-longest-increasing-subsequence-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/2407-longest-increasing-subsequence-ii) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Pradnesh02/LeetCode-/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/Pradnesh02/LeetCode-/tree/master/2446-determine-if-two-events-have-conflict) |
@@ -446,6 +447,7 @@
 | [1898-maximum-number-of-removable-characters](https://github.com/Pradnesh02/LeetCode-/tree/master/1898-maximum-number-of-removable-characters) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Pradnesh02/LeetCode-/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2396-strictly-palindromic-number](https://github.com/Pradnesh02/LeetCode-/tree/master/2396-strictly-palindromic-number) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Pradnesh02/LeetCode-/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Pradnesh02/LeetCode-/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/Pradnesh02/LeetCode-/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/Pradnesh02/LeetCode-/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
@@ -509,6 +511,7 @@
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Pradnesh02/LeetCode-/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/Pradnesh02/LeetCode-/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [2363-merge-similar-items](https://github.com/Pradnesh02/LeetCode-/tree/master/2363-merge-similar-items) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Pradnesh02/LeetCode-/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/Pradnesh02/LeetCode-/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/Pradnesh02/LeetCode-/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [2708-maximum-strength-of-a-group](https://github.com/Pradnesh02/LeetCode-/tree/master/2708-maximum-strength-of-a-group) |
@@ -811,6 +814,7 @@
 | [2311-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Pradnesh02/LeetCode-/tree/master/2311-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Pradnesh02/LeetCode-/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2405-optimal-partition-of-string](https://github.com/Pradnesh02/LeetCode-/tree/master/2405-optimal-partition-of-string) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Pradnesh02/LeetCode-/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/Pradnesh02/LeetCode-/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2560-house-robber-iv](https://github.com/Pradnesh02/LeetCode-/tree/master/2560-house-robber-iv) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/Pradnesh02/LeetCode-/tree/master/2600-k-items-with-the-maximum-sum) |
@@ -1321,6 +1325,7 @@
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/Pradnesh02/LeetCode-/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2336-smallest-number-in-infinite-set](https://github.com/Pradnesh02/LeetCode-/tree/master/2336-smallest-number-in-infinite-set) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/Pradnesh02/LeetCode-/tree/master/2343-query-kth-smallest-trimmed-number) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Pradnesh02/LeetCode-/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/Pradnesh02/LeetCode-/tree/master/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 | [3947-maximum-number-of-items-from-sale-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Prefix Sum
@@ -1345,6 +1350,7 @@
 | [1895-largest-magic-square](https://github.com/Pradnesh02/LeetCode-/tree/master/1895-largest-magic-square) |
 | [1915-number-of-wonderful-substrings](https://github.com/Pradnesh02/LeetCode-/tree/master/1915-number-of-wonderful-substrings) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Pradnesh02/LeetCode-/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Pradnesh02/LeetCode-/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/Pradnesh02/LeetCode-/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/Pradnesh02/LeetCode-/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [2731-movement-of-robots](https://github.com/Pradnesh02/LeetCode-/tree/master/2731-movement-of-robots) |
