@@ -587,6 +587,7 @@
 | [0670-maximum-swap](https://github.com/Pradnesh02/LeetCode-/tree/master/0670-maximum-swap) |
 | [0780-reaching-points](https://github.com/Pradnesh02/LeetCode-/tree/master/0780-reaching-points) |
 | [0789-escape-the-ghosts](https://github.com/Pradnesh02/LeetCode-/tree/master/0789-escape-the-ghosts) |
+| [0836-rectangle-overlap](https://github.com/Pradnesh02/LeetCode-/tree/master/0836-rectangle-overlap) |
 | [0840-magic-squares-in-grid](https://github.com/Pradnesh02/LeetCode-/tree/master/0840-magic-squares-in-grid) |
 | [0877-stone-game](https://github.com/Pradnesh02/LeetCode-/tree/master/0877-stone-game) |
 | [0892-surface-area-of-3d-shapes](https://github.com/Pradnesh02/LeetCode-/tree/master/0892-surface-area-of-3d-shapes) |
@@ -1278,6 +1279,7 @@
 |  |
 | ------- |
 | [0478-generate-random-point-in-a-circle](https://github.com/Pradnesh02/LeetCode-/tree/master/0478-generate-random-point-in-a-circle) |
+| [0836-rectangle-overlap](https://github.com/Pradnesh02/LeetCode-/tree/master/0836-rectangle-overlap) |
 | [0892-surface-area-of-3d-shapes](https://github.com/Pradnesh02/LeetCode-/tree/master/0892-surface-area-of-3d-shapes) |
 | [1030-matrix-cells-in-distance-order](https://github.com/Pradnesh02/LeetCode-/tree/master/1030-matrix-cells-in-distance-order) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/Pradnesh02/LeetCode-/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
