@@ -685,6 +685,7 @@
 | [0076-minimum-window-substring](https://github.com/Pradnesh02/LeetCode-/tree/master/0076-minimum-window-substring) |
 | [0093-restore-ip-addresses](https://github.com/Pradnesh02/LeetCode-/tree/master/0093-restore-ip-addresses) |
 | [0115-distinct-subsequences](https://github.com/Pradnesh02/LeetCode-/tree/master/0115-distinct-subsequences) |
+| [0131-palindrome-partitioning](https://github.com/Pradnesh02/LeetCode-/tree/master/0131-palindrome-partitioning) |
 | [0168-excel-sheet-column-title](https://github.com/Pradnesh02/LeetCode-/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Pradnesh02/LeetCode-/tree/master/0171-excel-sheet-column-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/Pradnesh02/LeetCode-/tree/master/0208-implement-trie-prefix-tree) |
@@ -847,6 +848,7 @@
 | [0089-gray-code](https://github.com/Pradnesh02/LeetCode-/tree/master/0089-gray-code) |
 | [0093-restore-ip-addresses](https://github.com/Pradnesh02/LeetCode-/tree/master/0093-restore-ip-addresses) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/0095-unique-binary-search-trees-ii) |
+| [0131-palindrome-partitioning](https://github.com/Pradnesh02/LeetCode-/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Pradnesh02/LeetCode-/tree/master/0216-combination-sum-iii) |
 | [0401-binary-watch](https://github.com/Pradnesh02/LeetCode-/tree/master/0401-binary-watch) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Pradnesh02/LeetCode-/tree/master/2375-construct-smallest-number-from-di-string) |
@@ -974,6 +976,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pradnesh02/LeetCode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Pradnesh02/LeetCode-/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0131-palindrome-partitioning](https://github.com/Pradnesh02/LeetCode-/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/Pradnesh02/LeetCode-/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Pradnesh02/LeetCode-/tree/master/0198-house-robber) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Pradnesh02/LeetCode-/tree/master/0241-different-ways-to-add-parentheses) |
