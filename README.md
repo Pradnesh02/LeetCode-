@@ -449,6 +449,7 @@
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Pradnesh02/LeetCode-/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2396-strictly-palindromic-number](https://github.com/Pradnesh02/LeetCode-/tree/master/2396-strictly-palindromic-number) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Pradnesh02/LeetCode-/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Pradnesh02/LeetCode-/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Pradnesh02/LeetCode-/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/Pradnesh02/LeetCode-/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/Pradnesh02/LeetCode-/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
@@ -764,6 +765,7 @@
 | [2409-count-days-spent-together](https://github.com/Pradnesh02/LeetCode-/tree/master/2409-count-days-spent-together) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/Pradnesh02/LeetCode-/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/Pradnesh02/LeetCode-/tree/master/2446-determine-if-two-events-have-conflict) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Pradnesh02/LeetCode-/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2484-count-palindromic-subsequences](https://github.com/Pradnesh02/LeetCode-/tree/master/2484-count-palindromic-subsequences) |
 | [2506-count-pairs-of-similar-strings](https://github.com/Pradnesh02/LeetCode-/tree/master/2506-count-pairs-of-similar-strings) |
 | [2833-furthest-point-from-origin](https://github.com/Pradnesh02/LeetCode-/tree/master/2833-furthest-point-from-origin) |
@@ -821,6 +823,7 @@
 | [2405-optimal-partition-of-string](https://github.com/Pradnesh02/LeetCode-/tree/master/2405-optimal-partition-of-string) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Pradnesh02/LeetCode-/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/Pradnesh02/LeetCode-/tree/master/2448-minimum-cost-to-make-array-equal) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Pradnesh02/LeetCode-/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2560-house-robber-iv](https://github.com/Pradnesh02/LeetCode-/tree/master/2560-house-robber-iv) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/Pradnesh02/LeetCode-/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2708-maximum-strength-of-a-group](https://github.com/Pradnesh02/LeetCode-/tree/master/2708-maximum-strength-of-a-group) |
@@ -1015,6 +1018,7 @@
 | [2370-longest-ideal-subsequence](https://github.com/Pradnesh02/LeetCode-/tree/master/2370-longest-ideal-subsequence) |
 | [2400-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/Pradnesh02/LeetCode-/tree/master/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [2407-longest-increasing-subsequence-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/2407-longest-increasing-subsequence-ii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Pradnesh02/LeetCode-/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2484-count-palindromic-subsequences](https://github.com/Pradnesh02/LeetCode-/tree/master/2484-count-palindromic-subsequences) |
 | [2518-number-of-great-partitions](https://github.com/Pradnesh02/LeetCode-/tree/master/2518-number-of-great-partitions) |
 | [2560-house-robber-iv](https://github.com/Pradnesh02/LeetCode-/tree/master/2560-house-robber-iv) |
