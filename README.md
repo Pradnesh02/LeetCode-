@@ -117,6 +117,7 @@
 | [0835-image-overlap](https://github.com/Pradnesh02/LeetCode-/tree/master/0835-image-overlap) |
 | [0840-magic-squares-in-grid](https://github.com/Pradnesh02/LeetCode-/tree/master/0840-magic-squares-in-grid) |
 | [0853-car-fleet](https://github.com/Pradnesh02/LeetCode-/tree/master/0853-car-fleet) |
+| [0860-lemonade-change](https://github.com/Pradnesh02/LeetCode-/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/Pradnesh02/LeetCode-/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Pradnesh02/LeetCode-/tree/master/0877-stone-game) |
 | [0892-surface-area-of-3d-shapes](https://github.com/Pradnesh02/LeetCode-/tree/master/0892-surface-area-of-3d-shapes) |
@@ -808,6 +809,7 @@
 | [0649-dota2-senate](https://github.com/Pradnesh02/LeetCode-/tree/master/0649-dota2-senate) |
 | [0670-maximum-swap](https://github.com/Pradnesh02/LeetCode-/tree/master/0670-maximum-swap) |
 | [0763-partition-labels](https://github.com/Pradnesh02/LeetCode-/tree/master/0763-partition-labels) |
+| [0860-lemonade-change](https://github.com/Pradnesh02/LeetCode-/tree/master/0860-lemonade-change) |
 | [0942-di-string-match](https://github.com/Pradnesh02/LeetCode-/tree/master/0942-di-string-match) |
 | [1090-largest-values-from-labels](https://github.com/Pradnesh02/LeetCode-/tree/master/1090-largest-values-from-labels) |
 | [1386-cinema-seat-allocation](https://github.com/Pradnesh02/LeetCode-/tree/master/1386-cinema-seat-allocation) |
