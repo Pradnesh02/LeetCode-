@@ -614,6 +614,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Pradnesh02/LeetCode-/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1360-number-of-days-between-two-dates](https://github.com/Pradnesh02/LeetCode-/tree/master/1360-number-of-days-between-two-dates) |
 | [1406-stone-game-iii](https://github.com/Pradnesh02/LeetCode-/tree/master/1406-stone-game-iii) |
+| [1432-max-difference-you-can-get-from-changing-an-integer](https://github.com/Pradnesh02/LeetCode-/tree/master/1432-max-difference-you-can-get-from-changing-an-integer) |
 | [1447-simplified-fractions](https://github.com/Pradnesh02/LeetCode-/tree/master/1447-simplified-fractions) |
 | [1510-stone-game-iv](https://github.com/Pradnesh02/LeetCode-/tree/master/1510-stone-game-iv) |
 | [1518-water-bottles](https://github.com/Pradnesh02/LeetCode-/tree/master/1518-water-bottles) |
@@ -817,6 +818,7 @@
 | [0942-di-string-match](https://github.com/Pradnesh02/LeetCode-/tree/master/0942-di-string-match) |
 | [1090-largest-values-from-labels](https://github.com/Pradnesh02/LeetCode-/tree/master/1090-largest-values-from-labels) |
 | [1386-cinema-seat-allocation](https://github.com/Pradnesh02/LeetCode-/tree/master/1386-cinema-seat-allocation) |
+| [1432-max-difference-you-can-get-from-changing-an-integer](https://github.com/Pradnesh02/LeetCode-/tree/master/1432-max-difference-you-can-get-from-changing-an-integer) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Pradnesh02/LeetCode-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/Pradnesh02/LeetCode-/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Pradnesh02/LeetCode-/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
