@@ -797,6 +797,7 @@
 | [3280-convert-date-to-binary](https://github.com/Pradnesh02/LeetCode-/tree/master/3280-convert-date-to-binary) |
 | [3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3407-substring-matching-pattern](https://github.com/Pradnesh02/LeetCode-/tree/master/3407-substring-matching-pattern) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Pradnesh02/LeetCode-/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Pradnesh02/LeetCode-/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Pradnesh02/LeetCode-/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -1762,6 +1763,7 @@
 |  |
 | ------- |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/Pradnesh02/LeetCode-/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
+| [3407-substring-matching-pattern](https://github.com/Pradnesh02/LeetCode-/tree/master/3407-substring-matching-pattern) |
 ## Z Algorithm
 |  |
 | ------- |
