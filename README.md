@@ -370,6 +370,7 @@
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Pradnesh02/LeetCode-/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Pradnesh02/LeetCode-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Pradnesh02/LeetCode-/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Pradnesh02/LeetCode-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/Pradnesh02/LeetCode-/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [1630-arithmetic-subarrays](https://github.com/Pradnesh02/LeetCode-/tree/master/1630-arithmetic-subarrays) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Pradnesh02/LeetCode-/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -501,6 +502,7 @@
 | [1346-check-if-n-and-its-double-exist](https://github.com/Pradnesh02/LeetCode-/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1366-rank-teams-by-votes](https://github.com/Pradnesh02/LeetCode-/tree/master/1366-rank-teams-by-votes) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Pradnesh02/LeetCode-/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Pradnesh02/LeetCode-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1630-arithmetic-subarrays](https://github.com/Pradnesh02/LeetCode-/tree/master/1630-arithmetic-subarrays) |
 | [1632-rank-transform-of-a-matrix](https://github.com/Pradnesh02/LeetCode-/tree/master/1632-rank-transform-of-a-matrix) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Pradnesh02/LeetCode-/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -736,6 +738,7 @@
 | [1366-rank-teams-by-votes](https://github.com/Pradnesh02/LeetCode-/tree/master/1366-rank-teams-by-votes) |
 | [1447-simplified-fractions](https://github.com/Pradnesh02/LeetCode-/tree/master/1447-simplified-fractions) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Pradnesh02/LeetCode-/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Pradnesh02/LeetCode-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Pradnesh02/LeetCode-/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Pradnesh02/LeetCode-/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Pradnesh02/LeetCode-/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -813,6 +816,7 @@
 | [0942-di-string-match](https://github.com/Pradnesh02/LeetCode-/tree/master/0942-di-string-match) |
 | [1090-largest-values-from-labels](https://github.com/Pradnesh02/LeetCode-/tree/master/1090-largest-values-from-labels) |
 | [1386-cinema-seat-allocation](https://github.com/Pradnesh02/LeetCode-/tree/master/1386-cinema-seat-allocation) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Pradnesh02/LeetCode-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/Pradnesh02/LeetCode-/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Pradnesh02/LeetCode-/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1686-stone-game-vi](https://github.com/Pradnesh02/LeetCode-/tree/master/1686-stone-game-vi) |
