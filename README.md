@@ -20,6 +20,7 @@
 | [0010-regular-expression-matching](https://github.com/Pradnesh02/LeetCode-/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/Pradnesh02/LeetCode-/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Pradnesh02/LeetCode-/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/Pradnesh02/LeetCode-/tree/master/0044-wildcard-matching) |
 | [0206-reverse-linked-list](https://github.com/Pradnesh02/LeetCode-/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Pradnesh02/LeetCode-/tree/master/0234-palindrome-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Pradnesh02/LeetCode-/tree/master/0241-different-ways-to-add-parentheses) |
@@ -689,6 +690,7 @@
 | [0014-longest-common-prefix](https://github.com/Pradnesh02/LeetCode-/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Pradnesh02/LeetCode-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0043-multiply-strings](https://github.com/Pradnesh02/LeetCode-/tree/master/0043-multiply-strings) |
+| [0044-wildcard-matching](https://github.com/Pradnesh02/LeetCode-/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/Pradnesh02/LeetCode-/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Pradnesh02/LeetCode-/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/Pradnesh02/LeetCode-/tree/master/0076-minimum-window-substring) |
@@ -804,6 +806,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Pradnesh02/LeetCode-/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/Pradnesh02/LeetCode-/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Pradnesh02/LeetCode-/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -980,6 +983,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Pradnesh02/LeetCode-/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Pradnesh02/LeetCode-/tree/master/0010-regular-expression-matching) |
+| [0044-wildcard-matching](https://github.com/Pradnesh02/LeetCode-/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Pradnesh02/LeetCode-/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Pradnesh02/LeetCode-/tree/master/0055-jump-game) |
