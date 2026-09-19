@@ -404,6 +404,7 @@
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Pradnesh02/LeetCode-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2506-count-pairs-of-similar-strings](https://github.com/Pradnesh02/LeetCode-/tree/master/2506-count-pairs-of-similar-strings) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Pradnesh02/LeetCode-/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
+| [2671-frequency-tracker](https://github.com/Pradnesh02/LeetCode-/tree/master/2671-frequency-tracker) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/Pradnesh02/LeetCode-/tree/master/2780-minimum-index-of-a-valid-split) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Pradnesh02/LeetCode-/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2831-find-the-longest-equal-subarray](https://github.com/Pradnesh02/LeetCode-/tree/master/2831-find-the-longest-equal-subarray) |
@@ -1614,6 +1615,7 @@
 | [2241-design-an-atm-machine](https://github.com/Pradnesh02/LeetCode-/tree/master/2241-design-an-atm-machine) |
 | [2286-booking-concert-tickets-in-groups](https://github.com/Pradnesh02/LeetCode-/tree/master/2286-booking-concert-tickets-in-groups) |
 | [2336-smallest-number-in-infinite-set](https://github.com/Pradnesh02/LeetCode-/tree/master/2336-smallest-number-in-infinite-set) |
+| [2671-frequency-tracker](https://github.com/Pradnesh02/LeetCode-/tree/master/2671-frequency-tracker) |
 ## Randomized
 |  |
 | ------- |
