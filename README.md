@@ -614,6 +614,7 @@
 | [1154-day-of-the-year](https://github.com/Pradnesh02/LeetCode-/tree/master/1154-day-of-the-year) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Pradnesh02/LeetCode-/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1360-number-of-days-between-two-dates](https://github.com/Pradnesh02/LeetCode-/tree/master/1360-number-of-days-between-two-dates) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Pradnesh02/LeetCode-/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/Pradnesh02/LeetCode-/tree/master/1406-stone-game-iii) |
 | [1432-max-difference-you-can-get-from-changing-an-integer](https://github.com/Pradnesh02/LeetCode-/tree/master/1432-max-difference-you-can-get-from-changing-an-integer) |
 | [1447-simplified-fractions](https://github.com/Pradnesh02/LeetCode-/tree/master/1447-simplified-fractions) |
@@ -1317,6 +1318,7 @@
 | [0836-rectangle-overlap](https://github.com/Pradnesh02/LeetCode-/tree/master/0836-rectangle-overlap) |
 | [0892-surface-area-of-3d-shapes](https://github.com/Pradnesh02/LeetCode-/tree/master/0892-surface-area-of-3d-shapes) |
 | [1030-matrix-cells-in-distance-order](https://github.com/Pradnesh02/LeetCode-/tree/master/1030-matrix-cells-in-distance-order) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Pradnesh02/LeetCode-/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/Pradnesh02/LeetCode-/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Pradnesh02/LeetCode-/tree/master/2101-detonate-the-maximum-bombs) |
 | [2249-count-lattice-points-inside-a-circle](https://github.com/Pradnesh02/LeetCode-/tree/master/2249-count-lattice-points-inside-a-circle) |
