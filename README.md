@@ -741,6 +741,7 @@
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Pradnesh02/LeetCode-/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Pradnesh02/LeetCode-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1202-smallest-string-with-swaps](https://github.com/Pradnesh02/LeetCode-/tree/master/1202-smallest-string-with-swaps) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/Pradnesh02/LeetCode-/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1234-replace-the-substring-for-balanced-string](https://github.com/Pradnesh02/LeetCode-/tree/master/1234-replace-the-substring-for-balanced-string) |
 | [1360-number-of-days-between-two-dates](https://github.com/Pradnesh02/LeetCode-/tree/master/1360-number-of-days-between-two-dates) |
 | [1366-rank-teams-by-votes](https://github.com/Pradnesh02/LeetCode-/tree/master/1366-rank-teams-by-votes) |
@@ -826,6 +827,7 @@
 | [0860-lemonade-change](https://github.com/Pradnesh02/LeetCode-/tree/master/0860-lemonade-change) |
 | [0942-di-string-match](https://github.com/Pradnesh02/LeetCode-/tree/master/0942-di-string-match) |
 | [1090-largest-values-from-labels](https://github.com/Pradnesh02/LeetCode-/tree/master/1090-largest-values-from-labels) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/Pradnesh02/LeetCode-/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1386-cinema-seat-allocation](https://github.com/Pradnesh02/LeetCode-/tree/master/1386-cinema-seat-allocation) |
 | [1432-max-difference-you-can-get-from-changing-an-integer](https://github.com/Pradnesh02/LeetCode-/tree/master/1432-max-difference-you-can-get-from-changing-an-integer) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Pradnesh02/LeetCode-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -942,6 +944,7 @@
 | [0992-subarrays-with-k-different-integers](https://github.com/Pradnesh02/LeetCode-/tree/master/0992-subarrays-with-k-different-integers) |
 | [1090-largest-values-from-labels](https://github.com/Pradnesh02/LeetCode-/tree/master/1090-largest-values-from-labels) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Pradnesh02/LeetCode-/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/Pradnesh02/LeetCode-/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1366-rank-teams-by-votes](https://github.com/Pradnesh02/LeetCode-/tree/master/1366-rank-teams-by-votes) |
 | [1399-count-largest-group](https://github.com/Pradnesh02/LeetCode-/tree/master/1399-count-largest-group) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Pradnesh02/LeetCode-/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
