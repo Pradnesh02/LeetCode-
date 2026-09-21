@@ -290,6 +290,7 @@
 | [3207-maximum-points-after-enemy-battles](https://github.com/Pradnesh02/LeetCode-/tree/master/3207-maximum-points-after-enemy-battles) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Pradnesh02/LeetCode-/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3238-find-the-number-of-winning-players](https://github.com/Pradnesh02/LeetCode-/tree/master/3238-find-the-number-of-winning-players) |
+| [3242-design-neighbor-sum-service](https://github.com/Pradnesh02/LeetCode-/tree/master/3242-design-neighbor-sum-service) |
 | [3250-find-the-count-of-monotonic-pairs-i](https://github.com/Pradnesh02/LeetCode-/tree/master/3250-find-the-count-of-monotonic-pairs-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Pradnesh02/LeetCode-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3334-find-the-maximum-factor-score-of-array](https://github.com/Pradnesh02/LeetCode-/tree/master/3334-find-the-maximum-factor-score-of-array) |
@@ -424,6 +425,7 @@
 | [3164-find-the-number-of-good-pairs-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/3164-find-the-number-of-good-pairs-ii) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Pradnesh02/LeetCode-/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3238-find-the-number-of-winning-players](https://github.com/Pradnesh02/LeetCode-/tree/master/3238-find-the-number-of-winning-players) |
+| [3242-design-neighbor-sum-service](https://github.com/Pradnesh02/LeetCode-/tree/master/3242-design-neighbor-sum-service) |
 | [3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Pradnesh02/LeetCode-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3371-identify-the-largest-outlier-in-an-array](https://github.com/Pradnesh02/LeetCode-/tree/master/3371-identify-the-largest-outlier-in-an-array) |
@@ -1142,6 +1144,7 @@
 | [3100-water-bottles-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/3100-water-bottles-ii) |
 | [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Pradnesh02/LeetCode-/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Pradnesh02/LeetCode-/tree/master/3222-find-the-winning-player-in-coin-game) |
+| [3242-design-neighbor-sum-service](https://github.com/Pradnesh02/LeetCode-/tree/master/3242-design-neighbor-sum-service) |
 | [3360-stone-removal-game](https://github.com/Pradnesh02/LeetCode-/tree/master/3360-stone-removal-game) |
 | [3477-fruits-into-baskets-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/3477-fruits-into-baskets-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/Pradnesh02/LeetCode-/tree/master/3498-reverse-degree-of-a-string) |
@@ -1185,6 +1188,7 @@
 | [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/Pradnesh02/LeetCode-/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
 | [3197-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/3197-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Pradnesh02/LeetCode-/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3242-design-neighbor-sum-service](https://github.com/Pradnesh02/LeetCode-/tree/master/3242-design-neighbor-sum-service) |
 | [3393-count-paths-with-the-given-xor-value](https://github.com/Pradnesh02/LeetCode-/tree/master/3393-count-paths-with-the-given-xor-value) |
 ## Brainteaser
 |  |
@@ -1626,6 +1630,7 @@
 | [2286-booking-concert-tickets-in-groups](https://github.com/Pradnesh02/LeetCode-/tree/master/2286-booking-concert-tickets-in-groups) |
 | [2336-smallest-number-in-infinite-set](https://github.com/Pradnesh02/LeetCode-/tree/master/2336-smallest-number-in-infinite-set) |
 | [2671-frequency-tracker](https://github.com/Pradnesh02/LeetCode-/tree/master/2671-frequency-tracker) |
+| [3242-design-neighbor-sum-service](https://github.com/Pradnesh02/LeetCode-/tree/master/3242-design-neighbor-sum-service) |
 ## Randomized
 |  |
 | ------- |
