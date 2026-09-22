@@ -405,6 +405,7 @@
 | [2404-most-frequent-even-element](https://github.com/Pradnesh02/LeetCode-/tree/master/2404-most-frequent-even-element) |
 | [2405-optimal-partition-of-string](https://github.com/Pradnesh02/LeetCode-/tree/master/2405-optimal-partition-of-string) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/Pradnesh02/LeetCode-/tree/master/2423-remove-letter-to-equalize-frequency) |
+| [2424-longest-uploaded-prefix](https://github.com/Pradnesh02/LeetCode-/tree/master/2424-longest-uploaded-prefix) |
 | [2453-destroy-sequential-targets](https://github.com/Pradnesh02/LeetCode-/tree/master/2453-destroy-sequential-targets) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Pradnesh02/LeetCode-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2506-count-pairs-of-similar-strings](https://github.com/Pradnesh02/LeetCode-/tree/master/2506-count-pairs-of-similar-strings) |
@@ -559,6 +560,7 @@
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Pradnesh02/LeetCode-/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2336-smallest-number-in-infinite-set](https://github.com/Pradnesh02/LeetCode-/tree/master/2336-smallest-number-in-infinite-set) |
 | [2363-merge-similar-items](https://github.com/Pradnesh02/LeetCode-/tree/master/2363-merge-similar-items) |
+| [2424-longest-uploaded-prefix](https://github.com/Pradnesh02/LeetCode-/tree/master/2424-longest-uploaded-prefix) |
 | [2817-minimum-absolute-difference-between-elements-with-constraint](https://github.com/Pradnesh02/LeetCode-/tree/master/2817-minimum-absolute-difference-between-elements-with-constraint) |
 | [3477-fruits-into-baskets-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/3477-fruits-into-baskets-ii) |
 ## Database
@@ -1267,6 +1269,7 @@
 | [1632-rank-transform-of-a-matrix](https://github.com/Pradnesh02/LeetCode-/tree/master/1632-rank-transform-of-a-matrix) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Pradnesh02/LeetCode-/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1905-count-sub-islands](https://github.com/Pradnesh02/LeetCode-/tree/master/1905-count-sub-islands) |
+| [2424-longest-uploaded-prefix](https://github.com/Pradnesh02/LeetCode-/tree/master/2424-longest-uploaded-prefix) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Pradnesh02/LeetCode-/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Pradnesh02/LeetCode-/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Binary Search
@@ -1307,6 +1310,7 @@
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Pradnesh02/LeetCode-/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2258-escape-the-spreading-fire](https://github.com/Pradnesh02/LeetCode-/tree/master/2258-escape-the-spreading-fire) |
 | [2286-booking-concert-tickets-in-groups](https://github.com/Pradnesh02/LeetCode-/tree/master/2286-booking-concert-tickets-in-groups) |
+| [2424-longest-uploaded-prefix](https://github.com/Pradnesh02/LeetCode-/tree/master/2424-longest-uploaded-prefix) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/Pradnesh02/LeetCode-/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2555-maximize-win-from-two-segments](https://github.com/Pradnesh02/LeetCode-/tree/master/2555-maximize-win-from-two-segments) |
 | [2560-house-robber-iv](https://github.com/Pradnesh02/LeetCode-/tree/master/2560-house-robber-iv) |
@@ -1388,6 +1392,7 @@
 | [2336-smallest-number-in-infinite-set](https://github.com/Pradnesh02/LeetCode-/tree/master/2336-smallest-number-in-infinite-set) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/Pradnesh02/LeetCode-/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Pradnesh02/LeetCode-/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
+| [2424-longest-uploaded-prefix](https://github.com/Pradnesh02/LeetCode-/tree/master/2424-longest-uploaded-prefix) |
 | [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/Pradnesh02/LeetCode-/tree/master/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 | [3947-maximum-number-of-items-from-sale-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Prefix Sum
@@ -1634,6 +1639,7 @@
 | [2241-design-an-atm-machine](https://github.com/Pradnesh02/LeetCode-/tree/master/2241-design-an-atm-machine) |
 | [2286-booking-concert-tickets-in-groups](https://github.com/Pradnesh02/LeetCode-/tree/master/2286-booking-concert-tickets-in-groups) |
 | [2336-smallest-number-in-infinite-set](https://github.com/Pradnesh02/LeetCode-/tree/master/2336-smallest-number-in-infinite-set) |
+| [2424-longest-uploaded-prefix](https://github.com/Pradnesh02/LeetCode-/tree/master/2424-longest-uploaded-prefix) |
 | [2671-frequency-tracker](https://github.com/Pradnesh02/LeetCode-/tree/master/2671-frequency-tracker) |
 | [3242-design-neighbor-sum-service](https://github.com/Pradnesh02/LeetCode-/tree/master/3242-design-neighbor-sum-service) |
 ## Randomized
@@ -1659,6 +1665,7 @@
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Pradnesh02/LeetCode-/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2286-booking-concert-tickets-in-groups](https://github.com/Pradnesh02/LeetCode-/tree/master/2286-booking-concert-tickets-in-groups) |
 | [2407-longest-increasing-subsequence-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/2407-longest-increasing-subsequence-ii) |
+| [2424-longest-uploaded-prefix](https://github.com/Pradnesh02/LeetCode-/tree/master/2424-longest-uploaded-prefix) |
 | [3477-fruits-into-baskets-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/3477-fruits-into-baskets-ii) |
 | [3525-find-x-value-of-array-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/3525-find-x-value-of-array-ii) |
 ## Interactive
@@ -1684,6 +1691,7 @@
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Pradnesh02/LeetCode-/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [2286-booking-concert-tickets-in-groups](https://github.com/Pradnesh02/LeetCode-/tree/master/2286-booking-concert-tickets-in-groups) |
 | [2407-longest-increasing-subsequence-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/2407-longest-increasing-subsequence-ii) |
+| [2424-longest-uploaded-prefix](https://github.com/Pradnesh02/LeetCode-/tree/master/2424-longest-uploaded-prefix) |
 ## Queue
 |  |
 | ------- |
