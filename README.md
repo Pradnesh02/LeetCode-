@@ -175,6 +175,7 @@
 | [1630-arithmetic-subarrays](https://github.com/Pradnesh02/LeetCode-/tree/master/1630-arithmetic-subarrays) |
 | [1632-rank-transform-of-a-matrix](https://github.com/Pradnesh02/LeetCode-/tree/master/1632-rank-transform-of-a-matrix) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Pradnesh02/LeetCode-/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1656-design-an-ordered-stream](https://github.com/Pradnesh02/LeetCode-/tree/master/1656-design-an-ordered-stream) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Pradnesh02/LeetCode-/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Pradnesh02/LeetCode-/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1686-stone-game-vi](https://github.com/Pradnesh02/LeetCode-/tree/master/1686-stone-game-vi) |
@@ -383,6 +384,7 @@
 | [1630-arithmetic-subarrays](https://github.com/Pradnesh02/LeetCode-/tree/master/1630-arithmetic-subarrays) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Pradnesh02/LeetCode-/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Pradnesh02/LeetCode-/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
+| [1656-design-an-ordered-stream](https://github.com/Pradnesh02/LeetCode-/tree/master/1656-design-an-ordered-stream) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Pradnesh02/LeetCode-/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/Pradnesh02/LeetCode-/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1787-make-the-xor-of-all-segments-equal-to-zero](https://github.com/Pradnesh02/LeetCode-/tree/master/1787-make-the-xor-of-all-segments-equal-to-zero) |
@@ -1635,6 +1637,7 @@
 | [0731-my-calendar-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/0731-my-calendar-ii) |
 | [0900-rle-iterator](https://github.com/Pradnesh02/LeetCode-/tree/master/0900-rle-iterator) |
 | [0911-online-election](https://github.com/Pradnesh02/LeetCode-/tree/master/0911-online-election) |
+| [1656-design-an-ordered-stream](https://github.com/Pradnesh02/LeetCode-/tree/master/1656-design-an-ordered-stream) |
 | [2043-simple-bank-system](https://github.com/Pradnesh02/LeetCode-/tree/master/2043-simple-bank-system) |
 | [2241-design-an-atm-machine](https://github.com/Pradnesh02/LeetCode-/tree/master/2241-design-an-atm-machine) |
 | [2286-booking-concert-tickets-in-groups](https://github.com/Pradnesh02/LeetCode-/tree/master/2286-booking-concert-tickets-in-groups) |
@@ -1812,4 +1815,8 @@
 |  |
 | ------- |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/Pradnesh02/LeetCode-/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
+## Data Stream
+|  |
+| ------- |
+| [1656-design-an-ordered-stream](https://github.com/Pradnesh02/LeetCode-/tree/master/1656-design-an-ordered-stream) |
 <!---LeetCode Topics End-->
