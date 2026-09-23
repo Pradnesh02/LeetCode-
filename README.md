@@ -97,6 +97,7 @@
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0528-random-pick-with-weight](https://github.com/Pradnesh02/LeetCode-/tree/master/0528-random-pick-with-weight) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Pradnesh02/LeetCode-/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Pradnesh02/LeetCode-/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/Pradnesh02/LeetCode-/tree/master/0566-reshape-the-matrix) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Pradnesh02/LeetCode-/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0605-can-place-flowers](https://github.com/Pradnesh02/LeetCode-/tree/master/0605-can-place-flowers) |
@@ -355,6 +356,7 @@
 | [0454-4sum-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/0454-4sum-ii) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Pradnesh02/LeetCode-/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Pradnesh02/LeetCode-/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Pradnesh02/LeetCode-/tree/master/0567-permutation-in-string) |
 | [0648-replace-words](https://github.com/Pradnesh02/LeetCode-/tree/master/0648-replace-words) |
 | [0676-implement-magic-dictionary](https://github.com/Pradnesh02/LeetCode-/tree/master/0676-implement-magic-dictionary) |
@@ -1406,6 +1408,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Pradnesh02/LeetCode-/tree/master/0209-minimum-size-subarray-sum) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/Pradnesh02/LeetCode-/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0528-random-pick-with-weight](https://github.com/Pradnesh02/LeetCode-/tree/master/0528-random-pick-with-weight) |
+| [0560-subarray-sum-equals-k](https://github.com/Pradnesh02/LeetCode-/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Pradnesh02/LeetCode-/tree/master/0713-subarray-product-less-than-k) |
 | [0731-my-calendar-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/0731-my-calendar-ii) |
 | [1004-max-consecutive-ones-iii](https://github.com/Pradnesh02/LeetCode-/tree/master/1004-max-consecutive-ones-iii) |
