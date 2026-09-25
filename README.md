@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Pradnesh02/LeetCode-/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Pradnesh02/LeetCode-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Pradnesh02/LeetCode-/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Pradnesh02/LeetCode-/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/Pradnesh02/LeetCode-/tree/master/0206-reverse-linked-list) |
@@ -460,6 +461,7 @@
 | [0011-container-with-most-water](https://github.com/Pradnesh02/LeetCode-/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Pradnesh02/LeetCode-/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Pradnesh02/LeetCode-/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Pradnesh02/LeetCode-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/Pradnesh02/LeetCode-/tree/master/0031-next-permutation) |
 | [0202-happy-number](https://github.com/Pradnesh02/LeetCode-/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Pradnesh02/LeetCode-/tree/master/0234-palindrome-linked-list) |
