@@ -196,6 +196,7 @@
 | [1776-car-fleet-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/1776-car-fleet-ii) |
 | [1787-make-the-xor-of-all-segments-equal-to-zero](https://github.com/Pradnesh02/LeetCode-/tree/master/1787-make-the-xor-of-all-segments-equal-to-zero) |
 | [1803-count-pairs-with-xor-in-a-range](https://github.com/Pradnesh02/LeetCode-/tree/master/1803-count-pairs-with-xor-in-a-range) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Pradnesh02/LeetCode-/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1824-minimum-sideway-jumps](https://github.com/Pradnesh02/LeetCode-/tree/master/1824-minimum-sideway-jumps) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/Pradnesh02/LeetCode-/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [1872-stone-game-viii](https://github.com/Pradnesh02/LeetCode-/tree/master/1872-stone-game-viii) |
@@ -402,6 +403,7 @@
 | [1684-count-the-number-of-consistent-strings](https://github.com/Pradnesh02/LeetCode-/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/Pradnesh02/LeetCode-/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1787-make-the-xor-of-all-segments-equal-to-zero](https://github.com/Pradnesh02/LeetCode-/tree/master/1787-make-the-xor-of-all-segments-equal-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Pradnesh02/LeetCode-/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1915-number-of-wonderful-substrings](https://github.com/Pradnesh02/LeetCode-/tree/master/1915-number-of-wonderful-substrings) |
 | [2043-simple-bank-system](https://github.com/Pradnesh02/LeetCode-/tree/master/2043-simple-bank-system) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/Pradnesh02/LeetCode-/tree/master/2062-count-vowel-substrings-of-a-string) |
@@ -786,6 +788,7 @@
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Pradnesh02/LeetCode-/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1702-maximum-binary-string-after-change](https://github.com/Pradnesh02/LeetCode-/tree/master/1702-maximum-binary-string-after-change) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Pradnesh02/LeetCode-/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Pradnesh02/LeetCode-/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/Pradnesh02/LeetCode-/tree/master/1839-longest-substring-of-all-vowels-in-order) |
 | [1859-sorting-the-sentence](https://github.com/Pradnesh02/LeetCode-/tree/master/1859-sorting-the-sentence) |
 | [1871-jump-game-vii](https://github.com/Pradnesh02/LeetCode-/tree/master/1871-jump-game-vii) |
