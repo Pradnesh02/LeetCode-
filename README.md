@@ -121,6 +121,7 @@
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Pradnesh02/LeetCode-/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0748-shortest-completing-word](https://github.com/Pradnesh02/LeetCode-/tree/master/0748-shortest-completing-word) |
 | [0789-escape-the-ghosts](https://github.com/Pradnesh02/LeetCode-/tree/master/0789-escape-the-ghosts) |
+| [0806-number-of-lines-to-write-string](https://github.com/Pradnesh02/LeetCode-/tree/master/0806-number-of-lines-to-write-string) |
 | [0835-image-overlap](https://github.com/Pradnesh02/LeetCode-/tree/master/0835-image-overlap) |
 | [0840-magic-squares-in-grid](https://github.com/Pradnesh02/LeetCode-/tree/master/0840-magic-squares-in-grid) |
 | [0853-car-fleet](https://github.com/Pradnesh02/LeetCode-/tree/master/0853-car-fleet) |
@@ -767,6 +768,7 @@
 | [0730-count-different-palindromic-subsequences](https://github.com/Pradnesh02/LeetCode-/tree/master/0730-count-different-palindromic-subsequences) |
 | [0748-shortest-completing-word](https://github.com/Pradnesh02/LeetCode-/tree/master/0748-shortest-completing-word) |
 | [0763-partition-labels](https://github.com/Pradnesh02/LeetCode-/tree/master/0763-partition-labels) |
+| [0806-number-of-lines-to-write-string](https://github.com/Pradnesh02/LeetCode-/tree/master/0806-number-of-lines-to-write-string) |
 | [0940-distinct-subsequences-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/0940-distinct-subsequences-ii) |
 | [0942-di-string-match](https://github.com/Pradnesh02/LeetCode-/tree/master/0942-di-string-match) |
 | [0966-vowel-spellchecker](https://github.com/Pradnesh02/LeetCode-/tree/master/0966-vowel-spellchecker) |
