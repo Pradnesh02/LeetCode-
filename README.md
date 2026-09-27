@@ -474,6 +474,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Pradnesh02/LeetCode-/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0541-reverse-string-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/Pradnesh02/LeetCode-/tree/master/0567-permutation-in-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Pradnesh02/LeetCode-/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0658-find-k-closest-elements](https://github.com/Pradnesh02/LeetCode-/tree/master/0658-find-k-closest-elements) |
@@ -757,6 +758,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/Pradnesh02/LeetCode-/tree/master/0516-longest-palindromic-subsequence) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/Pradnesh02/LeetCode-/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/0522-longest-uncommon-subsequence-ii) |
+| [0541-reverse-string-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/Pradnesh02/LeetCode-/tree/master/0567-permutation-in-string) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Pradnesh02/LeetCode-/tree/master/0592-fraction-addition-and-subtraction) |
 | [0640-solve-the-equation](https://github.com/Pradnesh02/LeetCode-/tree/master/0640-solve-the-equation) |
