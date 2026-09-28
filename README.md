@@ -777,6 +777,7 @@
 | [1071-greatest-common-divisor-of-strings](https://github.com/Pradnesh02/LeetCode-/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1078-occurrences-after-bigram](https://github.com/Pradnesh02/LeetCode-/tree/master/1078-occurrences-after-bigram) |
 | [1096-brace-expansion-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/1096-brace-expansion-ii) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Pradnesh02/LeetCode-/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1154-day-of-the-year](https://github.com/Pradnesh02/LeetCode-/tree/master/1154-day-of-the-year) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Pradnesh02/LeetCode-/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Pradnesh02/LeetCode-/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
@@ -1030,6 +1031,7 @@
 | [0975-odd-even-jump](https://github.com/Pradnesh02/LeetCode-/tree/master/0975-odd-even-jump) |
 | [1006-clumsy-factorial](https://github.com/Pradnesh02/LeetCode-/tree/master/1006-clumsy-factorial) |
 | [1096-brace-expansion-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/1096-brace-expansion-ii) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Pradnesh02/LeetCode-/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Pradnesh02/LeetCode-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Pradnesh02/LeetCode-/tree/master/1441-build-an-array-with-stack-operations) |
 | [1504-count-submatrices-with-all-ones](https://github.com/Pradnesh02/LeetCode-/tree/master/1504-count-submatrices-with-all-ones) |
@@ -1630,6 +1632,7 @@
 | [0020-valid-parentheses](https://github.com/Pradnesh02/LeetCode-/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Pradnesh02/LeetCode-/tree/master/0022-generate-parentheses) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Pradnesh02/LeetCode-/tree/master/0241-different-ways-to-add-parentheses) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Pradnesh02/LeetCode-/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Pradnesh02/LeetCode-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Pradnesh02/LeetCode-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Linear Algebra
