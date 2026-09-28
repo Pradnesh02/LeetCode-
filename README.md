@@ -194,6 +194,7 @@
 | [1732-find-the-highest-altitude](https://github.com/Pradnesh02/LeetCode-/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Pradnesh02/LeetCode-/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Pradnesh02/LeetCode-/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1773-count-items-matching-a-rule](https://github.com/Pradnesh02/LeetCode-/tree/master/1773-count-items-matching-a-rule) |
 | [1776-car-fleet-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/1776-car-fleet-ii) |
 | [1787-make-the-xor-of-all-segments-equal-to-zero](https://github.com/Pradnesh02/LeetCode-/tree/master/1787-make-the-xor-of-all-segments-equal-to-zero) |
 | [1803-count-pairs-with-xor-in-a-range](https://github.com/Pradnesh02/LeetCode-/tree/master/1803-count-pairs-with-xor-in-a-range) |
@@ -796,6 +797,7 @@
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Pradnesh02/LeetCode-/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1702-maximum-binary-string-after-change](https://github.com/Pradnesh02/LeetCode-/tree/master/1702-maximum-binary-string-after-change) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Pradnesh02/LeetCode-/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1773-count-items-matching-a-rule](https://github.com/Pradnesh02/LeetCode-/tree/master/1773-count-items-matching-a-rule) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Pradnesh02/LeetCode-/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/Pradnesh02/LeetCode-/tree/master/1839-longest-substring-of-all-vowels-in-order) |
 | [1859-sorting-the-sentence](https://github.com/Pradnesh02/LeetCode-/tree/master/1859-sorting-the-sentence) |
