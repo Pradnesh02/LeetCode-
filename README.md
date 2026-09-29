@@ -237,6 +237,7 @@
 | [2241-design-an-atm-machine](https://github.com/Pradnesh02/LeetCode-/tree/master/2241-design-an-atm-machine) |
 | [2249-count-lattice-points-inside-a-circle](https://github.com/Pradnesh02/LeetCode-/tree/master/2249-count-lattice-points-inside-a-circle) |
 | [2258-escape-the-spreading-fire](https://github.com/Pradnesh02/LeetCode-/tree/master/2258-escape-the-spreading-fire) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Pradnesh02/LeetCode-/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Pradnesh02/LeetCode-/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2284-sender-with-largest-word-count](https://github.com/Pradnesh02/LeetCode-/tree/master/2284-sender-with-largest-word-count) |
 | [2293-min-max-game](https://github.com/Pradnesh02/LeetCode-/tree/master/2293-min-max-game) |
@@ -1103,6 +1104,7 @@
 | [2054-two-best-non-overlapping-events](https://github.com/Pradnesh02/LeetCode-/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Pradnesh02/LeetCode-/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2140-solving-questions-with-brainpower](https://github.com/Pradnesh02/LeetCode-/tree/master/2140-solving-questions-with-brainpower) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Pradnesh02/LeetCode-/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2311-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Pradnesh02/LeetCode-/tree/master/2311-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2370-longest-ideal-subsequence](https://github.com/Pradnesh02/LeetCode-/tree/master/2370-longest-ideal-subsequence) |
 | [2400-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/Pradnesh02/LeetCode-/tree/master/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
@@ -1235,6 +1237,7 @@
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Pradnesh02/LeetCode-/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2146-k-highest-ranked-items-within-a-price-range](https://github.com/Pradnesh02/LeetCode-/tree/master/2146-k-highest-ranked-items-within-a-price-range) |
 | [2258-escape-the-spreading-fire](https://github.com/Pradnesh02/LeetCode-/tree/master/2258-escape-the-spreading-fire) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Pradnesh02/LeetCode-/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Pradnesh02/LeetCode-/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/Pradnesh02/LeetCode-/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
 | [3197-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/3197-find-the-minimum-area-to-cover-all-ones-ii) |
@@ -1639,6 +1642,7 @@
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Pradnesh02/LeetCode-/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Pradnesh02/LeetCode-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Pradnesh02/LeetCode-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Pradnesh02/LeetCode-/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Linear Algebra
 |  |
 | ------- |
