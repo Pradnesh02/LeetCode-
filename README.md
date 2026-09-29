@@ -124,6 +124,7 @@
 | [0806-number-of-lines-to-write-string](https://github.com/Pradnesh02/LeetCode-/tree/master/0806-number-of-lines-to-write-string) |
 | [0835-image-overlap](https://github.com/Pradnesh02/LeetCode-/tree/master/0835-image-overlap) |
 | [0840-magic-squares-in-grid](https://github.com/Pradnesh02/LeetCode-/tree/master/0840-magic-squares-in-grid) |
+| [0851-loud-and-rich](https://github.com/Pradnesh02/LeetCode-/tree/master/0851-loud-and-rich) |
 | [0853-car-fleet](https://github.com/Pradnesh02/LeetCode-/tree/master/0853-car-fleet) |
 | [0860-lemonade-change](https://github.com/Pradnesh02/LeetCode-/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/Pradnesh02/LeetCode-/tree/master/0875-koko-eating-bananas) |
@@ -1271,6 +1272,7 @@
 | [0695-max-area-of-island](https://github.com/Pradnesh02/LeetCode-/tree/master/0695-max-area-of-island) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Pradnesh02/LeetCode-/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0834-sum-of-distances-in-tree](https://github.com/Pradnesh02/LeetCode-/tree/master/0834-sum-of-distances-in-tree) |
+| [0851-loud-and-rich](https://github.com/Pradnesh02/LeetCode-/tree/master/0851-loud-and-rich) |
 | [0934-shortest-bridge](https://github.com/Pradnesh02/LeetCode-/tree/master/0934-shortest-bridge) |
 | [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/Pradnesh02/LeetCode-/tree/master/1080-insufficient-nodes-in-root-to-leaf-paths) |
 | [1202-smallest-string-with-swaps](https://github.com/Pradnesh02/LeetCode-/tree/master/1202-smallest-string-with-swaps) |
@@ -1385,6 +1387,7 @@
 | ------- |
 | [0399-evaluate-division](https://github.com/Pradnesh02/LeetCode-/tree/master/0399-evaluate-division) |
 | [0834-sum-of-distances-in-tree](https://github.com/Pradnesh02/LeetCode-/tree/master/0834-sum-of-distances-in-tree) |
+| [0851-loud-and-rich](https://github.com/Pradnesh02/LeetCode-/tree/master/0851-loud-and-rich) |
 | [0913-cat-and-mouse](https://github.com/Pradnesh02/LeetCode-/tree/master/0913-cat-and-mouse) |
 | [1632-rank-transform-of-a-matrix](https://github.com/Pradnesh02/LeetCode-/tree/master/1632-rank-transform-of-a-matrix) |
 | [1728-cat-and-mouse-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/1728-cat-and-mouse-ii) |
@@ -1688,6 +1691,7 @@
 ## Directed Acyclic Graph
 |  |
 | ------- |
+| [0851-loud-and-rich](https://github.com/Pradnesh02/LeetCode-/tree/master/0851-loud-and-rich) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Pradnesh02/LeetCode-/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Design
 |  |
@@ -1742,6 +1746,7 @@
 ## Topological Sort
 |  |
 | ------- |
+| [0851-loud-and-rich](https://github.com/Pradnesh02/LeetCode-/tree/master/0851-loud-and-rich) |
 | [0913-cat-and-mouse](https://github.com/Pradnesh02/LeetCode-/tree/master/0913-cat-and-mouse) |
 | [1632-rank-transform-of-a-matrix](https://github.com/Pradnesh02/LeetCode-/tree/master/1632-rank-transform-of-a-matrix) |
 | [1728-cat-and-mouse-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/1728-cat-and-mouse-ii) |
