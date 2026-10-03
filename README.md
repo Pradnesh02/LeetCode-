@@ -482,6 +482,7 @@
 | [0202-happy-number](https://github.com/Pradnesh02/LeetCode-/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Pradnesh02/LeetCode-/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/Pradnesh02/LeetCode-/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Pradnesh02/LeetCode-/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Pradnesh02/LeetCode-/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -759,6 +760,7 @@
 | [0242-valid-anagram](https://github.com/Pradnesh02/LeetCode-/tree/master/0242-valid-anagram) |
 | [0336-palindrome-pairs](https://github.com/Pradnesh02/LeetCode-/tree/master/0336-palindrome-pairs) |
 | [0344-reverse-string](https://github.com/Pradnesh02/LeetCode-/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Pradnesh02/LeetCode-/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Pradnesh02/LeetCode-/tree/master/0383-ransom-note) |
 | [0385-mini-parser](https://github.com/Pradnesh02/LeetCode-/tree/master/0385-mini-parser) |
 | [0388-longest-absolute-file-path](https://github.com/Pradnesh02/LeetCode-/tree/master/0388-longest-absolute-file-path) |
