@@ -741,6 +741,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Pradnesh02/LeetCode-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Pradnesh02/LeetCode-/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Pradnesh02/LeetCode-/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Pradnesh02/LeetCode-/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/Pradnesh02/LeetCode-/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/Pradnesh02/LeetCode-/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/Pradnesh02/LeetCode-/tree/master/0049-group-anagrams) |
@@ -1038,6 +1039,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Pradnesh02/LeetCode-/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Pradnesh02/LeetCode-/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Pradnesh02/LeetCode-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Pradnesh02/LeetCode-/tree/master/0234-palindrome-linked-list) |
 | [0385-mini-parser](https://github.com/Pradnesh02/LeetCode-/tree/master/0385-mini-parser) |
@@ -1062,6 +1064,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Pradnesh02/LeetCode-/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Pradnesh02/LeetCode-/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Pradnesh02/LeetCode-/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Pradnesh02/LeetCode-/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/Pradnesh02/LeetCode-/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Pradnesh02/LeetCode-/tree/master/0053-maximum-subarray) |
@@ -1657,6 +1660,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Pradnesh02/LeetCode-/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Pradnesh02/LeetCode-/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Pradnesh02/LeetCode-/tree/master/0032-longest-valid-parentheses) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Pradnesh02/LeetCode-/tree/master/0241-different-ways-to-add-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Pradnesh02/LeetCode-/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Pradnesh02/LeetCode-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
