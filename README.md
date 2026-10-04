@@ -803,6 +803,7 @@
 | [1202-smallest-string-with-swaps](https://github.com/Pradnesh02/LeetCode-/tree/master/1202-smallest-string-with-swaps) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Pradnesh02/LeetCode-/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1234-replace-the-substring-for-balanced-string](https://github.com/Pradnesh02/LeetCode-/tree/master/1234-replace-the-substring-for-balanced-string) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Pradnesh02/LeetCode-/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1360-number-of-days-between-two-dates](https://github.com/Pradnesh02/LeetCode-/tree/master/1360-number-of-days-between-two-dates) |
 | [1366-rank-teams-by-votes](https://github.com/Pradnesh02/LeetCode-/tree/master/1366-rank-teams-by-votes) |
 | [1447-simplified-fractions](https://github.com/Pradnesh02/LeetCode-/tree/master/1447-simplified-fractions) |
@@ -1061,6 +1062,7 @@
 | [1096-brace-expansion-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Pradnesh02/LeetCode-/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Pradnesh02/LeetCode-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Pradnesh02/LeetCode-/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Pradnesh02/LeetCode-/tree/master/1441-build-an-array-with-stack-operations) |
 | [1504-count-submatrices-with-all-ones](https://github.com/Pradnesh02/LeetCode-/tree/master/1504-count-submatrices-with-all-ones) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Pradnesh02/LeetCode-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
