@@ -783,6 +783,7 @@
 | [0649-dota2-senate](https://github.com/Pradnesh02/LeetCode-/tree/master/0649-dota2-senate) |
 | [0657-robot-return-to-origin](https://github.com/Pradnesh02/LeetCode-/tree/master/0657-robot-return-to-origin) |
 | [0676-implement-magic-dictionary](https://github.com/Pradnesh02/LeetCode-/tree/master/0676-implement-magic-dictionary) |
+| [0678-valid-parenthesis-string](https://github.com/Pradnesh02/LeetCode-/tree/master/0678-valid-parenthesis-string) |
 | [0722-remove-comments](https://github.com/Pradnesh02/LeetCode-/tree/master/0722-remove-comments) |
 | [0730-count-different-palindromic-subsequences](https://github.com/Pradnesh02/LeetCode-/tree/master/0730-count-different-palindromic-subsequences) |
 | [0748-shortest-completing-word](https://github.com/Pradnesh02/LeetCode-/tree/master/0748-shortest-completing-word) |
@@ -888,6 +889,7 @@
 | [0605-can-place-flowers](https://github.com/Pradnesh02/LeetCode-/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/Pradnesh02/LeetCode-/tree/master/0649-dota2-senate) |
 | [0670-maximum-swap](https://github.com/Pradnesh02/LeetCode-/tree/master/0670-maximum-swap) |
+| [0678-valid-parenthesis-string](https://github.com/Pradnesh02/LeetCode-/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/Pradnesh02/LeetCode-/tree/master/0763-partition-labels) |
 | [0860-lemonade-change](https://github.com/Pradnesh02/LeetCode-/tree/master/0860-lemonade-change) |
 | [0942-di-string-match](https://github.com/Pradnesh02/LeetCode-/tree/master/0942-di-string-match) |
@@ -1049,6 +1051,7 @@
 | [0385-mini-parser](https://github.com/Pradnesh02/LeetCode-/tree/master/0385-mini-parser) |
 | [0388-longest-absolute-file-path](https://github.com/Pradnesh02/LeetCode-/tree/master/0388-longest-absolute-file-path) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Pradnesh02/LeetCode-/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0678-valid-parenthesis-string](https://github.com/Pradnesh02/LeetCode-/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/Pradnesh02/LeetCode-/tree/master/0735-asteroid-collision) |
 | [0853-car-fleet](https://github.com/Pradnesh02/LeetCode-/tree/master/0853-car-fleet) |
 | [0975-odd-even-jump](https://github.com/Pradnesh02/LeetCode-/tree/master/0975-odd-even-jump) |
@@ -1098,6 +1101,7 @@
 | [0486-predict-the-winner](https://github.com/Pradnesh02/LeetCode-/tree/master/0486-predict-the-winner) |
 | [0516-longest-palindromic-subsequence](https://github.com/Pradnesh02/LeetCode-/tree/master/0516-longest-palindromic-subsequence) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Pradnesh02/LeetCode-/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/Pradnesh02/LeetCode-/tree/master/0678-valid-parenthesis-string) |
 | [0730-count-different-palindromic-subsequences](https://github.com/Pradnesh02/LeetCode-/tree/master/0730-count-different-palindromic-subsequences) |
 | [0834-sum-of-distances-in-tree](https://github.com/Pradnesh02/LeetCode-/tree/master/0834-sum-of-distances-in-tree) |
 | [0877-stone-game](https://github.com/Pradnesh02/LeetCode-/tree/master/0877-stone-game) |
@@ -1666,6 +1670,7 @@
 | [0022-generate-parentheses](https://github.com/Pradnesh02/LeetCode-/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Pradnesh02/LeetCode-/tree/master/0032-longest-valid-parentheses) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Pradnesh02/LeetCode-/tree/master/0241-different-ways-to-add-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Pradnesh02/LeetCode-/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Pradnesh02/LeetCode-/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Pradnesh02/LeetCode-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Pradnesh02/LeetCode-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
