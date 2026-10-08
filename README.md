@@ -792,6 +792,7 @@
 | [0940-distinct-subsequences-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/0940-distinct-subsequences-ii) |
 | [0942-di-string-match](https://github.com/Pradnesh02/LeetCode-/tree/master/0942-di-string-match) |
 | [0966-vowel-spellchecker](https://github.com/Pradnesh02/LeetCode-/tree/master/0966-vowel-spellchecker) |
+| [1021-remove-outermost-parentheses](https://github.com/Pradnesh02/LeetCode-/tree/master/1021-remove-outermost-parentheses) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Pradnesh02/LeetCode-/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1078-occurrences-after-bigram](https://github.com/Pradnesh02/LeetCode-/tree/master/1078-occurrences-after-bigram) |
 | [1096-brace-expansion-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/1096-brace-expansion-ii) |
@@ -1059,6 +1060,7 @@
 | [0853-car-fleet](https://github.com/Pradnesh02/LeetCode-/tree/master/0853-car-fleet) |
 | [0975-odd-even-jump](https://github.com/Pradnesh02/LeetCode-/tree/master/0975-odd-even-jump) |
 | [1006-clumsy-factorial](https://github.com/Pradnesh02/LeetCode-/tree/master/1006-clumsy-factorial) |
+| [1021-remove-outermost-parentheses](https://github.com/Pradnesh02/LeetCode-/tree/master/1021-remove-outermost-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Pradnesh02/LeetCode-/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Pradnesh02/LeetCode-/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Pradnesh02/LeetCode-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -1676,6 +1678,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Pradnesh02/LeetCode-/tree/master/0032-longest-valid-parentheses) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Pradnesh02/LeetCode-/tree/master/0241-different-ways-to-add-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Pradnesh02/LeetCode-/tree/master/0678-valid-parenthesis-string) |
+| [1021-remove-outermost-parentheses](https://github.com/Pradnesh02/LeetCode-/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Pradnesh02/LeetCode-/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Pradnesh02/LeetCode-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Pradnesh02/LeetCode-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
