@@ -202,6 +202,7 @@
 | [1787-make-the-xor-of-all-segments-equal-to-zero](https://github.com/Pradnesh02/LeetCode-/tree/master/1787-make-the-xor-of-all-segments-equal-to-zero) |
 | [1803-count-pairs-with-xor-in-a-range](https://github.com/Pradnesh02/LeetCode-/tree/master/1803-count-pairs-with-xor-in-a-range) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Pradnesh02/LeetCode-/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1816-truncate-sentence](https://github.com/Pradnesh02/LeetCode-/tree/master/1816-truncate-sentence) |
 | [1824-minimum-sideway-jumps](https://github.com/Pradnesh02/LeetCode-/tree/master/1824-minimum-sideway-jumps) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/Pradnesh02/LeetCode-/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [1872-stone-game-viii](https://github.com/Pradnesh02/LeetCode-/tree/master/1872-stone-game-viii) |
@@ -818,6 +819,7 @@
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Pradnesh02/LeetCode-/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1773-count-items-matching-a-rule](https://github.com/Pradnesh02/LeetCode-/tree/master/1773-count-items-matching-a-rule) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Pradnesh02/LeetCode-/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1816-truncate-sentence](https://github.com/Pradnesh02/LeetCode-/tree/master/1816-truncate-sentence) |
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/Pradnesh02/LeetCode-/tree/master/1839-longest-substring-of-all-vowels-in-order) |
 | [1859-sorting-the-sentence](https://github.com/Pradnesh02/LeetCode-/tree/master/1859-sorting-the-sentence) |
 | [1871-jump-game-vii](https://github.com/Pradnesh02/LeetCode-/tree/master/1871-jump-game-vii) |
